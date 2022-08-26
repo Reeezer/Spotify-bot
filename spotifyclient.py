@@ -42,6 +42,24 @@ class SpotifyClient:
         tracks = [Track(track["name"], track["id"], track["artists"][0]["name"]) for track in response_json["tracks"]]
         return tracks
 
+    def get_user_playlists(self):
+        # Get all the playlists of the user
+        url = f"https://api.spotify.com/v1/me/playlists"
+        
+        response = self._api_request(url, RequestType.GET)
+        response_json = response.json()
+        
+        playlists = [Playlist(playlist["name"], playlist["id"]) for playlist in response_json["items"]]
+        return playlists
+
+    def get_liked_tracks(self, limit=50):
+        # Get the liked tracks of the user
+        url = f"https://api.spotify.com/v1/me/tracks?limit={limit}"
+        response = self._api_request(url, RequestType.GET)
+        response_json = response.json()
+        tracks = [Track(track["track"]["name"], track["track"]["id"], track["track"]["artists"][0]["name"]) for track in response_json["items"]]
+        return tracks
+
     def create_playlist(self, name: str, description: str, public=True):
         # Create a playlist
         url = f"https://api.spotify.com/v1/users/{self._user_id}/playlists"
@@ -54,16 +72,6 @@ class SpotifyClient:
         playlist = Playlist(name, playlist_id)
         return playlist
 
-    def get_playlist_tracks(self, playlist: Playlist):
-        # Get the tracks of a playlist
-        url = f"https://api.spotify.com/v1/playlists/{playlist.id}/tracks"
-        
-        response = self._api_request(url, RequestType.GET)
-        response_json = response.json()
-        
-        tracks = [Track(track["track"]["name"], track["track"]["id"], track["track"]["artists"][0]["name"]) for track in response_json["items"]]
-        return tracks
-
     def populate_playlist(self, playlist: Playlist, tracks: list[Track]):
         # Add tracks to a playlist
         url = f"https://api.spotify.com/v1/playlists/{playlist.id}/tracks"
@@ -75,6 +83,16 @@ class SpotifyClient:
         response_json = response.json()
 
         return response_json
+
+    def get_playlist_tracks(self, playlist: Playlist):
+        # Get the tracks of a playlist
+        url = f"https://api.spotify.com/v1/playlists/{playlist.id}/tracks"
+
+        response = self._api_request(url, RequestType.GET)
+        response_json = response.json()
+
+        tracks = [Track(track["track"]["name"], track["track"]["id"], track["track"]["artists"][0]["name"]) for track in response_json["items"]]
+        return tracks
 
     def remove_tracks_from_playlist(self, playlist: Playlist, tracks: list[Track]):
         # Delete a playlist
@@ -101,7 +119,7 @@ class SpotifyClient:
             response = requests.delete(url, data=data, headers={"Content-Type": "application/json", "Authorization": f"Bearer {self._authorization_token}"})
 
         if response.status_code < 200 or response.status_code >= 300:
-            print(colored(f"*** Error while performing the request: {response.status_code}", "red"))
+            print(colored(f"*** Error while performing the request: {url} ({response.status_code})", "red"))
             print(colored(response.text, "red"))
             exit()
 
