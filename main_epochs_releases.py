@@ -1,6 +1,5 @@
 from spotifyclient import SpotifyClient
 import utils.credentials as credentials
-from datetime import datetime, timedelta
 
 from models.track import Track
 from utils.helper import Helper
