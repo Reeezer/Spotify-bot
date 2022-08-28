@@ -21,9 +21,13 @@ class RequestType(Enum):
 class SpotifyClient:
     """SpotifyClient performs operations using the Spotify API."""
 
+    ##### Construcor #####
+
     def __init__(self, authorization_token, user_id):
         self._authorization_token = authorization_token
         self._user_id = user_id
+
+    ##### Simple Getters #####
 
     def get_last_played_tracks(self, limit=10):
         # Get the last N tracks played by the user
@@ -62,82 +66,14 @@ class SpotifyClient:
 
         return tracks
 
-    def get_all_liked_tracks(self):
-        # Get all the liked tracks of the user
-        tracks = []
-        offset = 0
-        limit = 50
-
-        while True:
-            liked_tracks = self.get_liked_tracks(limit=limit, offset=offset)
-            tracks += liked_tracks
-            if len(liked_tracks) < limit:
-                break
-            offset += limit
-
-        return tracks
-
-    def create_playlist(self, name: str, description: str, public=True):
-        # Create a playlist
-        url = f"https://api.spotify.com/v1/users/{self._user_id}/playlists"
-
-        data = json.dumps({"name": name, "description": description, "public": public})
-        response = self._api_request(url, RequestType.POST, data)
-        response_json = response.json()
-
-        playlist = Playlist(response_json["id"], name, description)
-
-        return playlist
-
-    def populate_playlist(self, playlist: Playlist, tracks: list[Track]):
-        # Add tracks to a playlist
-        url = f"https://api.spotify.com/v1/playlists/{playlist.id}/tracks"
-
-        tracks_copy = deepcopy(tracks)
-
-        extra_tracks_index = 1
-        while extra_tracks_index > 0:
-            extra_tracks_index = len(tracks_copy) - 100  # 100 is the maximum number of tracks that can be added at once
-            tracks_to_add = tracks_copy[:100]
-
-            track_uris = [track.create_spotify_uri() for track in tracks_to_add]
-            data = json.dumps(track_uris)
-
-            self._api_request(url, RequestType.POST, data)
-
-            tracks_copy = tracks_copy[100:]
-
-            if extra_tracks_index <= 0:
-                break
-
-    def get_playlist_tracks(self, playlist: Playlist):
+    def get_playlist_tracks(self, playlist: Playlist, limit=50, offset=0):
         # Get the tracks of a playlist
-        url = f"https://api.spotify.com/v1/playlists/{playlist.id}/tracks"
+        url = f"https://api.spotify.com/v1/playlists/{playlist.id}/tracks?limit={limit}&offset={offset}"
 
         response = self._api_request(url, RequestType.GET)
         tracks = JSON_Handler.list_of_tracks(response.json())
 
         return tracks
-
-    def remove_tracks_from_playlist(self, playlist: Playlist, tracks: list[Track]):
-        # Delete a playlist
-        url = f"https://api.spotify.com/v1/playlists/{playlist.id}/tracks"
-        data = json.dumps({"tracks": [{"uri": track.create_spotify_uri()} for track in tracks]})
-        self._api_request(url, RequestType.DELETE, data=data)
-
-    def follow_artist(self, artist: Artist):
-        # Follow an artist
-        url = f"https://api.spotify.com/v1/me/following?type=artist&ids={artist.id}"
-        self._api_request(url, RequestType.PUT)
-
-    def get_artist_albums(self, artist: Artist):
-        # Get all the albums of an artist
-        url = f"https://api.spotify.com/v1/artists/{artist.id}/albums"
-
-        response = self._api_request(url, RequestType.GET)
-        albums = JSON_Handler.list_of_albums(response.json())
-
-        return albums
 
     def get_album_tracks(self, album: Album, limit=50):
         # Get all the tracks of an album
@@ -160,6 +96,38 @@ class SpotifyClient:
 
         return artists
 
+    ##### Whole Getters #####
+
+    def get_all_liked_tracks(self):
+        # Get all the liked tracks of the user
+        tracks = []
+        offset = 0
+        limit = 50
+
+        while True:
+            liked_tracks = self.get_liked_tracks(limit=limit, offset=offset)
+            tracks += liked_tracks
+            if len(liked_tracks) < limit:
+                break
+            offset += limit
+
+        return tracks
+
+    def get_all_playlist_tracks(self, playlist: Playlist):
+        # Get all the tracks of a playlist
+        tracks = []
+        offset = 0
+        limit = 50
+
+        while True:
+            playlist_tracks = self.get_playlist_tracks(playlist, limit=limit, offset=offset)
+            tracks += playlist_tracks
+            if len(playlist_tracks) < limit:
+                break
+            offset += limit
+        
+        return tracks
+
     def get_all_followed_artists(self):
         # Get all the liked tracks of the user
         artists = []
@@ -174,6 +142,86 @@ class SpotifyClient:
             after = followed_artists[-1].id
 
         return artists
+
+    ##### Setters #####
+
+    def create_playlist(self, name: str, description: str, public=True):
+        # Check if the playlist already exists
+        user_playlists = self.get_user_playlists()
+        for playlist in user_playlists:
+            if playlist.name == name:
+                self.reset_playlist(playlist)
+                return playlist
+
+        # Create a playlist
+        url = f"https://api.spotify.com/v1/users/{self._user_id}/playlists"
+
+        data = json.dumps({"name": name, "description": description, "public": public})
+        response = self._api_request(url, RequestType.POST, data)
+        response_json = response.json()
+
+        playlist = Playlist(response_json["id"], name, description)
+
+        return playlist
+
+    def follow_artist(self, artist: Artist):
+        # Follow an artist
+        url = f"https://api.spotify.com/v1/me/following?type=artist&ids={artist.id}"
+        self._api_request(url, RequestType.PUT)
+
+    def populate_playlist(self, playlist: Playlist, tracks: list[Track]):
+        # Add tracks to a playlist
+        url = f"https://api.spotify.com/v1/playlists/{playlist.id}/tracks"
+
+        tracks_copy = deepcopy(tracks)
+
+        extra_tracks_index = 1
+        while extra_tracks_index > 0:
+            extra_tracks_index = len(tracks_copy) - 100  # 100 is the maximum number of tracks that can be added at once
+            tracks_to_add = tracks_copy[:100]
+
+            data = json.dumps([track.create_spotify_uri() for track in tracks_to_add])
+            self._api_request(url, RequestType.POST, data)
+
+            tracks_copy = tracks_copy[100:]
+            if extra_tracks_index <= 0:
+                break
+
+    ##### Delete #####
+
+    def remove_tracks_from_playlist(self, playlist: Playlist, tracks: list[Track]):
+        # Remove tracks from a playlist
+        url = f"https://api.spotify.com/v1/playlists/{playlist.id}/tracks"
+
+        tracks_copy = deepcopy(tracks)
+
+        extra_tracks_index = 1
+        while extra_tracks_index > 0:
+            extra_tracks_index = len(tracks_copy) - 100 # 100 is the maximum number of tracks that can be removed at once
+            tracks_to_remove = tracks_copy[:100]
+
+            data = json.dumps({"tracks": [{"uri": track.create_spotify_uri()} for track in tracks_to_remove]})
+            self._api_request(url, RequestType.DELETE, data)
+
+            tracks_copy = tracks_copy[100:]
+            if extra_tracks_index <= 0:
+                break
+    
+    def reset_playlist(self, playlist: Playlist):
+        # Delete all the tracks of a playlist
+        tracks = self.get_all_playlist_tracks(playlist)
+        self.remove_tracks_from_playlist(playlist, tracks)
+
+    def get_artist_albums(self, artist: Artist):
+        # Get all the albums of an artist
+        url = f"https://api.spotify.com/v1/artists/{artist.id}/albums"
+
+        response = self._api_request(url, RequestType.GET)
+        albums = JSON_Handler.list_of_albums(response.json())
+
+        return albums
+
+    ##### Private methods #####
 
     def _tracksurl_from_list(self, tracks: list):
         tracks_url = ""
