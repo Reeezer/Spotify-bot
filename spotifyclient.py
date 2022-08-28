@@ -2,6 +2,7 @@ import json
 import requests
 from enum import Enum
 from termcolor import colored
+from copy import deepcopy
 
 from track import Track
 from playlist import Playlist
@@ -28,7 +29,7 @@ class SpotifyClient:
         response = self._api_request(url, RequestType.GET)
         response_json = response.json()
 
-        tracks = [Track(track["track"]["name"], track["track"]["id"], track["track"]["artists"][0]["name"]) for track in response_json["items"]]
+        tracks = [Track(track["track"]["name"], track["track"]["id"], track["track"]["artists"][0]["name"], track["track"]["album"]["release_date"]) for track in response_json["items"]]
         return tracks
 
     def get_track_recommendations(self, seed_tracks: list[Track], limit=50):
@@ -39,7 +40,7 @@ class SpotifyClient:
         response = self._api_request(url, RequestType.GET)
         response_json = response.json()
 
-        tracks = [Track(track["name"], track["id"], track["artists"][0]["name"]) for track in response_json["tracks"]]
+        tracks = [Track(track["name"], track["id"], track["artists"][0]["name"], track["album"]["release_date"]) for track in response_json["tracks"]]
         return tracks
 
     def get_user_playlists(self):
@@ -52,12 +53,29 @@ class SpotifyClient:
         playlists = [Playlist(playlist["name"], playlist["id"]) for playlist in response_json["items"]]
         return playlists
 
-    def get_liked_tracks(self, limit=50):
+    def get_liked_tracks(self, limit=50, offset=0):
         # Get the liked tracks of the user
-        url = f"https://api.spotify.com/v1/me/tracks?limit={limit}"
+        url = f"https://api.spotify.com/v1/me/tracks?limit={limit}&offset={offset}"
+        
         response = self._api_request(url, RequestType.GET)
         response_json = response.json()
-        tracks = [Track(track["track"]["name"], track["track"]["id"], track["track"]["artists"][0]["name"]) for track in response_json["items"]]
+        
+        tracks = [Track(track["track"]["name"], track["track"]["id"], track["track"]["artists"][0]["name"], track["track"]["album"]["release_date"]) for track in response_json["items"]]
+        return tracks
+
+    def get_all_liked_tracks(self):
+        # Get all the liked tracks of the user
+        tracks = []
+        offset = 0
+        limit = 50
+        
+        while True:
+            liked_tracks = self.get_liked_tracks(limit=limit, offset=offset)
+            tracks += liked_tracks
+            if len(liked_tracks) < limit:
+                break
+            offset += limit
+
         return tracks
 
     def create_playlist(self, name: str, description: str, public=True):
@@ -76,13 +94,22 @@ class SpotifyClient:
         # Add tracks to a playlist
         url = f"https://api.spotify.com/v1/playlists/{playlist.id}/tracks"
 
-        track_uris = [track.create_spotify_uri() for track in tracks]
-        data = json.dumps(track_uris)
+        tracks_copy = deepcopy(tracks)
 
-        response = self._api_request(url, RequestType.POST, data)
-        response_json = response.json()
+        extra_tracks_index = 1
+        while extra_tracks_index > 0:
+            extra_tracks_index = len(tracks_copy) - 100 # 100 is the maximum number of tracks that can be added at once
+            tracks_to_add = tracks_copy[:100]
 
-        return response_json
+            track_uris = [track.create_spotify_uri() for track in tracks_to_add]
+            data = json.dumps(track_uris)
+
+            self._api_request(url, RequestType.POST, data)
+
+            tracks_copy = tracks_copy[100:]
+    
+            if extra_tracks_index <= 0:
+                break
 
     def get_playlist_tracks(self, playlist: Playlist):
         # Get the tracks of a playlist
@@ -91,7 +118,7 @@ class SpotifyClient:
         response = self._api_request(url, RequestType.GET)
         response_json = response.json()
 
-        tracks = [Track(track["track"]["name"], track["track"]["id"], track["track"]["artists"][0]["name"]) for track in response_json["items"]]
+        tracks = [Track(track["track"]["name"], track["track"]["id"], track["track"]["artists"][0]["name"], track["track"]["album"]["release_date"]) for track in response_json["items"]]
         return tracks
 
     def remove_tracks_from_playlist(self, playlist: Playlist, tracks: list[Track]):

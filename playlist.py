@@ -1,7 +1,7 @@
 class Playlist:
     """Playlist represents a Spotify playlist."""
 
-    def __init__(self, name, id):
+    def __init__(self, name: str, id: str):
         self.name = name
         self.id = id
 
