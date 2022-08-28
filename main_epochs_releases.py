@@ -21,6 +21,11 @@ print("Gathering liked tracks... ", end="", flush=True)
 liked_tracks = spotify_client.get_all_liked_tracks()
 print("Done")
 
+# Create a playlist for the 1970s releases
+print("Creating a playlist for the 1970s releases... ", end="", flush=True)
+create_playlist_for_last_years(1970, 1980, liked_tracks)
+print("Done")
+
 # Create a playlist for the 1980s releases
 print("Creating a playlist for the 1980s releases... ", end="", flush=True)
 create_playlist_for_last_years(1980, 1990, liked_tracks)
