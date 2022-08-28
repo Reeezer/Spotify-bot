@@ -4,8 +4,11 @@ from enum import Enum
 from termcolor import colored
 from copy import deepcopy
 
-from track import Track
-from playlist import Playlist
+from models.track import Track
+from models.playlist import Playlist
+from models.artist import Artist
+from models.album import Album
+from utils.json_handler import JSON_Handler
 
 
 class RequestType(Enum):
@@ -27,9 +30,8 @@ class SpotifyClient:
         url = f"https://api.spotify.com/v1/me/player/recently-played?limit={limit}"
 
         response = self._api_request(url, RequestType.GET)
-        response_json = response.json()
+        tracks = JSON_Handler.list_of_tracks(response.json())
 
-        tracks = [Track(track["track"]["name"], track["track"]["id"], track["track"]["artists"][0]["name"], track["track"]["album"]["release_date"]) for track in response_json["items"]]
         return tracks
 
     def get_track_recommendations(self, seed_tracks: list[Track], limit=50):
@@ -38,29 +40,26 @@ class SpotifyClient:
         url = f"https://api.spotify.com/v1/recommendations?seed_tracks={seed_tracks_url}&limit={limit}"
 
         response = self._api_request(url, RequestType.GET)
-        response_json = response.json()
+        tracks = JSON_Handler.list_of_tracks_recommended(response.json())
 
-        tracks = [Track(track["name"], track["id"], track["artists"][0]["name"], track["album"]["release_date"]) for track in response_json["tracks"]]
         return tracks
 
     def get_user_playlists(self):
         # Get all the playlists of the user
         url = f"https://api.spotify.com/v1/me/playlists"
-        
+
         response = self._api_request(url, RequestType.GET)
-        response_json = response.json()
-        
-        playlists = [Playlist(playlist["name"], playlist["id"]) for playlist in response_json["items"]]
+        playlists = JSON_Handler.list_of_playlists(response.json())
+
         return playlists
 
     def get_liked_tracks(self, limit=50, offset=0):
         # Get the liked tracks of the user
         url = f"https://api.spotify.com/v1/me/tracks?limit={limit}&offset={offset}"
-        
+
         response = self._api_request(url, RequestType.GET)
-        response_json = response.json()
-        
-        tracks = [Track(track["track"]["name"], track["track"]["id"], track["track"]["artists"][0]["name"], track["track"]["album"]["release_date"]) for track in response_json["items"]]
+        tracks = JSON_Handler.list_of_tracks(response.json())
+
         return tracks
 
     def get_all_liked_tracks(self):
@@ -68,7 +67,7 @@ class SpotifyClient:
         tracks = []
         offset = 0
         limit = 50
-        
+
         while True:
             liked_tracks = self.get_liked_tracks(limit=limit, offset=offset)
             tracks += liked_tracks
@@ -86,8 +85,8 @@ class SpotifyClient:
         response = self._api_request(url, RequestType.POST, data)
         response_json = response.json()
 
-        playlist_id = response_json["id"]
-        playlist = Playlist(name, playlist_id)
+        playlist = Playlist(response_json["id"], name, description)
+
         return playlist
 
     def populate_playlist(self, playlist: Playlist, tracks: list[Track]):
@@ -98,7 +97,7 @@ class SpotifyClient:
 
         extra_tracks_index = 1
         while extra_tracks_index > 0:
-            extra_tracks_index = len(tracks_copy) - 100 # 100 is the maximum number of tracks that can be added at once
+            extra_tracks_index = len(tracks_copy) - 100  # 100 is the maximum number of tracks that can be added at once
             tracks_to_add = tracks_copy[:100]
 
             track_uris = [track.create_spotify_uri() for track in tracks_to_add]
@@ -107,7 +106,7 @@ class SpotifyClient:
             self._api_request(url, RequestType.POST, data)
 
             tracks_copy = tracks_copy[100:]
-    
+
             if extra_tracks_index <= 0:
                 break
 
@@ -116,17 +115,65 @@ class SpotifyClient:
         url = f"https://api.spotify.com/v1/playlists/{playlist.id}/tracks"
 
         response = self._api_request(url, RequestType.GET)
-        response_json = response.json()
+        tracks = JSON_Handler.list_of_tracks(response.json())
 
-        tracks = [Track(track["track"]["name"], track["track"]["id"], track["track"]["artists"][0]["name"], track["track"]["album"]["release_date"]) for track in response_json["items"]]
         return tracks
 
     def remove_tracks_from_playlist(self, playlist: Playlist, tracks: list[Track]):
         # Delete a playlist
         url = f"https://api.spotify.com/v1/playlists/{playlist.id}/tracks"
-
         data = json.dumps({"tracks": [{"uri": track.create_spotify_uri()} for track in tracks]})
         self._api_request(url, RequestType.DELETE, data=data)
+
+    def follow_artist(self, artist: Artist):
+        # Follow an artist
+        url = f"https://api.spotify.com/v1/me/following?type=artist&ids={artist.id}"
+        self._api_request(url, RequestType.PUT)
+
+    def get_artist_albums(self, artist: Artist):
+        # Get all the albums of an artist
+        url = f"https://api.spotify.com/v1/artists/{artist.id}/albums"
+
+        response = self._api_request(url, RequestType.GET)
+        albums = JSON_Handler.list_of_albums(response.json())
+
+        return albums
+
+    def get_album_tracks(self, album: Album, limit=50):
+        # Get all the tracks of an album
+        url = f"https://api.spotify.com/v1/albums/{album.id}/tracks?limit={limit}"
+
+        if album.type == "album":
+            response = self._api_request(url, RequestType.GET)
+            tracks = JSON_Handler.list_of_tracks_from_album(response.json(), album)
+        elif album.type == "track":
+            tracks = [Track(album.id, album.name, album.artists, album.release_date)]
+
+        return tracks
+
+    def get_followed_artists(self, limit=50, after=None): 
+        # Get all the artists followed by the user
+        url = f"https://api.spotify.com/v1/me/following?type=artist&limit={limit}&after={after}" if after else f"https://api.spotify.com/v1/me/following?type=artist&limit={limit}"
+
+        response = self._api_request(url, RequestType.GET)
+        artists = JSON_Handler.list_of_artists(response.json())
+
+        return artists
+
+    def get_all_followed_artists(self):
+        # Get all the liked tracks of the user
+        artists = []
+        after = None
+        limit = 50
+
+        while True:
+            followed_artists = self.get_followed_artists(limit=limit, after=after)
+            artists += followed_artists
+            if len(followed_artists) < limit:
+                break
+            after = followed_artists[-1].id
+
+        return artists
 
     def _tracksurl_from_list(self, tracks: list):
         tracks_url = ""
