@@ -1,6 +1,7 @@
 from models.artist import Artist
 from utils.helper import Helper
 
+
 class Album:
     """Artist represents an album of musics or a single"""
 
@@ -24,6 +25,6 @@ class Album:
             return self.id == other.id
         else:
             return False
-            
+
     def __hash__(self):
         return hash(self.id)

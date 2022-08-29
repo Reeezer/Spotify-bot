@@ -87,7 +87,7 @@ class SpotifyClient:
 
         return tracks
 
-    def get_followed_artists(self, limit=50, after=None): 
+    def get_followed_artists(self, limit=50, after=None):
         # Get all the artists followed by the user
         url = f"https://api.spotify.com/v1/me/following?type=artist&limit={limit}&after={after}" if after else f"https://api.spotify.com/v1/me/following?type=artist&limit={limit}"
 
@@ -102,8 +102,17 @@ class SpotifyClient:
 
         response = self._api_request(url, RequestType.GET)
         features = JSON_Handler.audio_features(response.json())
-        
+
         return features
+
+    def get_artist_genres(self, artist: Artist):
+        # Get the genres of an artist
+        url = f"https://api.spotify.com/v1/artists/{artist.id}"
+
+        response = self._api_request(url, RequestType.GET)
+        genres = JSON_Handler.list_of_genres(response.json())
+
+        return genres
 
     ##### Whole Getters #####
 
@@ -134,7 +143,7 @@ class SpotifyClient:
             if len(playlist_tracks) < limit:
                 break
             offset += limit
-        
+
         return tracks
 
     def get_all_followed_artists(self):
@@ -209,7 +218,7 @@ class SpotifyClient:
 
         extra_tracks_index = 1
         while extra_tracks_index > 0:
-            extra_tracks_index = len(tracks_copy) - 100 # 100 is the maximum number of tracks that can be removed at once
+            extra_tracks_index = len(tracks_copy) - 100  # 100 is the maximum number of tracks that can be removed at once
             tracks_to_remove = tracks_copy[:100]
 
             data = json.dumps({"tracks": [{"uri": track.create_spotify_uri()} for track in tracks_to_remove]})
@@ -218,7 +227,7 @@ class SpotifyClient:
             tracks_copy = tracks_copy[100:]
             if extra_tracks_index <= 0:
                 break
-    
+
     def reset_playlist(self, playlist: Playlist):
         # Delete all the tracks of a playlist
         tracks = self.get_all_playlist_tracks(playlist)

@@ -1,7 +1,7 @@
 class Artist:
     """Artist represents a singer or a group of singers."""
 
-    def __init__(self, id: str, name: str, genres: list[str]=None):
+    def __init__(self, id: str, name: str, genres: list[str] = None):
         self.name = name
         self.id = id
         self.genres = genres
@@ -17,6 +17,6 @@ class Artist:
             return self.id == other.id
         else:
             return False
-            
+
     def __hash__(self):
         return hash(self.id)

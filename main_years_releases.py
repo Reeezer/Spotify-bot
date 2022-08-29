@@ -7,7 +7,7 @@ from models.track import Track
 
 def create_playlist_for_last_years(years: int, liked_tracks: list[Track]):
     playlist = spotify_client.create_playlist(f"🤖 Last {years} years", f"My liked tracks from the last {years} years")
-    last_years = datetime.today() - timedelta(days=365*years)
+    last_years = datetime.today() - timedelta(days=365 * years)
     tracks = [track for track in liked_tracks if track.release_date >= last_years]
     spotify_client.populate_playlist(playlist, tracks)
 

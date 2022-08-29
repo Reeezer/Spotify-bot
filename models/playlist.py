@@ -17,6 +17,6 @@ class Playlist:
             return self.id == other.id
         else:
             return False
-            
+
     def __hash__(self):
         return hash(self.id)

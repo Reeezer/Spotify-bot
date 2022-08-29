@@ -4,6 +4,7 @@ from models.playlist import Playlist
 from models.artist import Artist
 from models.album import Album
 
+
 class JSON_Handler:
     def list_of_tracks(json_data: dict) -> list[Track]:
         tracks = []
@@ -43,9 +44,15 @@ class JSON_Handler:
     def list_of_artists(json_data: dict) -> list[Artist]:
         artists = []
         for artist in json_data["artists"]["items"]:
-            genres = JSON_Handler._get_genres(artist)
+            genres = JSON_Handler.list_of_genres(artist)
             artists.append(Artist(artist["id"], artist["name"], genres=genres))
         return artists
+
+    def list_of_genres(json_data: dict) -> list[str]:
+        genres = []
+        for genre in json_data["genres"]:
+            genres.append(genre)
+        return genres
 
     def audio_features(json_data: dict) -> Features:
         return Features(json_data["id"], json_data["danceability"], json_data["energy"], json_data["loudness"], json_data["speechiness"], json_data["acousticness"], json_data["instrumentalness"], json_data["liveness"], json_data["valence"], json_data["tempo"], json_data["key"], json_data["mode"])
@@ -55,9 +62,3 @@ class JSON_Handler:
         for artist in json_data["artists"]:
             artists.append(Artist(artist["id"], artist["name"]))
         return artists
-
-    def _get_genres(json_data: dict) -> list[str]:
-        genres = []
-        for genre in json_data["genres"]:
-            genres.append(genre)
-        return genres
