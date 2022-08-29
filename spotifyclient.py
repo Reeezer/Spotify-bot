@@ -96,6 +96,15 @@ class SpotifyClient:
 
         return artists
 
+    def get_audio_features(self, track: Track):
+        # Get the audio features of a track
+        url = f"https://api.spotify.com/v1/audio-features/{track.id}"
+
+        response = self._api_request(url, RequestType.GET)
+        features = JSON_Handler.audio_features(response.json())
+        
+        return features
+
     ##### Whole Getters #####
 
     def get_all_liked_tracks(self):
@@ -172,6 +181,9 @@ class SpotifyClient:
     def populate_playlist(self, playlist: Playlist, tracks: list[Track]):
         # Add tracks to a playlist
         url = f"https://api.spotify.com/v1/playlists/{playlist.id}/tracks"
+
+        if len(tracks) == 0:
+            return
 
         tracks_copy = deepcopy(tracks)
 

@@ -1,5 +1,8 @@
 from datetime import datetime
 
+from models.style import Style
+
+
 class Helper:
     def str_to_datetime(string: str) -> datetime:
         if isinstance(string, datetime):
@@ -19,4 +22,14 @@ class Helper:
             return dt
         
         return datetime.strftime(dt, '%Y-%m-%d')
+
+    def check_style(track, style: Style) -> bool:
+        if track.audio_features is None:
+            return False
+
+        for key, value in style.value.items():
+            if track.audio_features.__dict__[key] < value:
+                return False
+        
+        return True
     

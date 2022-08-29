@@ -1,5 +1,4 @@
-import json
-
+from models.features import Features
 from models.track import Track
 from models.playlist import Playlist
 from models.artist import Artist
@@ -7,31 +6,25 @@ from models.album import Album
 
 class JSON_Handler:
     def list_of_tracks(json_data: dict) -> list[Track]:
-        try:
-            tracks = []
-            for track in json_data["items"]:
-                track = track["track"]
-                artists = JSON_Handler._get_artists(track)
-                tracks.append(Track(track["id"], track["name"], artists, track["album"]["release_date"]))
-            return tracks
-        except:
-            f = open("error.json", "w")
-            f.write(json.dumps(json_data))
-            f.close()
-            exit()
+        tracks = []
+        for track in json_data["items"]:
+            track = track["track"]
+            artists = JSON_Handler._get_artists(track)
+            tracks.append(Track(track["id"], track["name"], artists, track["popularity"], track["album"]["release_date"]))
+        return tracks
 
     def list_of_tracks_recommended(json_data: dict) -> list[Track]:
         tracks = []
         for track in json_data["tracks"]:
             artists = JSON_Handler._get_artists(track)
-            tracks.append(Track(track["id"], track["name"], artists, track["album"]["release_date"]))
+            tracks.append(Track(track["id"], track["name"], artists, track["popularity"], track["album"]["release_date"]))
         return tracks
 
     def list_of_tracks_from_album(json_data: dict, album: Album) -> list[Track]:
         tracks = []
         for track in json_data["items"]:
             artists = JSON_Handler._get_artists(track)
-            tracks.append(Track(track["id"], track["name"], artists, album.release_date))
+            tracks.append(Track(track["id"], track["name"], artists, track["popularity"], album.release_date))
         return tracks
 
     def list_of_playlists(json_data: dict) -> list[Playlist]:
@@ -53,6 +46,9 @@ class JSON_Handler:
             genres = JSON_Handler._get_genres(artist)
             artists.append(Artist(artist["id"], artist["name"], genres=genres))
         return artists
+
+    def audio_features(json_data: dict) -> Features:
+        return Features(json_data["id"], json_data["danceability"], json_data["energy"], json_data["loudness"], json_data["speechiness"], json_data["acousticness"], json_data["instrumentalness"], json_data["liveness"], json_data["valence"], json_data["tempo"], json_data["key"], json_data["mode"])
 
     def _get_artists(json_data: dict) -> list[Artist]:
         artists = []

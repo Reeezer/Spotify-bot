@@ -1,14 +1,17 @@
 from models.artist import Artist
+from models.features import Features
 from utils.helper import Helper
 
 class Track:
     """Track represents a piece of music."""
 
-    def __init__(self, id: str, name: str, artists: list[Artist], release_date: str):
+    def __init__(self, id: str, name: str, artists: list[Artist], popularity: int, release_date: str, features: Features=None):
         self.id = id
         self.name = name
         self.artists = artists
+        self.popularity = popularity
         self.release_date = Helper.str_to_datetime(release_date)
+        self.features = features
 
     def create_spotify_uri(self):
         return f"spotify:track:{self.id}"

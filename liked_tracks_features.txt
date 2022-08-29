@@ -1,0 +1,9465 @@
+
+'Wasted Love (feat. Lagique)' by Ofenbach, Lagique [2021-01-08]
+Features:
+	Danceability: 0.734
+	Energy: 0.855
+	Loudness: -4.578
+	Speechiness: 0.135
+	Acousticness: 0.0821
+	Instrumentalness: 4.73e-06
+	Liveness: 0.0901
+	Valence: 0.54
+	Tempo: 121.955
+	Key: 6
+	Mode: 0
+	Popularity: 75
+
+'Interlude Fifty' by Nekfeu [2019-06-21]
+Features:
+	Danceability: 0.752
+	Energy: 0.618
+	Loudness: -8.6
+	Speechiness: 0.456
+	Acousticness: 0.301
+	Instrumentalness: 0
+	Liveness: 0.109
+	Valence: 0.657
+	Tempo: 178.13
+	Key: 1
+	Mode: 0
+	Popularity: 47
+
+'Voyage léger' by Nekfeu [2019-06-21]
+Features:
+	Danceability: 0.75
+	Energy: 0.557
+	Loudness: -7.878
+	Speechiness: 0.233
+	Acousticness: 0.264
+	Instrumentalness: 0
+	Liveness: 0.122
+	Valence: 0.137
+	Tempo: 119.968
+	Key: 8
+	Mode: 0
+	Popularity: 52
+
+'Le bruit qui court' by Nekfeu [2019-06-21]
+Features:
+	Danceability: 0.813
+	Energy: 0.517
+	Loudness: -9.362
+	Speechiness: 0.308
+	Acousticness: 0.536
+	Instrumentalness: 1.35e-06
+	Liveness: 0.174
+	Valence: 0.416
+	Tempo: 90.034
+	Key: 3
+	Mode: 0
+	Popularity: 52
+
+'De mon mieux' by Nekfeu [2019-06-21]
+Features:
+	Danceability: 0.717
+	Energy: 0.346
+	Loudness: -10.636
+	Speechiness: 0.0973
+	Acousticness: 0.541
+	Instrumentalness: 3.59e-06
+	Liveness: 0.107
+	Valence: 0.325
+	Tempo: 123.963
+	Key: 5
+	Mode: 0
+	Popularity: 52
+
+'Menteur menteur' by Nekfeu [2019-06-21]
+Features:
+	Danceability: 0.864
+	Energy: 0.701
+	Loudness: -7.146
+	Speechiness: 0.132
+	Acousticness: 0.36
+	Instrumentalness: 0
+	Liveness: 0.105
+	Valence: 0.833
+	Tempo: 137.98
+	Key: 8
+	Mode: 1
+	Popularity: 51
+
+'Cheum' by Nekfeu [2019-06-21]
+Features:
+	Danceability: 0.872
+	Energy: 0.613
+	Loudness: -4.884
+	Speechiness: 0.32
+	Acousticness: 0.273
+	Instrumentalness: 0
+	Liveness: 0.0818
+	Valence: 0.343
+	Tempo: 139.885
+	Key: 9
+	Mode: 1
+	Popularity: 56
+
+'Reuf' by Nekfeu, Ed Sheeran [2015-06-08]
+Features:
+	Danceability: 0.773
+	Energy: 0.689
+	Loudness: -7.093
+	Speechiness: 0.068
+	Acousticness: 0.0938
+	Instrumentalness: 0
+	Liveness: 0.112
+	Valence: 0.358
+	Tempo: 120.002
+	Key: 8
+	Mode: 1
+	Popularity: 49
+
+'Mon ame' by Nekfeu, Sneazzy [2015-06-08]
+Features:
+	Danceability: 0.861
+	Energy: 0.535
+	Loudness: -7.554
+	Speechiness: 0.0608
+	Acousticness: 0.439
+	Instrumentalness: 0
+	Liveness: 0.0684
+	Valence: 0.704
+	Tempo: 106.0
+	Key: 5
+	Mode: 0
+	Popularity: 49
+
+'Martin Eden' by Nekfeu [2015-06-08]
+Features:
+	Danceability: 0.831
+	Energy: 0.649
+	Loudness: -5.823
+	Speechiness: 0.235
+	Acousticness: 0.245
+	Instrumentalness: 0
+	Liveness: 0.103
+	Valence: 0.353
+	Tempo: 86.042
+	Key: 10
+	Mode: 0
+	Popularity: 48
+
+'Elle en avait envie' by Nekfeu [2015-06-08]
+Features:
+	Danceability: 0.911
+	Energy: 0.486
+	Loudness: -6.323
+	Speechiness: 0.305
+	Acousticness: 0.303
+	Instrumentalness: 0
+	Liveness: 0.0995
+	Valence: 0.563
+	Tempo: 92.017
+	Key: 7
+	Mode: 1
+	Popularity: 43
+
+'Nekketsu' by Nekfeu, Crystal Kay [2016-12-02]
+Features:
+	Danceability: 0.667
+	Energy: 0.563
+	Loudness: -7.614
+	Speechiness: 0.814
+	Acousticness: 0.575
+	Instrumentalness: 0
+	Liveness: 0.157
+	Valence: 0.633
+	Tempo: 80.791
+	Key: 11
+	Mode: 0
+	Popularity: 50
+
+'Esquimaux' by Nekfeu, Népal [2016-12-02]
+Features:
+	Danceability: 0.808
+	Energy: 0.744
+	Loudness: -5.056
+	Speechiness: 0.186
+	Acousticness: 0.154
+	Instrumentalness: 0
+	Liveness: 0.527
+	Valence: 0.412
+	Tempo: 139.934
+	Key: 0
+	Mode: 1
+	Popularity: 52
+
+'Réalité augmentée' by Nekfeu [2016-12-02]
+Features:
+	Danceability: 0.891
+	Energy: 0.654
+	Loudness: -7.998
+	Speechiness: 0.443
+	Acousticness: 0.684
+	Instrumentalness: 0
+	Liveness: 0.165
+	Valence: 0.21
+	Tempo: 98.967
+	Key: 1
+	Mode: 1
+	Popularity: 50
+
+'Waow (feat. Nekfeu)' by PLK, Nekfeu [2019-02-01]
+Features:
+	Danceability: 0.77
+	Energy: 0.745
+	Loudness: -8.001
+	Speechiness: 0.143
+	Acousticness: 0.215
+	Instrumentalness: 0
+	Liveness: 0.0976
+	Valence: 0.319
+	Tempo: 119.942
+	Key: 1
+	Mode: 1
+	Popularity: 49
+
+'Skurt Cobain' by Sneazzy, Nekfeu [2016-10-21]
+Features:
+	Danceability: 0.792
+	Energy: 0.63
+	Loudness: -7.042
+	Speechiness: 0.104
+	Acousticness: 0.175
+	Instrumentalness: 0
+	Liveness: 0.1
+	Valence: 0.217
+	Tempo: 127.033
+	Key: 7
+	Mode: 1
+	Popularity: 53
+
+'Tempête' by Nekfeu [2015-06-08]
+Features:
+	Danceability: 0.965
+	Energy: 0.679
+	Loudness: -5.627
+	Speechiness: 0.213
+	Acousticness: 0.227
+	Instrumentalness: 0
+	Liveness: 0.0609
+	Valence: 0.194
+	Tempo: 112.052
+	Key: 6
+	Mode: 0
+	Popularity: 50
+
+'aaa' by Alpha Wann, Nekfeu [2020-12-18]
+Features:
+	Danceability: 0.663
+	Energy: 0.583
+	Loudness: -8.498
+	Speechiness: 0.45
+	Acousticness: 0.299
+	Instrumentalness: 0
+	Liveness: 0.27
+	Valence: 0.605
+	Tempo: 121.721
+	Key: 10
+	Mode: 0
+	Popularity: 55
+
+'ZÉRO DÉTAIL' by Sneazzy, Nekfeu [2020-03-06]
+Features:
+	Danceability: 0.733
+	Energy: 0.673
+	Loudness: -8.124
+	Speechiness: 0.164
+	Acousticness: 0.459
+	Instrumentalness: 0
+	Liveness: 0.107
+	Valence: 0.384
+	Tempo: 78.91
+	Key: 1
+	Mode: 0
+	Popularity: 54
+
+'Les princes (feat. Nekfeu)' by MZ, Nekfeu [2016-04-22]
+Features:
+	Danceability: 0.734
+	Energy: 0.694
+	Loudness: -7.36
+	Speechiness: 0.238
+	Acousticness: 0.322
+	Instrumentalness: 0
+	Liveness: 0.463
+	Valence: 0.353
+	Tempo: 118.007
+	Key: 4
+	Mode: 0
+	Popularity: 58
+
+'Squa' by Nekfeu [2016-12-02]
+Features:
+	Danceability: 0.943
+	Energy: 0.747
+	Loudness: -4.607
+	Speechiness: 0.0393
+	Acousticness: 0.412
+	Instrumentalness: 3.8e-06
+	Liveness: 0.0714
+	Valence: 0.691
+	Tempo: 117.032
+	Key: 1
+	Mode: 1
+	Popularity: 54
+
+'Energie sombre' by Nekfeu [2019-06-21]
+Features:
+	Danceability: 0.774
+	Energy: 0.431
+	Loudness: -7.236
+	Speechiness: 0.395
+	Acousticness: 0.305
+	Instrumentalness: 0
+	Liveness: 0.116
+	Valence: 0.189
+	Tempo: 133.132
+	Key: 8
+	Mode: 1
+	Popularity: 60
+
+'Saturne' by Nekfeu, Sneazzy, S.Pri Noir [2016-12-02]
+Features:
+	Danceability: 0.719
+	Energy: 0.808
+	Loudness: -8.423
+	Speechiness: 0.552
+	Acousticness: 0.553
+	Instrumentalness: 0
+	Liveness: 0.0764
+	Valence: 0.0437
+	Tempo: 91.043
+	Key: 5
+	Mode: 1
+	Popularity: 54
+
+'Egérie' by Nekfeu [2015-06-08]
+Features:
+	Danceability: 0.864
+	Energy: 0.572
+	Loudness: -8.524
+	Speechiness: 0.107
+	Acousticness: 0.368
+	Instrumentalness: 0
+	Liveness: 0.109
+	Valence: 0.343
+	Tempo: 116.985
+	Key: 11
+	Mode: 0
+	Popularity: 57
+
+'Ken Kaneki' by Nekfeu [2019-06-21]
+Features:
+	Danceability: 0.697
+	Energy: 0.633
+	Loudness: -6.983
+	Speechiness: 0.0793
+	Acousticness: 0.552
+	Instrumentalness: 0
+	Liveness: 0.128
+	Valence: 0.716
+	Tempo: 139.074
+	Key: 7
+	Mode: 1
+	Popularity: 61
+
+'Avant tu riais' by Nekfeu, Clara Luciani [2016-12-02]
+Features:
+	Danceability: 0.579
+	Energy: 0.543
+	Loudness: -8.216
+	Speechiness: 0.378
+	Acousticness: 0.418
+	Instrumentalness: 0
+	Liveness: 0.152
+	Valence: 0.286
+	Tempo: 174.84
+	Key: 5
+	Mode: 0
+	Popularity: 57
+
+'Nique les clones, Pt. II' by Nekfeu [2015-06-08]
+Features:
+	Danceability: 0.867
+	Energy: 0.729
+	Loudness: -5.309
+	Speechiness: 0.0493
+	Acousticness: 0.484
+	Instrumentalness: 0
+	Liveness: 0.0938
+	Valence: 0.708
+	Tempo: 119.999
+	Key: 2
+	Mode: 0
+	Popularity: 58
+
+'Reuf - Version Five' by Nekfeu [2016-03-18]
+Features:
+	Danceability: 0.899
+	Energy: 0.632
+	Loudness: -8.095
+	Speechiness: 0.114
+	Acousticness: 0.261
+	Instrumentalness: 0
+	Liveness: 0.64
+	Valence: 0.26
+	Tempo: 120.051
+	Key: 1
+	Mode: 1
+	Popularity: 54
+
+'Ma dope' by Nekfeu, S.Pri Noir [2015-06-08]
+Features:
+	Danceability: 0.855
+	Energy: 0.551
+	Loudness: -7.651
+	Speechiness: 0.0741
+	Acousticness: 0.245
+	Instrumentalness: 2.31e-06
+	Liveness: 0.477
+	Valence: 0.351
+	Tempo: 135.995
+	Key: 8
+	Mode: 1
+	Popularity: 58
+
+'Mauvaise graine' by Nekfeu [2016-12-02]
+Features:
+	Danceability: 0.882
+	Energy: 0.59
+	Loudness: -7.728
+	Speechiness: 0.0714
+	Acousticness: 0.425
+	Instrumentalness: 0
+	Liveness: 0.179
+	Valence: 0.306
+	Tempo: 119.99
+	Key: 2
+	Mode: 0
+	Popularity: 57
+
+'Éternité' by Jazzy Bazz, Nekfeu [2018-09-07]
+Features:
+	Danceability: 0.815
+	Energy: 0.462
+	Loudness: -7.772
+	Speechiness: 0.0505
+	Acousticness: 0.579
+	Instrumentalness: 0
+	Liveness: 0.11
+	Valence: 0.529
+	Tempo: 133.005
+	Key: 10
+	Mode: 0
+	Popularity: 58
+
+'Princesse' by Nekfeu, Nemir [2015-06-08]
+Features:
+	Danceability: 0.458
+	Energy: 0.64
+	Loudness: -5.972
+	Speechiness: 0.0869
+	Acousticness: 0.174
+	Instrumentalness: 0
+	Liveness: 0.123
+	Valence: 0.452
+	Tempo: 124.315
+	Key: 5
+	Mode: 0
+	Popularity: 62
+
+'Juste pour voir' by S.Pri Noir, Nekfeu [2018-05-11]
+Features:
+	Danceability: 0.712
+	Energy: 0.617
+	Loudness: -7.144
+	Speechiness: 0.374
+	Acousticness: 0.393
+	Instrumentalness: 0
+	Liveness: 0.126
+	Valence: 0.477
+	Tempo: 147.891
+	Key: 3
+	Mode: 0
+	Popularity: 59
+
+'SPECIAL (feat. Nekfeu & Fousheé)' by Laylow, Nekfeu, Fousheé [2021-07-16]
+Features:
+	Danceability: 0.674
+	Energy: 0.52
+	Loudness: -9.464
+	Speechiness: 0.146
+	Acousticness: 0.187
+	Instrumentalness: 2.48e-06
+	Liveness: 0.259
+	Valence: 0.407
+	Tempo: 70.572
+	Key: 10
+	Mode: 0
+	Popularity: 65
+
+'Tricheur' by Nekfeu, Damso [2019-06-21]
+Features:
+	Danceability: 0.758
+	Energy: 0.638
+	Loudness: -7.984
+	Speechiness: 0.253
+	Acousticness: 0.407
+	Instrumentalness: 0
+	Liveness: 0.178
+	Valence: 0.188
+	Tempo: 137.981
+	Key: 1
+	Mode: 0
+	Popularity: 63
+
+'Dans l'univers' by Nekfeu, Vanessa Paradis [2019-06-21]
+Features:
+	Danceability: 0.64
+	Energy: 0.419
+	Loudness: -9.962
+	Speechiness: 0.168
+	Acousticness: 0.326
+	Instrumentalness: 0.000271
+	Liveness: 0.137
+	Valence: 0.202
+	Tempo: 131.936
+	Key: 11
+	Mode: 1
+	Popularity: 64
+
+'On verra' by Nekfeu [2015-06-08]
+Features:
+	Danceability: 0.575
+	Energy: 0.58
+	Loudness: -6.801
+	Speechiness: 0.067
+	Acousticness: 0.166
+	Instrumentalness: 0
+	Liveness: 0.0781
+	Valence: 0.324
+	Tempo: 75.2
+	Key: 0
+	Mode: 1
+	Popularity: 65
+
+'Elle pleut' by Nekfeu, Nemir [2019-06-21]
+Features:
+	Danceability: 0.62
+	Energy: 0.375
+	Loudness: -11.064
+	Speechiness: 0.455
+	Acousticness: 0.724
+	Instrumentalness: 2.86e-06
+	Liveness: 0.125
+	Valence: 0.226
+	Tempo: 92.641
+	Key: 8
+	Mode: 1
+	Popularity: 65
+
+'SUBLIME' by Disiz [2022-03-17]
+Features:
+	Danceability: 0.662
+	Energy: 0.288
+	Loudness: -12.89
+	Speechiness: 0.181
+	Acousticness: 0.853
+	Instrumentalness: 9.93e-05
+	Liveness: 0.217
+	Valence: 0.562
+	Tempo: 137.934
+	Key: 1
+	Mode: 0
+	Popularity: 57
+
+'Galatée' by Nekfeu [2016-12-02]
+Features:
+	Danceability: 0.726
+	Energy: 0.757
+	Loudness: -6.997
+	Speechiness: 0.41
+	Acousticness: 0.38
+	Instrumentalness: 0
+	Liveness: 0.14
+	Valence: 0.706
+	Tempo: 93.565
+	Key: 5
+	Mode: 0
+	Popularity: 66
+
+'Terrible' by OBOY [2021-09-10]
+Features:
+	Danceability: 0.946
+	Energy: 0.34
+	Loudness: -8.704
+	Speechiness: 0.0986
+	Acousticness: 0.464
+	Instrumentalness: 0
+	Liveness: 0.0888
+	Valence: 0.814
+	Tempo: 121.953
+	Key: 0
+	Mode: 0
+	Popularity: 44
+
+'Happy End (feat. Suikon Blaz AD)' by Vald, Suikon Blaz AD [2022-02-04]
+Features:
+	Danceability: 0.736
+	Energy: 0.791
+	Loudness: -4.798
+	Speechiness: 0.0597
+	Acousticness: 0.242
+	Instrumentalness: 0
+	Liveness: 0.0708
+	Valence: 0.87
+	Tempo: 82.528
+	Key: 8
+	Mode: 1
+	Popularity: 54
+
+'La vie de luxe' by Youv Dee [2021-02-04]
+Features:
+	Danceability: 0.56
+	Energy: 0.718
+	Loudness: -6.403
+	Speechiness: 0.194
+	Acousticness: 0.776
+	Instrumentalness: 0
+	Liveness: 0.175
+	Valence: 0.636
+	Tempo: 130.909
+	Key: 2
+	Mode: 0
+	Popularity: 43
+
+'Solitaire' by Bosh [2020-05-29]
+Features:
+	Danceability: 0.66
+	Energy: 0.724
+	Loudness: -4.626
+	Speechiness: 0.0824
+	Acousticness: 0.539
+	Instrumentalness: 0
+	Liveness: 0.143
+	Valence: 0.516
+	Tempo: 145.086
+	Key: 7
+	Mode: 0
+	Popularity: 62
+
+'MOLLY - A COLORS SHOW' by Gazo [2022-05-30]
+Features:
+	Danceability: 0.787
+	Energy: 0.827
+	Loudness: -6.441
+	Speechiness: 0.13
+	Acousticness: 0.476
+	Instrumentalness: 0.00071
+	Liveness: 0.135
+	Valence: 0.657
+	Tempo: 145.072
+	Key: 1
+	Mode: 1
+	Popularity: 74
+
+'Fenêtre sur mer' by Bekar [2022-04-08]
+Features:
+	Danceability: 0.79
+	Energy: 0.505
+	Loudness: -7.929
+	Speechiness: 0.138
+	Acousticness: 0.046
+	Instrumentalness: 4.21e-05
+	Liveness: 0.164
+	Valence: 0.5
+	Tempo: 129.032
+	Key: 3
+	Mode: 0
+	Popularity: 42
+
+'60%' by LVZ [2021-10-28]
+Features:
+	Danceability: 0.681
+	Energy: 0.401
+	Loudness: -10.024
+	Speechiness: 0.067
+	Acousticness: 0.724
+	Instrumentalness: 0
+	Liveness: 0.146
+	Valence: 0.267
+	Tempo: 123.061
+	Key: 2
+	Mode: 0
+	Popularity: 44
+
+'Rubi' by KIKESA, rubi [2022-03-24]
+Features:
+	Danceability: 0.72
+	Energy: 0.637
+	Loudness: -7.685
+	Speechiness: 0.0752
+	Acousticness: 0.417
+	Instrumentalness: 3.32e-06
+	Liveness: 0.104
+	Valence: 0.514
+	Tempo: 128.092
+	Key: 9
+	Mode: 0
+	Popularity: 46
+
+'Reine des enfers' by Yuzmv [2020-02-28]
+Features:
+	Danceability: 0.718
+	Energy: 0.482
+	Loudness: -9.015
+	Speechiness: 0.167
+	Acousticness: 0.786
+	Instrumentalness: 0
+	Liveness: 0.105
+	Valence: 0.577
+	Tempo: 160.157
+	Key: 3
+	Mode: 1
+	Popularity: 59
+
+'Young And Beautiful' by Lana Del Rey [2013-01-01]
+Features:
+	Danceability: 0.324
+	Energy: 0.416
+	Loudness: -8.92
+	Speechiness: 0.0368
+	Acousticness: 0.262
+	Instrumentalness: 3.69e-05
+	Liveness: 0.11
+	Valence: 0.151
+	Tempo: 113.986
+	Key: 11
+	Mode: 0
+	Popularity: 82
+
+'La dernière fois que je parle de toi' by KIKESA [2018-04-18]
+Features:
+	Danceability: 0.644
+	Energy: 0.4
+	Loudness: -9.618
+	Speechiness: 0.291
+	Acousticness: 0.392
+	Instrumentalness: 0
+	Liveness: 0.103
+	Valence: 0.387
+	Tempo: 145.113
+	Key: 1
+	Mode: 1
+	Popularity: 54
+
+'Pas à ma place' by Lujipeka [2021-11-05]
+Features:
+	Danceability: 0.689
+	Energy: 0.641
+	Loudness: -7.133
+	Speechiness: 0.103
+	Acousticness: 0.312
+	Instrumentalness: 0
+	Liveness: 0.0641
+	Valence: 0.509
+	Tempo: 149.072
+	Key: 8
+	Mode: 0
+	Popularity: 62
+
+'Fonceder' by MZ [2013-07-01]
+Features:
+	Danceability: 0.713
+	Energy: 0.456
+	Loudness: -7.641
+	Speechiness: 0.266
+	Acousticness: 0.266
+	Instrumentalness: 0
+	Liveness: 0.147
+	Valence: 0.554
+	Tempo: 142.07
+	Key: 10
+	Mode: 1
+	Popularity: 61
+
+'Plus jamais ça' by Lujipeka [2021-11-05]
+Features:
+	Danceability: 0.745
+	Energy: 0.456
+	Loudness: -6.873
+	Speechiness: 0.0329
+	Acousticness: 0.598
+	Instrumentalness: 0
+	Liveness: 0.119
+	Valence: 0.355
+	Tempo: 104.032
+	Key: 3
+	Mode: 0
+	Popularity: 43
+
+'Démons' by Angèle, Damso [2021-12-02]
+Features:
+	Danceability: 0.657
+	Energy: 0.643
+	Loudness: -6.661
+	Speechiness: 0.0433
+	Acousticness: 0.482
+	Instrumentalness: 2.08e-06
+	Liveness: 0.189
+	Valence: 0.394
+	Tempo: 82.516
+	Key: 8
+	Mode: 0
+	Popularity: 68
+
+'Je m'en vais' by Vianney [2016-11-25]
+Features:
+	Danceability: 0.635
+	Energy: 0.469
+	Loudness: -8.851
+	Speechiness: 0.0428
+	Acousticness: 0.715
+	Instrumentalness: 5.02e-06
+	Liveness: 0.133
+	Valence: 0.281
+	Tempo: 146.995
+	Key: 7
+	Mode: 0
+	Popularity: 58
+
+'Dis-moi' by BB Brunes [2007-03-19]
+Features:
+	Danceability: 0.578
+	Energy: 0.607
+	Loudness: -4.872
+	Speechiness: 0.0334
+	Acousticness: 0.179
+	Instrumentalness: 0
+	Liveness: 0.0431
+	Valence: 0.77
+	Tempo: 129.606
+	Key: 2
+	Mode: 1
+	Popularity: 57
+
+'Jour meilleur' by Orelsan [2021-11-19]
+Features:
+	Danceability: 0.656
+	Energy: 0.463
+	Loudness: -10.93
+	Speechiness: 0.0598
+	Acousticness: 0.38
+	Instrumentalness: 0
+	Liveness: 0.446
+	Valence: 0.407
+	Tempo: 81.499
+	Key: 2
+	Mode: 1
+	Popularity: 67
+
+'Ocarina' by Carbonne [2021-03-26]
+Features:
+	Danceability: 0.918
+	Energy: 0.449
+	Loudness: -10.251
+	Speechiness: 0.233
+	Acousticness: 0.665
+	Instrumentalness: 1.78e-06
+	Liveness: 0.112
+	Valence: 0.705
+	Tempo: 127.068
+	Key: 2
+	Mode: 0
+	Popularity: 52
+
+'Ahou' by Lujipeka [2020-05-22]
+Features:
+	Danceability: 0.654
+	Energy: 0.554
+	Loudness: -7.293
+	Speechiness: 0.176
+	Acousticness: 0.508
+	Instrumentalness: 0
+	Liveness: 0.0793
+	Valence: 0.322
+	Tempo: 75.116
+	Key: 4
+	Mode: 0
+	Popularity: 37
+
+'Blesse-moi' by Therapie TAXI [2021-01-08]
+Features:
+	Danceability: 0.637
+	Energy: 0.74
+	Loudness: -6.809
+	Speechiness: 0.121
+	Acousticness: 0.0314
+	Instrumentalness: 1.05e-05
+	Liveness: 0.104
+	Valence: 0.534
+	Tempo: 174.93
+	Key: 0
+	Mode: 1
+	Popularity: 62
+
+'Time Time' by Trei Degete, Squeezie, Myd, KronoMuzik [2021-11-15]
+Features:
+	Danceability: 0.715
+	Energy: 0.799
+	Loudness: -6.447
+	Speechiness: 0.0433
+	Acousticness: 0.0141
+	Instrumentalness: 0.0035
+	Liveness: 0.342
+	Valence: 0.916
+	Tempo: 128.925
+	Key: 0
+	Mode: 0
+	Popularity: 60
+
+'HRTBRK #2' by Kaza [2020-03-06]
+Features:
+	Danceability: 0.485
+	Energy: 0.566
+	Loudness: -8.776
+	Speechiness: 0.1
+	Acousticness: 0.708
+	Instrumentalness: 2.04e-05
+	Liveness: 0.195
+	Valence: 0.224
+	Tempo: 130.0
+	Key: 1
+	Mode: 0
+	Popularity: 61
+
+'Facetime' by Mister V [2020-01-31]
+Features:
+	Danceability: 0.709
+	Energy: 0.327
+	Loudness: -12.192
+	Speechiness: 0.0494
+	Acousticness: 0.832
+	Instrumentalness: 0.000227
+	Liveness: 0.093
+	Valence: 0.529
+	Tempo: 131.057
+	Key: 2
+	Mode: 0
+	Popularity: 53
+
+'Ramenez la coupe à la maison' by Vegedream [2018-07-20]
+Features:
+	Danceability: 0.808
+	Energy: 0.661
+	Loudness: -6.237
+	Speechiness: 0.0395
+	Acousticness: 0.0358
+	Instrumentalness: 0
+	Liveness: 0.138
+	Valence: 0.804
+	Tempo: 107.992
+	Key: 0
+	Mode: 0
+	Popularity: 73
+
+'Oh ma belle' by joysad [2021-09-10]
+Features:
+	Danceability: 0.816
+	Energy: 0.599
+	Loudness: -8.422
+	Speechiness: 0.115
+	Acousticness: 0.84
+	Instrumentalness: 0
+	Liveness: 0.0964
+	Valence: 0.542
+	Tempo: 102.961
+	Key: 6
+	Mode: 0
+	Popularity: 44
+
+'D O D O' by Tayc [2021-11-19]
+Features:
+	Danceability: 0.678
+	Energy: 0.646
+	Loudness: -7.996
+	Speechiness: 0.112
+	Acousticness: 0.304
+	Instrumentalness: 0.000405
+	Liveness: 0.154
+	Valence: 0.582
+	Tempo: 98.816
+	Key: 5
+	Mode: 0
+	Popularity: 71
+
+'BBJTM' by ICO [2021-01-06]
+Features:
+	Danceability: 0.787
+	Energy: 0.572
+	Loudness: -7.516
+	Speechiness: 0.222
+	Acousticness: 0.145
+	Instrumentalness: 0
+	Liveness: 0.0753
+	Valence: 0.647
+	Tempo: 155.117
+	Key: 1
+	Mode: 1
+	Popularity: 56
+
+'Bad boy' by Marwa Loud [2018-03-09]
+Features:
+	Danceability: 0.796
+	Energy: 0.496
+	Loudness: -8.165
+	Speechiness: 0.0388
+	Acousticness: 0.431
+	Instrumentalness: 5.51e-06
+	Liveness: 0.0781
+	Valence: 0.716
+	Tempo: 97.988
+	Key: 9
+	Mode: 0
+	Popularity: 70
+
+'Vivre' by 47ter [2021-04-16]
+Features:
+	Danceability: 0.776
+	Energy: 0.688
+	Loudness: -7.488
+	Speechiness: 0.0535
+	Acousticness: 0.381
+	Instrumentalness: 0
+	Liveness: 0.221
+	Valence: 0.59
+	Tempo: 111.996
+	Key: 5
+	Mode: 1
+	Popularity: 53
+
+'Nous deux c'est mieux <3' by Livaï [2021-09-24]
+Features:
+	Danceability: 0.616
+	Energy: 0.389
+	Loudness: -12.986
+	Speechiness: 0.0617
+	Acousticness: 0.675
+	Instrumentalness: 0
+	Liveness: 0.0927
+	Valence: 0.443
+	Tempo: 105.967
+	Key: 7
+	Mode: 1
+	Popularity: 61
+
+'Filon' by Ninho [2020-03-07]
+Features:
+	Danceability: 0.694
+	Energy: 0.593
+	Loudness: -6.004
+	Speechiness: 0.241
+	Acousticness: 0.542
+	Instrumentalness: 0
+	Liveness: 0.196
+	Valence: 0.404
+	Tempo: 171.72
+	Key: 1
+	Mode: 0
+	Popularity: 59
+
+'Cœur noir' by Eva [2021-02-25]
+Features:
+	Danceability: 0.59
+	Energy: 0.539
+	Loudness: -6.229
+	Speechiness: 0.0585
+	Acousticness: 0.679
+	Instrumentalness: 0
+	Liveness: 0.0896
+	Valence: 0.457
+	Tempo: 87.922
+	Key: 8
+	Mode: 0
+	Popularity: 57
+
+'Dédicace' by ICO [2019-11-22]
+Features:
+	Danceability: 0.83
+	Energy: 0.598
+	Loudness: -8.792
+	Speechiness: 0.302
+	Acousticness: 0.15
+	Instrumentalness: 0
+	Liveness: 0.108
+	Valence: 0.389
+	Tempo: 86.53
+	Key: 1
+	Mode: 1
+	Popularity: 58
+
+'Par amour et pour le geste' by Smeels [2021-04-16]
+Features:
+	Danceability: 0.662
+	Energy: 0.562
+	Loudness: -10.59
+	Speechiness: 0.124
+	Acousticness: 0.0903
+	Instrumentalness: 0.0032
+	Liveness: 0.143
+	Valence: 0.414
+	Tempo: 157.086
+	Key: 8
+	Mode: 0
+	Popularity: 46
+
+'Jolie madame (feat. Ronisia)' by Joé Dwèt Filé, Ronisia [2021-06-04]
+Features:
+	Danceability: 0.756
+	Energy: 0.563
+	Loudness: -6.44
+	Speechiness: 0.0826
+	Acousticness: 0.276
+	Instrumentalness: 1.02e-06
+	Liveness: 0.138
+	Valence: 0.88
+	Tempo: 159.985
+	Key: 1
+	Mode: 1
+	Popularity: 55
+
+'Don't Mess With My Mind' by EMO [2022-04-26]
+Features:
+	Danceability: 0.662
+	Energy: 0.375
+	Loudness: -9.85
+	Speechiness: 0.0411
+	Acousticness: 0.16
+	Instrumentalness: 0.192
+	Liveness: 0.105
+	Valence: 0.0957
+	Tempo: 139.987
+	Key: 11
+	Mode: 0
+	Popularity: 58
+
+'Tu rêves' by An'Om, Vayn [2020-07-31]
+Features:
+	Danceability: 0.715
+	Energy: 0.624
+	Loudness: -7.779
+	Speechiness: 0.065
+	Acousticness: 0.118
+	Instrumentalness: 0
+	Liveness: 0.0932
+	Valence: 0.555
+	Tempo: 90.002
+	Key: 8
+	Mode: 1
+	Popularity: 33
+
+'Bella' by MHD, WizKid [2018-07-18]
+Features:
+	Danceability: 0.793
+	Energy: 0.683
+	Loudness: -5.167
+	Speechiness: 0.126
+	Acousticness: 0.111
+	Instrumentalness: 0
+	Liveness: 0.172
+	Valence: 0.616
+	Tempo: 102.021
+	Key: 6
+	Mode: 0
+	Popularity: 47
+
+'RAPPEL' by Gazo [2022-07-01]
+Features:
+	Danceability: 0.486
+	Energy: 0.786
+	Loudness: -6.468
+	Speechiness: 0.209
+	Acousticness: 0.441
+	Instrumentalness: 4.46e-06
+	Liveness: 0.077
+	Valence: 0.534
+	Tempo: 94.644
+	Key: 4
+	Mode: 0
+	Popularity: 73
+
+'Flash' by Lomepal [2019-10-25]
+Features:
+	Danceability: 0.659
+	Energy: 0.345
+	Loudness: -11.776
+	Speechiness: 0.0615
+	Acousticness: 0.55
+	Instrumentalness: 0.0105
+	Liveness: 0.327
+	Valence: 0.429
+	Tempo: 128.162
+	Key: 5
+	Mode: 1
+	Popularity: 62
+
+'1000°C' by Lomepal, Roméo Elvis [2018-12-07]
+Features:
+	Danceability: 0.706
+	Energy: 0.553
+	Loudness: -8.056
+	Speechiness: 0.112
+	Acousticness: 0.263
+	Instrumentalness: 3.44e-05
+	Liveness: 0.111
+	Valence: 0.392
+	Tempo: 102.996
+	Key: 3
+	Mode: 0
+	Popularity: 62
+
+'Évidemment' by Lomepal [2018-12-07]
+Features:
+	Danceability: 0.64
+	Energy: 0.715
+	Loudness: -7.041
+	Speechiness: 0.0945
+	Acousticness: 0.675
+	Instrumentalness: 6.26e-05
+	Liveness: 0.115
+	Valence: 0.397
+	Tempo: 92.878
+	Key: 10
+	Mode: 0
+	Popularity: 63
+
+'Trop beau' by Lomepal [2018-12-07]
+Features:
+	Danceability: 0.748
+	Energy: 0.66
+	Loudness: -6.034
+	Speechiness: 0.0404
+	Acousticness: 0.295
+	Instrumentalness: 5.56e-06
+	Liveness: 0.0883
+	Valence: 0.324
+	Tempo: 123.902
+	Key: 4
+	Mode: 0
+	Popularity: 68
+
+'Regarde-moi' by Lomepal [2019-10-25]
+Features:
+	Danceability: 0.842
+	Energy: 0.548
+	Loudness: -9.487
+	Speechiness: 0.25
+	Acousticness: 0.472
+	Instrumentalness: 0.0265
+	Liveness: 0.11
+	Valence: 0.549
+	Tempo: 105.026
+	Key: 5
+	Mode: 0
+	Popularity: 55
+
+'Come Over (Remix)' by Jorja Smith, OBOY [2021-02-25]
+Features:
+	Danceability: 0.638
+	Energy: 0.676
+	Loudness: -5.944
+	Speechiness: 0.22
+	Acousticness: 0.402
+	Instrumentalness: 1.07e-06
+	Liveness: 0.171
+	Valence: 0.688
+	Tempo: 88.903
+	Key: 10
+	Mode: 0
+	Popularity: 62
+
+'Dynamite' by Sean Paul, Sia [2021-10-22]
+Features:
+	Danceability: 0.624
+	Energy: 0.86
+	Loudness: -3.012
+	Speechiness: 0.124
+	Acousticness: 0.0704
+	Instrumentalness: 0
+	Liveness: 0.0819
+	Valence: 0.816
+	Tempo: 100.897
+	Key: 8
+	Mode: 1
+	Popularity: 69
+
+'Cramé' by Koba LaD, OBOY [2021-06-17]
+Features:
+	Danceability: 0.464
+	Energy: 0.578
+	Loudness: -7.586
+	Speechiness: 0.21
+	Acousticness: 0.287
+	Instrumentalness: 0
+	Liveness: 0.0857
+	Valence: 0.688
+	Tempo: 92.725
+	Key: 5
+	Mode: 0
+	Popularity: 47
+
+'Moral of the Story' by Ashe [2019-02-14]
+Features:
+	Danceability: 0.572
+	Energy: 0.406
+	Loudness: -8.624
+	Speechiness: 0.0427
+	Acousticness: 0.587
+	Instrumentalness: 4.48e-06
+	Liveness: 0.102
+	Valence: 0.265
+	Tempo: 119.812
+	Key: 10
+	Mode: 1
+	Popularity: 76
+
+'Coffre plein' by Koba LaD, Maes, Zed [2020-10-23]
+Features:
+	Danceability: 0.758
+	Energy: 0.56
+	Loudness: -6.69
+	Speechiness: 0.0639
+	Acousticness: 0.093
+	Instrumentalness: 0
+	Liveness: 0.104
+	Valence: 0.606
+	Tempo: 149.893
+	Key: 6
+	Mode: 0
+	Popularity: 60
+
+'M3lo' by Tiakola [2022-05-27]
+Features:
+	Danceability: 0.674
+	Energy: 0.445
+	Loudness: -11.317
+	Speechiness: 0.147
+	Acousticness: 0.839
+	Instrumentalness: 0
+	Liveness: 0.0988
+	Valence: 0.541
+	Tempo: 135.001
+	Key: 5
+	Mode: 0
+	Popularity: 63
+
+'MACINTOSH' by Gambi [2020-07-10]
+Features:
+	Danceability: 0.851
+	Energy: 0.567
+	Loudness: -6.506
+	Speechiness: 0.202
+	Acousticness: 0.326
+	Instrumentalness: 1.74e-06
+	Liveness: 0.123
+	Valence: 0.338
+	Tempo: 122.971
+	Key: 5
+	Mode: 1
+	Popularity: 54
+
+'Bande organisée' by 13 Organisé, SCH, Kofs, Jul, Naps, Soso Maness, Elams, Solda, Houari [2020-10-30]
+Features:
+	Danceability: 0.901
+	Energy: 0.939
+	Loudness: -2.762
+	Speechiness: 0.274
+	Acousticness: 0.117
+	Instrumentalness: 0
+	Liveness: 0.0643
+	Valence: 0.805
+	Tempo: 142.948
+	Key: 6
+	Mode: 1
+	Popularity: 61
+
+'Gasolina (feat. Rsko)' by Tiakola, Rsko [2022-05-27]
+Features:
+	Danceability: 0.684
+	Energy: 0.493
+	Loudness: -7.946
+	Speechiness: 0.124
+	Acousticness: 0.517
+	Instrumentalness: 0
+	Liveness: 0.0672
+	Valence: 0.501
+	Tempo: 119.087
+	Key: 6
+	Mode: 0
+	Popularity: 76
+
+'Gasolina (feat. Gambi)' by Hamza, Gambi [2019-12-20]
+Features:
+	Danceability: 0.951
+	Energy: 0.611
+	Loudness: -7.875
+	Speechiness: 0.188
+	Acousticness: 0.285
+	Instrumentalness: 0.000296
+	Liveness: 0.117
+	Valence: 0.724
+	Tempo: 129.999
+	Key: 2
+	Mode: 0
+	Popularity: 54
+
+'Daddy chocolat' by Koba LaD, Gazo [2021-06-17]
+Features:
+	Danceability: 0.721
+	Energy: 0.523
+	Loudness: -8.399
+	Speechiness: 0.147
+	Acousticness: 0.0693
+	Instrumentalness: 0
+	Liveness: 0.281
+	Valence: 0.757
+	Tempo: 141.034
+	Key: 7
+	Mode: 1
+	Popularity: 70
+
+'Wati by Night' by Sexion d'Assaut [2010-03-29]
+Features:
+	Danceability: 0.932
+	Energy: 0.756
+	Loudness: -2.607
+	Speechiness: 0.15
+	Acousticness: 0.15
+	Instrumentalness: 0
+	Liveness: 0.0232
+	Valence: 0.759
+	Tempo: 114.986
+	Key: 2
+	Mode: 1
+	Popularity: 65
+
+'Atasanté (feat. Hamza)' by Tiakola, Hamza [2022-05-27]
+Features:
+	Danceability: 0.833
+	Energy: 0.49
+	Loudness: -8.892
+	Speechiness: 0.0877
+	Acousticness: 0.408
+	Instrumentalness: 0
+	Liveness: 0.0887
+	Valence: 0.665
+	Tempo: 130.007
+	Key: 7
+	Mode: 1
+	Popularity: 70
+
+'Dans l'espace (feat. Heuss l'Enfoiré)' by Gambi, Heuss L'enfoiré [2020-01-17]
+Features:
+	Danceability: 0.916
+	Energy: 0.57
+	Loudness: -6.278
+	Speechiness: 0.18
+	Acousticness: 0.0286
+	Instrumentalness: 1.96e-06
+	Liveness: 0.0851
+	Valence: 0.7
+	Tempo: 110.05
+	Key: 1
+	Mode: 1
+	Popularity: 57
+
+'Abdomen' by Jok'air [2017-02-24]
+Features:
+	Danceability: 0.762
+	Energy: 0.703
+	Loudness: -5.591
+	Speechiness: 0.0938
+	Acousticness: 0.218
+	Instrumentalness: 0
+	Liveness: 0.112
+	Valence: 0.193
+	Tempo: 111.045
+	Key: 11
+	Mode: 0
+	Popularity: 60
+
+'Chandon et Moët (feat. Heuss l'Enfoiré)' by PLK, Heuss L'enfoiré [2020-08-28]
+Features:
+	Danceability: 0.748
+	Energy: 0.731
+	Loudness: -6.558
+	Speechiness: 0.0803
+	Acousticness: 0.261
+	Instrumentalness: 0
+	Liveness: 0.0811
+	Valence: 0.686
+	Tempo: 126.992
+	Key: 11
+	Mode: 0
+	Popularity: 56
+
+'Θ. Macarena' by Damso [2017-04-28]
+Features:
+	Danceability: 0.777
+	Energy: 0.554
+	Loudness: -8.179
+	Speechiness: 0.0572
+	Acousticness: 0.182
+	Instrumentalness: 1.7e-06
+	Liveness: 0.0477
+	Valence: 0.27
+	Tempo: 129.933
+	Key: 2
+	Mode: 1
+	Popularity: 70
+
+'Fume à fond' by Lorenzo [2018-02-23]
+Features:
+	Danceability: 0.833
+	Energy: 0.629
+	Loudness: -6.203
+	Speechiness: 0.404
+	Acousticness: 0.471
+	Instrumentalness: 0
+	Liveness: 0.0986
+	Valence: 0.767
+	Tempo: 75.031
+	Key: 3
+	Mode: 0
+	Popularity: 59
+
+'PUFF PUFF PUFF' by Gambi [2020-07-10]
+Features:
+	Danceability: 0.765
+	Energy: 0.595
+	Loudness: -6.442
+	Speechiness: 0.084
+	Acousticness: 0.00664
+	Instrumentalness: 0
+	Liveness: 0.344
+	Valence: 0.737
+	Tempo: 136.963
+	Key: 0
+	Mode: 0
+	Popularity: 60
+
+'Paqueta' by Gambi [2022-05-21]
+Features:
+	Danceability: 0.742
+	Energy: 0.575
+	Loudness: -8.706
+	Speechiness: 0.295
+	Acousticness: 0.129
+	Instrumentalness: 0
+	Liveness: 0.133
+	Valence: 0.523
+	Tempo: 150.015
+	Key: 0
+	Mode: 0
+	Popularity: 57
+
+'TOUT VA BIEN (feat. Ninho & Naps)' by Alonzo, Ninho, Naps [2022-05-20]
+Features:
+	Danceability: 0.66
+	Energy: 0.72
+	Loudness: -5.874
+	Speechiness: 0.0753
+	Acousticness: 0.301
+	Instrumentalness: 0
+	Liveness: 0.226
+	Valence: 0.628
+	Tempo: 99.937
+	Key: 3
+	Mode: 0
+	Popularity: 80
+
+'Need to Know' by Doja Cat [2021-06-25]
+Features:
+	Danceability: 0.664
+	Energy: 0.609
+	Loudness: -6.509
+	Speechiness: 0.0707
+	Acousticness: 0.304
+	Instrumentalness: 0
+	Liveness: 0.0926
+	Valence: 0.194
+	Tempo: 130.041
+	Key: 1
+	Mode: 1
+	Popularity: 84
+
+'Bâtiment' by Niska [2019-09-05]
+Features:
+	Danceability: 0.663
+	Energy: 0.702
+	Loudness: -6.793
+	Speechiness: 0.136
+	Acousticness: 0.293
+	Instrumentalness: 0
+	Liveness: 0.0741
+	Valence: 0.645
+	Tempo: 168.118
+	Key: 8
+	Mode: 1
+	Popularity: 58
+
+'Sanchez' by Zola [2020-12-18]
+Features:
+	Danceability: 0.938
+	Energy: 0.863
+	Loudness: -4.102
+	Speechiness: 0.184
+	Acousticness: 0.451
+	Instrumentalness: 0.00766
+	Liveness: 0.0372
+	Valence: 0.892
+	Tempo: 130.048
+	Key: 6
+	Mode: 0
+	Popularity: 55
+
+'44' by Niska [2021-11-04]
+Features:
+	Danceability: 0.771
+	Energy: 0.689
+	Loudness: -4.352
+	Speechiness: 0.292
+	Acousticness: 0.322
+	Instrumentalness: 0
+	Liveness: 0.222
+	Valence: 0.79
+	Tempo: 142.068
+	Key: 5
+	Mode: 1
+	Popularity: 65
+
+'60 années' by Damso [2018-06-15]
+Features:
+	Danceability: 0.717
+	Energy: 0.705
+	Loudness: -10.025
+	Speechiness: 0.0704
+	Acousticness: 0.181
+	Instrumentalness: 1.17e-06
+	Liveness: 0.0622
+	Valence: 0.306
+	Tempo: 124.022
+	Key: 6
+	Mode: 1
+	Popularity: 58
+
+'Peon (feat. Orelsan)' by Vald, Orelsan [2022-02-04]
+Features:
+	Danceability: 0.822
+	Energy: 0.695
+	Loudness: -5.231
+	Speechiness: 0.192
+	Acousticness: 0.141
+	Instrumentalness: 0
+	Liveness: 0.0876
+	Valence: 0.56
+	Tempo: 142.0
+	Key: 6
+	Mode: 0
+	Popularity: 61
+
+'Fire' by Harley, OBOY [2021-03-12]
+Features:
+	Danceability: 0.852
+	Energy: 0.599
+	Loudness: -6.915
+	Speechiness: 0.137
+	Acousticness: 0.121
+	Instrumentalness: 9.21e-05
+	Liveness: 0.147
+	Valence: 0.353
+	Tempo: 97.013
+	Key: 7
+	Mode: 1
+	Popularity: 31
+
+'Phantom' by OBOY [2020-07-03]
+Features:
+	Danceability: 0.894
+	Energy: 0.406
+	Loudness: -11.574
+	Speechiness: 0.257
+	Acousticness: 0.0565
+	Instrumentalness: 0.000206
+	Liveness: 0.126
+	Valence: 0.439
+	Tempo: 140.009
+	Key: 8
+	Mode: 1
+	Popularity: 43
+
+'Dans la zone' by Kalash Criminel, Jul [2020-11-20]
+Features:
+	Danceability: 0.909
+	Energy: 0.728
+	Loudness: -6.018
+	Speechiness: 0.197
+	Acousticness: 0.326
+	Instrumentalness: 0.0241
+	Liveness: 0.0811
+	Valence: 0.616
+	Tempo: 100.973
+	Key: 9
+	Mode: 0
+	Popularity: 63
+
+'Ariel' by OBOY [2021-09-10]
+Features:
+	Danceability: 0.807
+	Energy: 0.38
+	Loudness: -11.276
+	Speechiness: 0.149
+	Acousticness: 0.313
+	Instrumentalness: 0
+	Liveness: 0.121
+	Valence: 0.0718
+	Tempo: 92.943
+	Key: 1
+	Mode: 0
+	Popularity: 46
+
+'3PTS' by Smeels [2021-11-12]
+Features:
+	Danceability: 0.87
+	Energy: 0.414
+	Loudness: -13.948
+	Speechiness: 0.0831
+	Acousticness: 0.243
+	Instrumentalness: 0
+	Liveness: 0.0899
+	Valence: 0.425
+	Tempo: 121.037
+	Key: 1
+	Mode: 0
+	Popularity: 38
+
+'Placebo' by Dinos [2018-12-07]
+Features:
+	Danceability: 0.792
+	Energy: 0.438
+	Loudness: -9.076
+	Speechiness: 0.114
+	Acousticness: 0.132
+	Instrumentalness: 3.88e-05
+	Liveness: 0.0963
+	Valence: 0.292
+	Tempo: 138.005
+	Key: 6
+	Mode: 0
+	Popularity: 65
+
+'Maison d’arrêt (feat. Maes)' by Hornet La Frappe, Maes [2021-08-27]
+Features:
+	Danceability: 0.563
+	Energy: 0.794
+	Loudness: -3.681
+	Speechiness: 0.0509
+	Acousticness: 0.2
+	Instrumentalness: 0
+	Liveness: 0.112
+	Valence: 0.698
+	Tempo: 195.883
+	Key: 11
+	Mode: 0
+	Popularity: 52
+
+'Baltimore' by Rémy [2022-01-20]
+Features:
+	Danceability: 0.779
+	Energy: 0.685
+	Loudness: -5.547
+	Speechiness: 0.347
+	Acousticness: 0.302
+	Instrumentalness: 0
+	Liveness: 0.0881
+	Valence: 0.388
+	Tempo: 120.14
+	Key: 2
+	Mode: 1
+	Popularity: 41
+
+'R9R-LINE (feat. Damso)' by Laylow, Damso [2021-07-16]
+Features:
+	Danceability: 0.776
+	Energy: 0.737
+	Loudness: -6.463
+	Speechiness: 0.293
+	Acousticness: 0.221
+	Instrumentalness: 0
+	Liveness: 0.182
+	Valence: 0.733
+	Tempo: 123.998
+	Key: 5
+	Mode: 0
+	Popularity: 63
+
+'KELAWIN' by PRIME [2022-06-15]
+Features:
+	Danceability: 0.816
+	Energy: 0.567
+	Loudness: -7.019
+	Speechiness: 0.31
+	Acousticness: 0.304
+	Instrumentalness: 0
+	Liveness: 0.247
+	Valence: 0.635
+	Tempo: 122.062
+	Key: 3
+	Mode: 0
+	Popularity: 40
+
+'OLA OLA OLA' by No Limit, Bosh, Heuss L'enfoiré [2021-07-30]
+Features:
+	Danceability: 0.939
+	Energy: 0.719
+	Loudness: -4.03
+	Speechiness: 0.165
+	Acousticness: 0.139
+	Instrumentalness: 0
+	Liveness: 0.115
+	Valence: 0.682
+	Tempo: 130.129
+	Key: 7
+	Mode: 0
+	Popularity: 61
+
+'Poupée Russe' by Lujipeka [2021-11-05]
+Features:
+	Danceability: 0.834
+	Energy: 0.606
+	Loudness: -6.946
+	Speechiness: 0.0538
+	Acousticness: 0.256
+	Instrumentalness: 0.000576
+	Liveness: 0.211
+	Valence: 0.808
+	Tempo: 129.917
+	Key: 7
+	Mode: 0
+	Popularity: 62
+
+'24H chrono' by An'Om, Vayn [2019-07-27]
+Features:
+	Danceability: 0.667
+	Energy: 0.694
+	Loudness: -6.485
+	Speechiness: 0.141
+	Acousticness: 0.27
+	Instrumentalness: 0
+	Liveness: 0.0905
+	Valence: 0.52
+	Tempo: 180.0
+	Key: 10
+	Mode: 0
+	Popularity: 41
+
+'SUPERMODEL' by Måneskin [2022-05-13]
+Features:
+	Danceability: 0.636
+	Energy: 0.876
+	Loudness: -3.413
+	Speechiness: 0.0555
+	Acousticness: 0.00164
+	Instrumentalness: 0
+	Liveness: 0.117
+	Valence: 0.799
+	Tempo: 120.983
+	Key: 7
+	Mode: 1
+	Popularity: 85
+
+'La Romana' by Bad Bunny, El Alfa [2018-12-23]
+Features:
+	Danceability: 0.655
+	Energy: 0.725
+	Loudness: -5.497
+	Speechiness: 0.188
+	Acousticness: 0.0327
+	Instrumentalness: 0.00264
+	Liveness: 0.0611
+	Valence: 0.326
+	Tempo: 125.8
+	Key: 0
+	Mode: 1
+	Popularity: 75
+
+'PETETE' by Gambi [2022-07-29]
+Features:
+	Danceability: 0.752
+	Energy: 0.669
+	Loudness: -9.817
+	Speechiness: 0.251
+	Acousticness: 0.167
+	Instrumentalness: 0
+	Liveness: 0.0795
+	Valence: 0.627
+	Tempo: 155.997
+	Key: 10
+	Mode: 0
+	Popularity: 79
+
+'C'est pas grave' by Columbine [2019-04-19]
+Features:
+	Danceability: 0.747
+	Energy: 0.605
+	Loudness: -6.257
+	Speechiness: 0.0733
+	Acousticness: 0.188
+	Instrumentalness: 5.85e-06
+	Liveness: 0.1
+	Valence: 0.473
+	Tempo: 99.955
+	Key: 0
+	Mode: 1
+	Popularity: 57
+
+'Cache-Cache' by Columbine [2018-09-28]
+Features:
+	Danceability: 0.732
+	Energy: 0.508
+	Loudness: -6.717
+	Speechiness: 0.0378
+	Acousticness: 0.454
+	Instrumentalness: 0
+	Liveness: 0.0933
+	Valence: 0.345
+	Tempo: 125.964
+	Key: 0
+	Mode: 1
+	Popularity: 56
+
+'Khaleesi' by An'Om, Vayn [2020-07-31]
+Features:
+	Danceability: 0.705
+	Energy: 0.756
+	Loudness: -7.831
+	Speechiness: 0.0382
+	Acousticness: 0.222
+	Instrumentalness: 0
+	Liveness: 0.0707
+	Valence: 0.0972
+	Tempo: 95.05
+	Key: 9
+	Mode: 0
+	Popularity: 39
+
+'Filer au soleil' by An'Om [2018-02-16]
+Features:
+	Danceability: 0.899
+	Energy: 0.572
+	Loudness: -9.152
+	Speechiness: 0.353
+	Acousticness: 0.622
+	Instrumentalness: 0
+	Liveness: 0.33
+	Valence: 0.597
+	Tempo: 140.055
+	Key: 2
+	Mode: 1
+	Popularity: 47
+
+'Astronaute' by An'Om, Vayn [2018-06-22]
+Features:
+	Danceability: 0.544
+	Energy: 0.576
+	Loudness: -6.894
+	Speechiness: 0.257
+	Acousticness: 0.453
+	Instrumentalness: 0
+	Liveness: 0.0786
+	Valence: 0.33
+	Tempo: 140.05
+	Key: 8
+	Mode: 1
+	Popularity: 58
+
+'Compliance' by Muse [2022-03-17]
+Features:
+	Danceability: 0.642
+	Energy: 0.791
+	Loudness: -4.196
+	Speechiness: 0.0855
+	Acousticness: 0.145
+	Instrumentalness: 0
+	Liveness: 0.374
+	Valence: 0.56
+	Tempo: 110.037
+	Key: 2
+	Mode: 0
+	Popularity: 63
+
+'Bonne weed' by Taïro [2011-02-28]
+Features:
+	Danceability: 0.576
+	Energy: 0.646
+	Loudness: -4.561
+	Speechiness: 0.0627
+	Acousticness: 0.155
+	Instrumentalness: 0
+	Liveness: 0.0629
+	Valence: 0.616
+	Tempo: 71.871
+	Key: 2
+	Mode: 1
+	Popularity: 56
+
+'Jiggle Jiggle' by Duke & Jones, Louis Theroux [2022-05-13]
+Features:
+	Danceability: 0.864
+	Energy: 0.412
+	Loudness: -5.886
+	Speechiness: 0.273
+	Acousticness: 0.458
+	Instrumentalness: 0.00087
+	Liveness: 0.124
+	Valence: 0.654
+	Tempo: 99.992
+	Key: 1
+	Mode: 1
+	Popularity: 80
+
+'To The Moon' by hooligan. [2020-07-07]
+Features:
+	Danceability: 0.648
+	Energy: 0.543
+	Loudness: -6.781
+	Speechiness: 0.0399
+	Acousticness: 0.143
+	Instrumentalness: 0
+	Liveness: 0.187
+	Valence: 0.382
+	Tempo: 119.926
+	Key: 0
+	Mode: 1
+	Popularity: 55
+
+'Just For You' by Lil Pitchy, Roomie [2021-04-16]
+Features:
+	Danceability: 0.692
+	Energy: 0.817
+	Loudness: -5.678
+	Speechiness: 0.044
+	Acousticness: 0.178
+	Instrumentalness: 0
+	Liveness: 0.177
+	Valence: 0.469
+	Tempo: 94.998
+	Key: 2
+	Mode: 1
+	Popularity: 42
+
+'Bad Dream' by Stellar [2021-10-29]
+Features:
+	Danceability: 0.731
+	Energy: 0.746
+	Loudness: -3.43
+	Speechiness: 0.0311
+	Acousticness: 0.00104
+	Instrumentalness: 5.73e-06
+	Liveness: 0.117
+	Valence: 0.555
+	Tempo: 125.016
+	Key: 8
+	Mode: 1
+	Popularity: 70
+
+'Vibe' by Herman [2021-01-01]
+Features:
+	Danceability: 0.59
+	Energy: 0.66
+	Loudness: -8.466
+	Speechiness: 0.171
+	Acousticness: 0.0437
+	Instrumentalness: 0
+	Liveness: 0.117
+	Valence: 0.559
+	Tempo: 85.943
+	Key: 0
+	Mode: 1
+	Popularity: 44
+
+'disaster' by vaultboy [2022-05-06]
+Features:
+	Danceability: 0.666
+	Energy: 0.334
+	Loudness: -7.507
+	Speechiness: 0.0248
+	Acousticness: 0.504
+	Instrumentalness: 0
+	Liveness: 0.105
+	Valence: 0.369
+	Tempo: 97.992
+	Key: 10
+	Mode: 1
+	Popularity: 52
+
+'Perfect on Me' by Ryan Mack [2021-02-21]
+Features:
+	Danceability: 0.624
+	Energy: 0.665
+	Loudness: -8.515
+	Speechiness: 0.0938
+	Acousticness: 0.0385
+	Instrumentalness: 0
+	Liveness: 0.123
+	Valence: 0.574
+	Tempo: 106.94
+	Key: 0
+	Mode: 1
+	Popularity: 41
+
+'rocket science' by vaultboy [2021-11-09]
+Features:
+	Danceability: 0.741
+	Energy: 0.622
+	Loudness: -8.006
+	Speechiness: 0.0395
+	Acousticness: 0.137
+	Instrumentalness: 0
+	Liveness: 0.106
+	Valence: 0.47
+	Tempo: 136.014
+	Key: 10
+	Mode: 1
+	Popularity: 67
+
+'2055 (feat. Coi Leray)' by Sleepy Hallow, Coi Leray [2021-10-08]
+Features:
+	Danceability: 0.72
+	Energy: 0.487
+	Loudness: -8.913
+	Speechiness: 0.0811
+	Acousticness: 0.589
+	Instrumentalness: 0
+	Liveness: 0.0943
+	Valence: 0.533
+	Tempo: 161.009
+	Key: 6
+	Mode: 0
+	Popularity: 49
+
+'Balader' by Soolking, Niska [2022-05-26]
+Features:
+	Danceability: 0.603
+	Energy: 0.802
+	Loudness: -5.089
+	Speechiness: 0.111
+	Acousticness: 0.306
+	Instrumentalness: 5.06e-05
+	Liveness: 0.124
+	Valence: 0.787
+	Tempo: 130.121
+	Key: 4
+	Mode: 0
+	Popularity: 77
+
+'2step' by Ed Sheeran [2022-05-27]
+Features:
+	Danceability: 0.763
+	Energy: 0.661
+	Loudness: -5.592
+	Speechiness: 0.056
+	Acousticness: 0.169
+	Instrumentalness: 0
+	Liveness: 0.117
+	Valence: 0.632
+	Tempo: 95.002
+	Key: 4
+	Mode: 0
+	Popularity: 33
+
+'Help Me Out - Bonus Track' by Kings, Sons Of Zion [2021-05-21]
+Features:
+	Danceability: 0.755
+	Energy: 0.558
+	Loudness: -7.571
+	Speechiness: 0.0962
+	Acousticness: 0.275
+	Instrumentalness: 0
+	Liveness: 0.121
+	Valence: 0.388
+	Tempo: 97.959
+	Key: 4
+	Mode: 0
+	Popularity: 50
+
+'Thousand Miles' by The Kid LAROI [2022-04-22]
+Features:
+	Danceability: 0.376
+	Energy: 0.657
+	Loudness: -4.658
+	Speechiness: 0.0768
+	Acousticness: 0.0858
+	Instrumentalness: 0
+	Liveness: 0.0884
+	Valence: 0.203
+	Tempo: 80.565
+	Key: 7
+	Mode: 1
+	Popularity: 83
+
+'you broke me first' by Tate McRae [2020-04-17]
+Features:
+	Danceability: 0.667
+	Energy: 0.373
+	Loudness: -9.389
+	Speechiness: 0.05
+	Acousticness: 0.785
+	Instrumentalness: 0
+	Liveness: 0.0906
+	Valence: 0.0823
+	Tempo: 124.148
+	Key: 4
+	Mode: 1
+	Popularity: 83
+
+'Hate Me!' by MASN [2020-08-21]
+Features:
+	Danceability: 0.683
+	Energy: 0.628
+	Loudness: -6.512
+	Speechiness: 0.123
+	Acousticness: 0.659
+	Instrumentalness: 0
+	Liveness: 0.106
+	Valence: 0.356
+	Tempo: 142.06
+	Key: 6
+	Mode: 1
+	Popularity: 68
+
+'RUNNING' by The Kid LAROI [2020-07-24]
+Features:
+	Danceability: 0.438
+	Energy: 0.585
+	Loudness: -5.425
+	Speechiness: 0.0908
+	Acousticness: 0.377
+	Instrumentalness: 0
+	Liveness: 0.13
+	Valence: 0.313
+	Tempo: 100.834
+	Key: 8
+	Mode: 0
+	Popularity: 53
+
+'Someone To You' by BANNERS [2017-11-03]
+Features:
+	Danceability: 0.468
+	Energy: 0.936
+	Loudness: -3.683
+	Speechiness: 0.0455
+	Acousticness: 0.00568
+	Instrumentalness: 0
+	Liveness: 0.24
+	Valence: 0.663
+	Tempo: 75.05
+	Key: 2
+	Mode: 1
+	Popularity: 72
+
+'13 Missed Calls' by Zach Hood [2021-04-23]
+Features:
+	Danceability: 0.639
+	Energy: 0.724
+	Loudness: -6.346
+	Speechiness: 0.0664
+	Acousticness: 0.452
+	Instrumentalness: 0
+	Liveness: 0.159
+	Valence: 0.522
+	Tempo: 129.712
+	Key: 7
+	Mode: 1
+	Popularity: 64
+
+'everything sucks' by vaultboy [2021-05-21]
+Features:
+	Danceability: 0.76
+	Energy: 0.371
+	Loudness: -8.964
+	Speechiness: 0.0531
+	Acousticness: 0.00772
+	Instrumentalness: 0
+	Liveness: 0.0785
+	Valence: 0.653
+	Tempo: 138.023
+	Key: 6
+	Mode: 1
+	Popularity: 76
+
+'Tissues' by Teddy Failure [2020-10-23]
+Features:
+	Danceability: 0.722
+	Energy: 0.564
+	Loudness: -5.763
+	Speechiness: 0.112
+	Acousticness: 0.636
+	Instrumentalness: 2.47e-06
+	Liveness: 0.331
+	Valence: 0.643
+	Tempo: 152.064
+	Key: 4
+	Mode: 1
+	Popularity: 58
+
+'drivers license' by Olivia Rodrigo [2021-05-21]
+Features:
+	Danceability: 0.561
+	Energy: 0.431
+	Loudness: -8.81
+	Speechiness: 0.0578
+	Acousticness: 0.768
+	Instrumentalness: 1.42e-05
+	Liveness: 0.106
+	Valence: 0.137
+	Tempo: 143.875
+	Key: 10
+	Mode: 1
+	Popularity: 87
+
+'SAME ENERGY' by The Kid LAROI [2021-07-23]
+Features:
+	Danceability: 0.676
+	Energy: 0.494
+	Loudness: -7.077
+	Speechiness: 0.261
+	Acousticness: 0.135
+	Instrumentalness: 0
+	Liveness: 0.0995
+	Valence: 0.756
+	Tempo: 169.685
+	Key: 2
+	Mode: 1
+	Popularity: 62
+
+'CITY OF ANGELS' by 24kGoldn [2019-11-22]
+Features:
+	Danceability: 0.686
+	Energy: 0.541
+	Loudness: -4.993
+	Speechiness: 0.0493
+	Acousticness: 0.042
+	Instrumentalness: 0
+	Liveness: 0.0675
+	Valence: 0.724
+	Tempo: 120.082
+	Key: 0
+	Mode: 0
+	Popularity: 71
+
+'Isabelle' by Zach Hood [2021-02-05]
+Features:
+	Danceability: 0.678
+	Energy: 0.716
+	Loudness: -4.403
+	Speechiness: 0.0342
+	Acousticness: 0.196
+	Instrumentalness: 0
+	Liveness: 0.102
+	Valence: 0.627
+	Tempo: 109.981
+	Key: 10
+	Mode: 1
+	Popularity: 71
+
+'Before I Go' by Mimi Webb [2020-04-17]
+Features:
+	Danceability: 0.484
+	Energy: 0.54
+	Loudness: -5.226
+	Speechiness: 0.0378
+	Acousticness: 0.121
+	Instrumentalness: 0
+	Liveness: 0.164
+	Valence: 0.284
+	Tempo: 149.805
+	Key: 6
+	Mode: 1
+	Popularity: 63
+
+'GHOST TOWN' by Benson Boone [2021-10-15]
+Features:
+	Danceability: 0.391
+	Energy: 0.335
+	Loudness: -10.064
+	Speechiness: 0.0763
+	Acousticness: 0.389
+	Instrumentalness: 0
+	Liveness: 0.102
+	Valence: 0.116
+	Tempo: 174.185
+	Key: 0
+	Mode: 1
+	Popularity: 78
+
+'BEST FOR ME' by The Kid LAROI [2021-07-27]
+Features:
+	Danceability: 0.536
+	Energy: 0.482
+	Loudness: -6.749
+	Speechiness: 0.0311
+	Acousticness: 0.553
+	Instrumentalness: 0
+	Liveness: 0.123
+	Valence: 0.185
+	Tempo: 90.966
+	Key: 2
+	Mode: 1
+	Popularity: 60
+
+'Coming for You (feat. A1 x J1)' by SwitchOTR, A1 x J1 [2021-10-29]
+Features:
+	Danceability: 0.813
+	Energy: 0.481
+	Loudness: -6.71
+	Speechiness: 0.231
+	Acousticness: 0.217
+	Instrumentalness: 0
+	Liveness: 0.0931
+	Valence: 0.842
+	Tempo: 140.122
+	Key: 1
+	Mode: 1
+	Popularity: 74
+
+'Broken' by Jonah Kagen [2021-01-29]
+Features:
+	Danceability: 0.495
+	Energy: 0.351
+	Loudness: -11.966
+	Speechiness: 0.0626
+	Acousticness: 0.53
+	Instrumentalness: 0
+	Liveness: 0.104
+	Valence: 0.237
+	Tempo: 83.365
+	Key: 1
+	Mode: 1
+	Popularity: 64
+
+'Rest Of My Life' by JC Stewart [2020-11-06]
+Features:
+	Danceability: 0.72
+	Energy: 0.752
+	Loudness: -4.513
+	Speechiness: 0.128
+	Acousticness: 0.0822
+	Instrumentalness: 0.000703
+	Liveness: 0.195
+	Valence: 0.505
+	Tempo: 175.997
+	Key: 7
+	Mode: 0
+	Popularity: 47
+
+'F*CK YOU, GOODBYE (feat. Machine Gun Kelly)' by The Kid LAROI, Machine Gun Kelly [2020-11-06]
+Features:
+	Danceability: 0.721
+	Energy: 0.632
+	Loudness: -6.695
+	Speechiness: 0.0358
+	Acousticness: 0.0693
+	Instrumentalness: 0
+	Liveness: 0.291
+	Valence: 0.296
+	Tempo: 92.057
+	Key: 5
+	Mode: 0
+	Popularity: 73
+
+'ghost me' by Camylio [2021-01-15]
+Features:
+	Danceability: 0.721
+	Energy: 0.51
+	Loudness: -12.31
+	Speechiness: 0.0655
+	Acousticness: 0.0572
+	Instrumentalness: 0
+	Liveness: 0.0908
+	Valence: 0.483
+	Tempo: 122.018
+	Key: 0
+	Mode: 1
+	Popularity: 42
+
+'We Did Not Make Sense' by Presence [2020-06-12]
+Features:
+	Danceability: 0.552
+	Energy: 0.418
+	Loudness: -4.587
+	Speechiness: 0.0345
+	Acousticness: 0.0544
+	Instrumentalness: 0.45
+	Liveness: 0.0923
+	Valence: 0.298
+	Tempo: 71.997
+	Key: 2
+	Mode: 1
+	Popularity: 54
+
+'The Hurt You Gave Me' by Robert Grace [2021-03-12]
+Features:
+	Danceability: 0.706
+	Energy: 0.578
+	Loudness: -7.101
+	Speechiness: 0.202
+	Acousticness: 0.229
+	Instrumentalness: 0
+	Liveness: 0.37
+	Valence: 0.697
+	Tempo: 179.952
+	Key: 7
+	Mode: 1
+	Popularity: 53
+
+'Control' by Zoe Wees [2020-03-13]
+Features:
+	Danceability: 0.599
+	Energy: 0.465
+	Loudness: -4.95
+	Speechiness: 0.0314
+	Acousticness: 0.643
+	Instrumentalness: 1.57e-06
+	Liveness: 0.149
+	Valence: 0.0678
+	Tempo: 113.82
+	Key: 4
+	Mode: 1
+	Popularity: 76
+
+'Arcade' by Duncan Laurence [2019-03-07]
+Features:
+	Danceability: 0.45
+	Energy: 0.329
+	Loudness: -12.603
+	Speechiness: 0.0441
+	Acousticness: 0.818
+	Instrumentalness: 0.00109
+	Liveness: 0.135
+	Valence: 0.266
+	Tempo: 71.884
+	Key: 9
+	Mode: 0
+	Popularity: 79
+
+'Sitting In Fire' by MASN [2020-12-04]
+Features:
+	Danceability: 0.558
+	Energy: 0.625
+	Loudness: -5.253
+	Speechiness: 0.0359
+	Acousticness: 0.0146
+	Instrumentalness: 2.87e-05
+	Liveness: 0.328
+	Valence: 0.293
+	Tempo: 171.934
+	Key: 7
+	Mode: 1
+	Popularity: 57
+
+'mr. nice guy' by KAYDEN [2020-01-15]
+Features:
+	Danceability: 0.614
+	Energy: 0.657
+	Loudness: -3.979
+	Speechiness: 0.0255
+	Acousticness: 0.614
+	Instrumentalness: 0
+	Liveness: 0.157
+	Valence: 0.619
+	Tempo: 92.048
+	Key: 9
+	Mode: 1
+	Popularity: 60
+
+'NEED YOU MOST (So Sick)' by The Kid LAROI [2020-07-24]
+Features:
+	Danceability: 0.63
+	Energy: 0.707
+	Loudness: -3.632
+	Speechiness: 0.0508
+	Acousticness: 0.0681
+	Instrumentalness: 0
+	Liveness: 0.284
+	Valence: 0.285
+	Tempo: 86.849
+	Key: 5
+	Mode: 1
+	Popularity: 64
+
+'Burn Me' by Louyah [2021-02-19]
+Features:
+	Danceability: 0.632
+	Energy: 0.623
+	Loudness: -6.613
+	Speechiness: 0.0549
+	Acousticness: 0.233
+	Instrumentalness: 0
+	Liveness: 0.17
+	Valence: 0.435
+	Tempo: 179.964
+	Key: 10
+	Mode: 1
+	Popularity: 48
+
+'Fine Apple' by Nic D [2021-05-28]
+Features:
+	Danceability: 0.925
+	Energy: 0.558
+	Loudness: -5.362
+	Speechiness: 0.0513
+	Acousticness: 0.178
+	Instrumentalness: 0
+	Liveness: 0.125
+	Valence: 0.467
+	Tempo: 119.992
+	Key: 2
+	Mode: 1
+	Popularity: 65
+
+'I Love You - Acoustic' by Woodkid [2013-01-01]
+Features:
+	Danceability: 0.246
+	Energy: 0.304
+	Loudness: -11.144
+	Speechiness: 0.0349
+	Acousticness: 0.889
+	Instrumentalness: 6.38e-06
+	Liveness: 0.111
+	Valence: 0.108
+	Tempo: 133.962
+	Key: 5
+	Mode: 0
+	Popularity: 50
+
+'Hit and Run' by Goldbird, Dominic Neill [2020-01-10]
+Features:
+	Danceability: 0.69
+	Energy: 0.687
+	Loudness: -7.934
+	Speechiness: 0.0433
+	Acousticness: 0.228
+	Instrumentalness: 0
+	Liveness: 0.105
+	Valence: 0.622
+	Tempo: 110.006
+	Key: 5
+	Mode: 0
+	Popularity: 39
+
+'Paradise' by Bazzi [2019-08-09]
+Features:
+	Danceability: 0.844
+	Energy: 0.644
+	Loudness: -6.273
+	Speechiness: 0.0479
+	Acousticness: 0.0828
+	Instrumentalness: 0
+	Liveness: 0.113
+	Valence: 0.591
+	Tempo: 122.061
+	Key: 11
+	Mode: 0
+	Popularity: 75
+
+'In My Head (feat. Travis Barker)' by 24kGoldn, Travis Barker [2022-03-25]
+Features:
+	Danceability: 0.669
+	Energy: 0.707
+	Loudness: -4.607
+	Speechiness: 0.0668
+	Acousticness: 0.00311
+	Instrumentalness: 1.07e-06
+	Liveness: 0.0784
+	Valence: 0.529
+	Tempo: 159.982
+	Key: 10
+	Mode: 1
+	Popularity: 66
+
+'Cash Time' by Hamza [2017-10-27]
+Features:
+	Danceability: 0.57
+	Energy: 0.514
+	Loudness: -8.669
+	Speechiness: 0.323
+	Acousticness: 0.166
+	Instrumentalness: 1.98e-06
+	Liveness: 0.14
+	Valence: 0.192
+	Tempo: 135.938
+	Key: 8
+	Mode: 1
+	Popularity: 37
+
+'I'm Yours' by Jason Mraz [2008-05-01]
+Features:
+	Danceability: 0.703
+	Energy: 0.444
+	Loudness: -9.331
+	Speechiness: 0.0417
+	Acousticness: 0.559
+	Instrumentalness: 0
+	Liveness: 0.0973
+	Valence: 0.712
+	Tempo: 150.96
+	Key: 11
+	Mode: 1
+	Popularity: 74
+
+'Sur la côte' by Rémy [2020-12-10]
+Features:
+	Danceability: 0.875
+	Energy: 0.759
+	Loudness: -6.586
+	Speechiness: 0.0926
+	Acousticness: 0.125
+	Instrumentalness: 0
+	Liveness: 0.103
+	Valence: 0.637
+	Tempo: 120.009
+	Key: 5
+	Mode: 0
+	Popularity: 45
+
+'La night' by Benab [2021-02-19]
+Features:
+	Danceability: 0.809
+	Energy: 0.67
+	Loudness: -5.391
+	Speechiness: 0.228
+	Acousticness: 0.285
+	Instrumentalness: 0
+	Liveness: 0.0926
+	Valence: 0.434
+	Tempo: 90.009
+	Key: 6
+	Mode: 0
+	Popularity: 59
+
+'Jota' by Niska, Hamza [2021-11-04]
+Features:
+	Danceability: 0.86
+	Energy: 0.593
+	Loudness: -6.735
+	Speechiness: 0.295
+	Acousticness: 0.196
+	Instrumentalness: 2.94e-05
+	Liveness: 0.0707
+	Valence: 0.54
+	Tempo: 81.988
+	Key: 1
+	Mode: 0
+	Popularity: 62
+
+'9 1 1 3 (feat. SCH)' by Zola, SCH [2020-12-18]
+Features:
+	Danceability: 0.907
+	Energy: 0.63
+	Loudness: -6.669
+	Speechiness: 0.243
+	Acousticness: 0.174
+	Instrumentalness: 0.000293
+	Liveness: 0.376
+	Valence: 0.388
+	Tempo: 100.941
+	Key: 6
+	Mode: 0
+	Popularity: 59
+
+'Otto' by SCH [2018-10-19]
+Features:
+	Danceability: 0.713
+	Energy: 0.591
+	Loudness: -8.376
+	Speechiness: 0.119
+	Acousticness: 0.865
+	Instrumentalness: 0.00136
+	Liveness: 0.115
+	Valence: 0.218
+	Tempo: 87.018
+	Key: 3
+	Mode: 0
+	Popularity: 56
+
+'INTERNATIONAL GANGSTAS' by Farid Bang, Capo, 6ix9ine, SCH [2018-09-21]
+Features:
+	Danceability: 0.74
+	Energy: 0.622
+	Loudness: -6.297
+	Speechiness: 0.203
+	Acousticness: 0.0965
+	Instrumentalness: 0
+	Liveness: 0.099
+	Valence: 0.393
+	Tempo: 148.04
+	Key: 1
+	Mode: 1
+	Popularity: 53
+
+'Prêt à partir (feat. Ninho)' by SCH, Ninho [2018-10-19]
+Features:
+	Danceability: 0.728
+	Energy: 0.868
+	Loudness: -7.031
+	Speechiness: 0.244
+	Acousticness: 0.428
+	Instrumentalness: 0
+	Liveness: 0.116
+	Valence: 0.633
+	Tempo: 130.073
+	Key: 5
+	Mode: 0
+	Popularity: 58
+
+'Fusil' by SCH [2015-11-13]
+Features:
+	Danceability: 0.87
+	Energy: 0.464
+	Loudness: -7.44
+	Speechiness: 0.357
+	Acousticness: 0.474
+	Instrumentalness: 0.00122
+	Liveness: 0.094
+	Valence: 0.0929
+	Tempo: 100.011
+	Key: 10
+	Mode: 0
+	Popularity: 60
+
+'Zone à danger' by SCH [2021-03-19]
+Features:
+	Danceability: 0.742
+	Energy: 0.627
+	Loudness: -7.447
+	Speechiness: 0.102
+	Acousticness: 0.182
+	Instrumentalness: 0
+	Liveness: 0.0891
+	Valence: 0.409
+	Tempo: 143.993
+	Key: 1
+	Mode: 1
+	Popularity: 52
+
+'A7' by SCH [2015-11-13]
+Features:
+	Danceability: 0.489
+	Energy: 0.859
+	Loudness: -4.975
+	Speechiness: 0.321
+	Acousticness: 0.116
+	Instrumentalness: 0
+	Liveness: 0.406
+	Valence: 0.442
+	Tempo: 115.901
+	Key: 6
+	Mode: 1
+	Popularity: 58
+
+'Mayday (feat. Ninho)' by SCH, Ninho [2019-11-29]
+Features:
+	Danceability: 0.614
+	Energy: 0.596
+	Loudness: -7.664
+	Speechiness: 0.357
+	Acousticness: 0.605
+	Instrumentalness: 5.3e-06
+	Liveness: 0.0945
+	Valence: 0.248
+	Tempo: 152.138
+	Key: 9
+	Mode: 0
+	Popularity: 63
+
+'En bas (feat. Siboy)' by 4Keus, Siboy [2020-09-23]
+Features:
+	Danceability: 0.823
+	Energy: 0.685
+	Loudness: -6.575
+	Speechiness: 0.128
+	Acousticness: 0.263
+	Instrumentalness: 0
+	Liveness: 0.145
+	Valence: 0.504
+	Tempo: 121.942
+	Key: 0
+	Mode: 0
+	Popularity: 45
+
+'Mignon garçon (feat. Naza, KeBlack & Dry)' by 4Keus, Naza, KeBlack, Dry [2018-05-02]
+Features:
+	Danceability: 0.692
+	Energy: 0.668
+	Loudness: -6.944
+	Speechiness: 0.0554
+	Acousticness: 0.0281
+	Instrumentalness: 1.16e-06
+	Liveness: 0.372
+	Valence: 0.942
+	Tempo: 116.988
+	Key: 8
+	Mode: 0
+	Popularity: 49
+
+'Focus' by 4Keus [2020-09-23]
+Features:
+	Danceability: 0.787
+	Energy: 0.591
+	Loudness: -7.461
+	Speechiness: 0.0432
+	Acousticness: 0.322
+	Instrumentalness: 1.47e-06
+	Liveness: 0.2
+	Valence: 0.686
+	Tempo: 103.006
+	Key: 0
+	Mode: 0
+	Popularity: 46
+
+'Capital Letters' by Hailee Steinfeld, BloodPop® [2018-02-09]
+Features:
+	Danceability: 0.661
+	Energy: 0.814
+	Loudness: -5.529
+	Speechiness: 0.0759
+	Acousticness: 0.0337
+	Instrumentalness: 8.27e-06
+	Liveness: 0.0518
+	Valence: 0.459
+	Tempo: 99.963
+	Key: 0
+	Mode: 1
+	Popularity: 41
+
+'Life' by Hamza [2017-10-27]
+Features:
+	Danceability: 0.554
+	Energy: 0.497
+	Loudness: -7.914
+	Speechiness: 0.352
+	Acousticness: 0.554
+	Instrumentalness: 0
+	Liveness: 0.0871
+	Valence: 0.459
+	Tempo: 84.499
+	Key: 4
+	Mode: 0
+	Popularity: 63
+
+'Laisse moi te dire' by No Limit, Tayc, Hamza [2022-06-17]
+Features:
+	Danceability: 0.773
+	Energy: 0.713
+	Loudness: -8.201
+	Speechiness: 0.0815
+	Acousticness: 0.391
+	Instrumentalness: 0.00246
+	Liveness: 0.185
+	Valence: 0.839
+	Tempo: 112.099
+	Key: 8
+	Mode: 0
+	Popularity: 64
+
+'No blata' by OBOY [2021-09-10]
+Features:
+	Danceability: 0.888
+	Energy: 0.364
+	Loudness: -9.468
+	Speechiness: 0.0543
+	Acousticness: 0.367
+	Instrumentalness: 0
+	Liveness: 0.12
+	Valence: 0.469
+	Tempo: 116.927
+	Key: 0
+	Mode: 0
+	Popularity: 52
+
+'Alpha' by OBOY [2019-07-12]
+Features:
+	Danceability: 0.744
+	Energy: 0.644
+	Loudness: -5.757
+	Speechiness: 0.0573
+	Acousticness: 0.375
+	Instrumentalness: 4.12e-06
+	Liveness: 0.133
+	Valence: 0.333
+	Tempo: 133.977
+	Key: 2
+	Mode: 0
+	Popularity: 47
+
+'Cramé' by Koba LaD, OBOY [2021-06-17]
+Features:
+	Danceability: 0.464
+	Energy: 0.578
+	Loudness: -7.586
+	Speechiness: 0.21
+	Acousticness: 0.287
+	Instrumentalness: 0
+	Liveness: 0.0857
+	Valence: 0.688
+	Tempo: 92.725
+	Key: 5
+	Mode: 0
+	Popularity: 44
+
+'Le maire' by Maes, OBOY [2021-12-22]
+Features:
+	Danceability: 0.784
+	Energy: 0.75
+	Loudness: -6.606
+	Speechiness: 0.082
+	Acousticness: 0.209
+	Instrumentalness: 5.84e-06
+	Liveness: 0.193
+	Valence: 0.629
+	Tempo: 140.046
+	Key: 4
+	Mode: 0
+	Popularity: 53
+
+'Louis V' by OBOY [2021-09-10]
+Features:
+	Danceability: 0.853
+	Energy: 0.319
+	Loudness: -11.311
+	Speechiness: 0.217
+	Acousticness: 0.0798
+	Instrumentalness: 0
+	Liveness: 0.115
+	Valence: 0.204
+	Tempo: 117.976
+	Key: 2
+	Mode: 1
+	Popularity: 55
+
+'R10' by OBOY [2019-07-12]
+Features:
+	Danceability: 0.851
+	Energy: 0.504
+	Loudness: -5.632
+	Speechiness: 0.346
+	Acousticness: 0.547
+	Instrumentalness: 1.36e-06
+	Liveness: 0.124
+	Valence: 0.637
+	Tempo: 132.171
+	Key: 1
+	Mode: 1
+	Popularity: 52
+
+'Préféré (feat. OBOY)' by Aya Nakamura, OBOY [2020-11-13]
+Features:
+	Danceability: 0.758
+	Energy: 0.74
+	Loudness: -7.467
+	Speechiness: 0.0925
+	Acousticness: 0.0175
+	Instrumentalness: 0
+	Liveness: 0.0601
+	Valence: 0.631
+	Tempo: 173.862
+	Key: 0
+	Mode: 1
+	Popularity: 52
+
+'Ysl' by OBOY [2021-09-10]
+Features:
+	Danceability: 0.824
+	Energy: 0.45
+	Loudness: -8.993
+	Speechiness: 0.13
+	Acousticness: 0.14
+	Instrumentalness: 0
+	Liveness: 0.114
+	Valence: 0.196
+	Tempo: 121.028
+	Key: 4
+	Mode: 0
+	Popularity: 57
+
+'Nuit' by OBOY [2018-03-16]
+Features:
+	Danceability: 0.633
+	Energy: 0.483
+	Loudness: -9.968
+	Speechiness: 0.0663
+	Acousticness: 0.486
+	Instrumentalness: 0
+	Liveness: 0.116
+	Valence: 0.313
+	Tempo: 119.971
+	Key: 10
+	Mode: 1
+	Popularity: 61
+
+'FADE UP' by ZEG P, Hamza, SCH [2022-06-24]
+Features:
+	Danceability: 0.758
+	Energy: 0.599
+	Loudness: -5.99
+	Speechiness: 0.0877
+	Acousticness: 0.57
+	Instrumentalness: 1.13e-06
+	Liveness: 0.129
+	Valence: 0.557
+	Tempo: 129.96
+	Key: 4
+	Mode: 0
+	Popularity: 81
+
+'Ne reviens pas' by Gradur, Heuss L'enfoiré [2019-11-21]
+Features:
+	Danceability: 0.932
+	Energy: 0.762
+	Loudness: -3.376
+	Speechiness: 0.0747
+	Acousticness: 0.222
+	Instrumentalness: 0
+	Liveness: 0.164
+	Valence: 0.931
+	Tempo: 124.975
+	Key: 10
+	Mode: 0
+	Popularity: 58
+
+'In Da Getto' by J Balvin, Skrillex [2021-07-02]
+Features:
+	Danceability: 0.915
+	Energy: 0.72
+	Loudness: -3.126
+	Speechiness: 0.0459
+	Acousticness: 0.025
+	Instrumentalness: 1.42e-05
+	Liveness: 0.0942
+	Valence: 0.631
+	Tempo: 126.986
+	Key: 8
+	Mode: 1
+	Popularity: 76
+
+'La kiffance' by Naps [2021-02-26]
+Features:
+	Danceability: 0.806
+	Energy: 0.637
+	Loudness: -6.515
+	Speechiness: 0.0881
+	Acousticness: 0.232
+	Instrumentalness: 0
+	Liveness: 0.071
+	Valence: 0.674
+	Tempo: 140.053
+	Key: 6
+	Mode: 1
+	Popularity: 66
+
+'Tower' by James The Prophet, Pab the Kid, Itzama [2022-06-17]
+Features:
+	Danceability: 0.733
+	Energy: 0.83
+	Loudness: -4.058
+	Speechiness: 0.0565
+	Acousticness: 0.0708
+	Instrumentalness: 0
+	Liveness: 0.135
+	Valence: 0.798
+	Tempo: 115.022
+	Key: 0
+	Mode: 1
+	Popularity: 24
+
+'Zumba He Zumba Ha (remix 2012) [feat. Jessy Matador & Luis Guisao]' by Dj Mam's [2012-04-30]
+Features:
+	Danceability: 0.708
+	Energy: 0.942
+	Loudness: -5.491
+	Speechiness: 0.0502
+	Acousticness: 0.084
+	Instrumentalness: 0
+	Liveness: 0.561
+	Valence: 0.968
+	Tempo: 130.086
+	Key: 4
+	Mode: 0
+	Popularity: 41
+
+'Best life' by Naps, GIMS [2021-10-08]
+Features:
+	Danceability: 0.919
+	Energy: 0.779
+	Loudness: -4.739
+	Speechiness: 0.147
+	Acousticness: 0.258
+	Instrumentalness: 0
+	Liveness: 0.0991
+	Valence: 0.941
+	Tempo: 138.038
+	Key: 7
+	Mode: 0
+	Popularity: 69
+
+'Copines' by Aya Nakamura [2018-11-02]
+Features:
+	Danceability: 0.701
+	Energy: 0.787
+	Loudness: -3.941
+	Speechiness: 0.0855
+	Acousticness: 0.27
+	Instrumentalness: 0
+	Liveness: 0.105
+	Valence: 0.904
+	Tempo: 180.027
+	Key: 8
+	Mode: 0
+	Popularity: 71
+
+'Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit' by Riton, Nightcrawlers, Mufasa & Hypeman, Dopamine [2021-01-15]
+Features:
+	Danceability: 0.824
+	Energy: 0.862
+	Loudness: -3.424
+	Speechiness: 0.126
+	Acousticness: 0.0076
+	Instrumentalness: 0.000132
+	Liveness: 0.303
+	Valence: 0.801
+	Tempo: 122.98
+	Key: 2
+	Mode: 1
+	Popularity: 82
+
+'Overwhelmed (Ryan Mack Remix)' by Ryan Mack [2021-07-14]
+Features:
+	Danceability: 0.658
+	Energy: 0.445
+	Loudness: -8.749
+	Speechiness: 0.154
+	Acousticness: 0.161
+	Instrumentalness: 0
+	Liveness: 0.0845
+	Valence: 0.513
+	Tempo: 174.111
+	Key: 0
+	Mode: 0
+	Popularity: 76
+
+'I'm not Pretty' by JESSIA [2021-01-08]
+Features:
+	Danceability: 0.71
+	Energy: 0.525
+	Loudness: -6.477
+	Speechiness: 0.311
+	Acousticness: 0.0827
+	Instrumentalness: 0
+	Liveness: 0.0661
+	Valence: 0.903
+	Tempo: 75.171
+	Key: 2
+	Mode: 1
+	Popularity: 67
+
+'Lemon Tree' by Fools Garden [1995-01-01]
+Features:
+	Danceability: 0.663
+	Energy: 0.475
+	Loudness: -8.834
+	Speechiness: 0.0417
+	Acousticness: 0.643
+	Instrumentalness: 0
+	Liveness: 0.122
+	Valence: 0.644
+	Tempo: 143.175
+	Key: 1
+	Mode: 1
+	Popularity: 75
+
+'September' by Earth, Wind & Fire [1978-11-23]
+Features:
+	Danceability: 0.697
+	Energy: 0.832
+	Loudness: -7.264
+	Speechiness: 0.0298
+	Acousticness: 0.168
+	Instrumentalness: 0.00131
+	Liveness: 0.269
+	Valence: 0.979
+	Tempo: 125.926
+	Key: 9
+	Mode: 1
+	Popularity: 81
+
+'Shallow' by Lady Gaga, Bradley Cooper [2018-10-05]
+Features:
+	Danceability: 0.572
+	Energy: 0.385
+	Loudness: -6.362
+	Speechiness: 0.0308
+	Acousticness: 0.371
+	Instrumentalness: 0
+	Liveness: 0.231
+	Valence: 0.323
+	Tempo: 95.799
+	Key: 7
+	Mode: 1
+	Popularity: 83
+
+'Sweet Dreams (Are Made of This) - Remastered' by Eurythmics, Annie Lennox, Dave Stewart [1983-01-04]
+Features:
+	Danceability: 0.692
+	Energy: 0.711
+	Loudness: -7.498
+	Speechiness: 0.0317
+	Acousticness: 0.225
+	Instrumentalness: 0
+	Liveness: 0.12
+	Valence: 0.875
+	Tempo: 125.135
+	Key: 0
+	Mode: 0
+	Popularity: 81
+
+'Wonderwall' by Oasis [1995-10-02]
+Features:
+	Danceability: 0.41
+	Energy: 0.854
+	Loudness: -5.609
+	Speechiness: 0.0366
+	Acousticness: 0.00236
+	Instrumentalness: 0
+	Liveness: 0.133
+	Valence: 0.456
+	Tempo: 174.584
+	Key: 2
+	Mode: 1
+	Popularity: 72
+
+'overwhelmed' by Royal & the Serpent [2020-06-26]
+Features:
+	Danceability: 0.804
+	Energy: 0.323
+	Loudness: -11.127
+	Speechiness: 0.305
+	Acousticness: 0.308
+	Instrumentalness: 0
+	Liveness: 0.15
+	Valence: 0.456
+	Tempo: 87.019
+	Key: 0
+	Mode: 0
+	Popularity: 69
+
+'Never Go Wrong' by Nicky Youre, david hugo [2022-03-25]
+Features:
+	Danceability: 0.585
+	Energy: 0.835
+	Loudness: -6.453
+	Speechiness: 0.113
+	Acousticness: 0.0687
+	Instrumentalness: 0
+	Liveness: 0.275
+	Valence: 0.93
+	Tempo: 164.988
+	Key: 5
+	Mode: 1
+	Popularity: 62
+
+'Dopamine Addict' by Alec Benjamin [2022-04-15]
+Features:
+	Danceability: 0.721
+	Energy: 0.772
+	Loudness: -4.506
+	Speechiness: 0.19
+	Acousticness: 0.598
+	Instrumentalness: 0.000204
+	Liveness: 0.19
+	Valence: 0.483
+	Tempo: 76.928
+	Key: 10
+	Mode: 0
+	Popularity: 61
+
+'Sunroof' by Nicky Youre, dazy [2021-12-03]
+Features:
+	Danceability: 0.768
+	Energy: 0.714
+	Loudness: -5.11
+	Speechiness: 0.0401
+	Acousticness: 0.352
+	Instrumentalness: 0
+	Liveness: 0.15
+	Valence: 0.842
+	Tempo: 131.443
+	Key: 10
+	Mode: 1
+	Popularity: 91
+
+'Jet Lag (feat. Marie-Mai)' by Simple Plan, Marie-Mai [2011-04-26]
+Features:
+	Danceability: 0.522
+	Energy: 0.95
+	Loudness: -3.176
+	Speechiness: 0.0747
+	Acousticness: 0.0258
+	Instrumentalness: 0
+	Liveness: 0.137
+	Valence: 0.706
+	Tempo: 144.99
+	Key: 11
+	Mode: 1
+	Popularity: 43
+
+'No Guidance (feat. Drake)' by Chris Brown, Drake [2019-06-28]
+Features:
+	Danceability: 0.696
+	Energy: 0.454
+	Loudness: -6.756
+	Speechiness: 0.153
+	Acousticness: 0.123
+	Instrumentalness: 0
+	Liveness: 0.155
+	Valence: 0.136
+	Tempo: 92.928
+	Key: 1
+	Mode: 0
+	Popularity: 79
+
+'Hello (feat. A Boogie Wit da Hoodie)' by Pop Smoke, A Boogie Wit da Hoodie [2020-07-20]
+Features:
+	Danceability: 0.905
+	Energy: 0.647
+	Loudness: -5.065
+	Speechiness: 0.107
+	Acousticness: 0.0187
+	Instrumentalness: 0
+	Liveness: 0.282
+	Valence: 0.367
+	Tempo: 130.97
+	Key: 10
+	Mode: 0
+	Popularity: 78
+
+'His & Hers (feat. Don Toliver, Lil Uzi Vert & Gunna)' by Internet Money, Gunna, Don Toliver, Lil Uzi Vert [2021-05-13]
+Features:
+	Danceability: 0.792
+	Energy: 0.707
+	Loudness: -5.218
+	Speechiness: 0.0623
+	Acousticness: 0.116
+	Instrumentalness: 0
+	Liveness: 0.12
+	Valence: 0.408
+	Tempo: 134.997
+	Key: 7
+	Mode: 0
+	Popularity: 74
+
+'LET IT GO (feat. Justin Bieber & 21 Savage)' by DJ Khaled, 21 Savage, Justin Bieber [2021-04-30]
+Features:
+	Danceability: 0.877
+	Energy: 0.444
+	Loudness: -7.547
+	Speechiness: 0.172
+	Acousticness: 0.24
+	Instrumentalness: 0
+	Liveness: 0.169
+	Valence: 0.658
+	Tempo: 129.06
+	Key: 8
+	Mode: 1
+	Popularity: 68
+
+'Doudou' by Koba LaD, Naps [2021-12-09]
+Features:
+	Danceability: 0.837
+	Energy: 0.615
+	Loudness: -5.274
+	Speechiness: 0.0762
+	Acousticness: 0.37
+	Instrumentalness: 1.29e-05
+	Liveness: 0.0914
+	Valence: 0.858
+	Tempo: 130.062
+	Key: 6
+	Mode: 0
+	Popularity: 70
+
+'First Class' by Jack Harlow [2022-05-06]
+Features:
+	Danceability: 0.902
+	Energy: 0.582
+	Loudness: -5.902
+	Speechiness: 0.109
+	Acousticness: 0.111
+	Instrumentalness: 3.18e-06
+	Liveness: 0.111
+	Valence: 0.332
+	Tempo: 107.005
+	Key: 5
+	Mode: 0
+	Popularity: 81
+
+'Feel' by Robbie Williams [2002-01-01]
+Features:
+	Danceability: 0.599
+	Energy: 0.732
+	Loudness: -6.843
+	Speechiness: 0.026
+	Acousticness: 0.0145
+	Instrumentalness: 0.000467
+	Liveness: 0.143
+	Valence: 0.295
+	Tempo: 97.997
+	Key: 5
+	Mode: 1
+	Popularity: 72
+
+'Amigo' by Azuul Smith [2017-11-17]
+Features:
+	Danceability: 0.461
+	Energy: 0.633
+	Loudness: -6.322
+	Speechiness: 0.154
+	Acousticness: 0.406
+	Instrumentalness: 0
+	Liveness: 0.122
+	Valence: 0.22
+	Tempo: 100.087
+	Key: 4
+	Mode: 0
+	Popularity: 22
+
+'2002' by Anne-Marie [2018-04-27]
+Features:
+	Danceability: 0.697
+	Energy: 0.683
+	Loudness: -2.881
+	Speechiness: 0.117
+	Acousticness: 0.0372
+	Instrumentalness: 0
+	Liveness: 0.137
+	Valence: 0.603
+	Tempo: 96.133
+	Key: 1
+	Mode: 0
+	Popularity: 81
+
+'La Maxance' by Naps [2022-05-17]
+Features:
+	Danceability: 0.93
+	Energy: 0.707
+	Loudness: -7.355
+	Speechiness: 0.0686
+	Acousticness: 0.195
+	Instrumentalness: 0
+	Liveness: 0.128
+	Valence: 0.966
+	Tempo: 140.036
+	Key: 7
+	Mode: 1
+	Popularity: 60
+
+'Hands On You' by Austin George [2021-12-10]
+Features:
+	Danceability: 0.616
+	Energy: 0.557
+	Loudness: -5.871
+	Speechiness: 0.0413
+	Acousticness: 0.354
+	Instrumentalness: 1.53e-06
+	Liveness: 0.345
+	Valence: 0.626
+	Tempo: 159.91
+	Key: 11
+	Mode: 0
+	Popularity: 63
+
+'Pretty' by Landon Cube, 24kGoldn [2019-10-18]
+Features:
+	Danceability: 0.679
+	Energy: 0.853
+	Loudness: -5.289
+	Speechiness: 0.0659
+	Acousticness: 0.195
+	Instrumentalness: 0
+	Liveness: 0.132
+	Valence: 0.767
+	Tempo: 76.064
+	Key: 0
+	Mode: 0
+	Popularity: 56
+
+'Néant' by Carbonne [2021-01-29]
+Features:
+	Danceability: 0.841
+	Energy: 0.54
+	Loudness: -10.941
+	Speechiness: 0.139
+	Acousticness: 0.341
+	Instrumentalness: 0
+	Liveness: 0.102
+	Valence: 0.514
+	Tempo: 128.44
+	Key: 7
+	Mode: 1
+	Popularity: 50
+
+'All of Me' by John Legend [2013-08-30]
+Features:
+	Danceability: 0.422
+	Energy: 0.264
+	Loudness: -7.064
+	Speechiness: 0.0322
+	Acousticness: 0.922
+	Instrumentalness: 0
+	Liveness: 0.132
+	Valence: 0.331
+	Tempo: 119.93
+	Key: 8
+	Mode: 1
+	Popularity: 84
+
+'Outside (feat. Ellie Goulding)' by Calvin Harris, Ellie Goulding [2014-10-31]
+Features:
+	Danceability: 0.646
+	Energy: 0.823
+	Loudness: -4.123
+	Speechiness: 0.0394
+	Acousticness: 0.213
+	Instrumentalness: 0
+	Liveness: 0.322
+	Valence: 0.418
+	Tempo: 128.035
+	Key: 2
+	Mode: 0
+	Popularity: 78
+
+'Wonder' by Shawn Mendes [2020-10-02]
+Features:
+	Danceability: 0.333
+	Energy: 0.637
+	Loudness: -4.904
+	Speechiness: 0.0581
+	Acousticness: 0.131
+	Instrumentalness: 1.8e-05
+	Liveness: 0.149
+	Valence: 0.132
+	Tempo: 139.898
+	Key: 1
+	Mode: 0
+	Popularity: 71
+
+'Summer of Love (Shawn Mendes & Tainy)' by Shawn Mendes, Tainy [2021-08-20]
+Features:
+	Danceability: 0.776
+	Energy: 0.808
+	Loudness: -4.501
+	Speechiness: 0.117
+	Acousticness: 0.0297
+	Instrumentalness: 0.000127
+	Liveness: 0.103
+	Valence: 0.494
+	Tempo: 123.988
+	Key: 11
+	Mode: 1
+	Popularity: 81
+
+'When You're Gone' by Shawn Mendes [2022-03-31]
+Features:
+	Danceability: 0.603
+	Energy: 0.691
+	Loudness: -5.805
+	Speechiness: 0.0372
+	Acousticness: 0.0248
+	Instrumentalness: 0
+	Liveness: 0.583
+	Valence: 0.577
+	Tempo: 147.148
+	Key: 5
+	Mode: 1
+	Popularity: 82
+
+'Can’t Imagine' by Shawn Mendes [2020-12-05]
+Features:
+	Danceability: 0.504
+	Energy: 0.158
+	Loudness: -14.526
+	Speechiness: 0.102
+	Acousticness: 0.847
+	Instrumentalness: 2.42e-06
+	Liveness: 0.354
+	Valence: 0.385
+	Tempo: 111.832
+	Key: 0
+	Mode: 1
+	Popularity: 28
+
+'Look Up At The Stars' by Shawn Mendes [2020-12-07]
+Features:
+	Danceability: 0.459
+	Energy: 0.579
+	Loudness: -4.93
+	Speechiness: 0.0315
+	Acousticness: 0.0526
+	Instrumentalness: 0
+	Liveness: 0.203
+	Valence: 0.461
+	Tempo: 83.981
+	Key: 2
+	Mode: 1
+	Popularity: 43
+
+'In My Blood' by Shawn Mendes [2018-05-25]
+Features:
+	Danceability: 0.622
+	Energy: 0.712
+	Loudness: -7.321
+	Speechiness: 0.066
+	Acousticness: 0.0573
+	Instrumentalness: 0
+	Liveness: 0.13
+	Valence: 0.487
+	Tempo: 140.025
+	Key: 5
+	Mode: 1
+	Popularity: 75
+
+'Mercy' by Shawn Mendes [2017-04-20]
+Features:
+	Danceability: 0.555
+	Energy: 0.662
+	Loudness: -4.952
+	Speechiness: 0.0827
+	Acousticness: 0.125
+	Instrumentalness: 0
+	Liveness: 0.111
+	Valence: 0.356
+	Tempo: 148.128
+	Key: 11
+	Mode: 0
+	Popularity: 80
+
+'Stitches' by Shawn Mendes [2015-04-14]
+Features:
+	Danceability: 0.746
+	Energy: 0.754
+	Loudness: -6.684
+	Speechiness: 0.0676
+	Acousticness: 0.0152
+	Instrumentalness: 0
+	Liveness: 0.0486
+	Valence: 0.746
+	Tempo: 149.882
+	Key: 1
+	Mode: 1
+	Popularity: 78
+
+'Señorita' by Shawn Mendes, Camila Cabello [2019-06-19]
+Features:
+	Danceability: 0.759
+	Energy: 0.548
+	Loudness: -6.049
+	Speechiness: 0.029
+	Acousticness: 0.0392
+	Instrumentalness: 0
+	Liveness: 0.0828
+	Valence: 0.749
+	Tempo: 116.967
+	Key: 9
+	Mode: 0
+	Popularity: 78
+
+'Treat You Better' by Shawn Mendes [2017-04-20]
+Features:
+	Danceability: 0.444
+	Energy: 0.819
+	Loudness: -4.078
+	Speechiness: 0.341
+	Acousticness: 0.106
+	Instrumentalness: 0
+	Liveness: 0.107
+	Valence: 0.747
+	Tempo: 82.695
+	Key: 10
+	Mode: 0
+	Popularity: 82
+
+'La mort a du goût' by Bekar [2019-03-22]
+Features:
+	Danceability: 0.748
+	Energy: 0.589
+	Loudness: -8.034
+	Speechiness: 0.0498
+	Acousticness: 0.3
+	Instrumentalness: 0
+	Liveness: 0.138
+	Valence: 0.179
+	Tempo: 125.116
+	Key: 6
+	Mode: 0
+	Popularity: 51
+
+'RENCONTRE' by Disiz, Damso [2022-03-17]
+Features:
+	Danceability: 0.62
+	Energy: 0.458
+	Loudness: -10.557
+	Speechiness: 0.269
+	Acousticness: 0.521
+	Instrumentalness: 0
+	Liveness: 0.11
+	Valence: 0.518
+	Tempo: 125.132
+	Key: 2
+	Mode: 1
+	Popularity: 73
+
+'Eté 90' by Therapie TAXI [2021-01-08]
+Features:
+	Danceability: 0.649
+	Energy: 0.618
+	Loudness: -7.691
+	Speechiness: 0.0779
+	Acousticness: 0.0215
+	Instrumentalness: 1.16e-06
+	Liveness: 0.0911
+	Valence: 0.381
+	Tempo: 92.02
+	Key: 9
+	Mode: 1
+	Popularity: 66
+
+'Bam Bam (feat. Ed Sheeran)' by Camila Cabello, Ed Sheeran [2022-03-04]
+Features:
+	Danceability: 0.756
+	Energy: 0.697
+	Loudness: -6.377
+	Speechiness: 0.0401
+	Acousticness: 0.182
+	Instrumentalness: 0
+	Liveness: 0.333
+	Valence: 0.956
+	Tempo: 94.996
+	Key: 8
+	Mode: 1
+	Popularity: 88
+
+'Cold Heart - PNAU Remix' by Elton John, Dua Lipa, PNAU [2021-10-22]
+Features:
+	Danceability: 0.795
+	Energy: 0.8
+	Loudness: -6.32
+	Speechiness: 0.0309
+	Acousticness: 0.0354
+	Instrumentalness: 7.25e-05
+	Liveness: 0.0915
+	Valence: 0.934
+	Tempo: 116.032
+	Key: 1
+	Mode: 1
+	Popularity: 84
+
+'Pepas' by Farruko [2021-10-01]
+Features:
+	Danceability: 0.762
+	Energy: 0.766
+	Loudness: -3.955
+	Speechiness: 0.0343
+	Acousticness: 0.00776
+	Instrumentalness: 6.98e-05
+	Liveness: 0.128
+	Valence: 0.442
+	Tempo: 130.001
+	Key: 7
+	Mode: 1
+	Popularity: 76
+
+'SO DONE' by The Kid LAROI [2020-11-04]
+Features:
+	Danceability: 0.719
+	Energy: 0.598
+	Loudness: -6.254
+	Speechiness: 0.077
+	Acousticness: 0.232
+	Instrumentalness: 0
+	Liveness: 0.115
+	Valence: 0.303
+	Tempo: 142.592
+	Key: 9
+	Mode: 1
+	Popularity: 67
+
+'Something Just Like This' by The Chainsmokers, Coldplay [2017-04-07]
+Features:
+	Danceability: 0.617
+	Energy: 0.635
+	Loudness: -6.769
+	Speechiness: 0.0317
+	Acousticness: 0.0498
+	Instrumentalness: 1.44e-05
+	Liveness: 0.164
+	Valence: 0.446
+	Tempo: 103.019
+	Key: 11
+	Mode: 0
+	Popularity: 84
+
+'Wishing Well' by Juice WRLD [2020-07-10]
+Features:
+	Danceability: 0.65
+	Energy: 0.613
+	Loudness: -6.13
+	Speechiness: 0.128
+	Acousticness: 0.00336
+	Instrumentalness: 0
+	Liveness: 0.267
+	Valence: 0.0804
+	Tempo: 149.972
+	Key: 9
+	Mode: 0
+	Popularity: 80
+
+'Petite Marie (Fanzine Remix)' by Biga*Ranx [2021-02-26]
+Features:
+	Danceability: 0.813
+	Energy: 0.679
+	Loudness: -5.325
+	Speechiness: 0.129
+	Acousticness: 0.498
+	Instrumentalness: 0
+	Liveness: 0.0875
+	Valence: 0.759
+	Tempo: 75.009
+	Key: 11
+	Mode: 0
+	Popularity: 63
+
+'Bad Liar' by Imagine Dragons [2018-11-09]
+Features:
+	Danceability: 0.383
+	Energy: 0.637
+	Loudness: -6.993
+	Speechiness: 0.0703
+	Acousticness: 0.0722
+	Instrumentalness: 0
+	Liveness: 0.368
+	Valence: 0.0827
+	Tempo: 177.913
+	Key: 3
+	Mode: 1
+	Popularity: 80
+
+'7 Years' by Lukas Graham [2016-03-25]
+Features:
+	Danceability: 0.765
+	Energy: 0.472
+	Loudness: -5.837
+	Speechiness: 0.052
+	Acousticness: 0.291
+	Instrumentalness: 0
+	Liveness: 0.389
+	Valence: 0.352
+	Tempo: 119.946
+	Key: 10
+	Mode: 1
+	Popularity: 59
+
+'Alone, Pt. II' by Alan Walker, Ava Max [2021-11-26]
+Features:
+	Danceability: 0.673
+	Energy: 0.659
+	Loudness: -4.493
+	Speechiness: 0.0439
+	Acousticness: 0.539
+	Instrumentalness: 0
+	Liveness: 0.129
+	Valence: 0.628
+	Tempo: 88.011
+	Key: 3
+	Mode: 0
+	Popularity: 68
+
+'Sunflower - Spider-Man: Into the Spider-Verse' by Post Malone, Swae Lee [2019-09-06]
+Features:
+	Danceability: 0.755
+	Energy: 0.522
+	Loudness: -4.368
+	Speechiness: 0.0575
+	Acousticness: 0.533
+	Instrumentalness: 0
+	Liveness: 0.0685
+	Valence: 0.925
+	Tempo: 89.96
+	Key: 2
+	Mode: 1
+	Popularity: 79
+
+'good 4 u' by Olivia Rodrigo [2021-05-21]
+Features:
+	Danceability: 0.563
+	Energy: 0.664
+	Loudness: -5.044
+	Speechiness: 0.154
+	Acousticness: 0.335
+	Instrumentalness: 0
+	Liveness: 0.0849
+	Valence: 0.688
+	Tempo: 166.928
+	Key: 9
+	Mode: 1
+	Popularity: 88
+
+'Monster (Shawn Mendes & Justin Bieber)' by Shawn Mendes, Justin Bieber [2020-12-04]
+Features:
+	Danceability: 0.64
+	Energy: 0.392
+	Loudness: -7.246
+	Speechiness: 0.0574
+	Acousticness: 0.0593
+	Instrumentalness: 0
+	Liveness: 0.0839
+	Valence: 0.502
+	Tempo: 145.838
+	Key: 2
+	Mode: 0
+	Popularity: 71
+
+'Take You Dancing' by Jason Derulo [2020-07-22]
+Features:
+	Danceability: 0.789
+	Energy: 0.711
+	Loudness: -4.248
+	Speechiness: 0.041
+	Acousticness: 0.0332
+	Instrumentalness: 0
+	Liveness: 0.0876
+	Valence: 0.753
+	Tempo: 112.985
+	Key: 2
+	Mode: 1
+	Popularity: 78
+
+'Intentions (feat. Quavo)' by Justin Bieber, Quavo [2020-02-14]
+Features:
+	Danceability: 0.806
+	Energy: 0.546
+	Loudness: -6.637
+	Speechiness: 0.0575
+	Acousticness: 0.3
+	Instrumentalness: 0
+	Liveness: 0.102
+	Valence: 0.874
+	Tempo: 147.986
+	Key: 9
+	Mode: 1
+	Popularity: 77
+
+'There's Nothing Holdin' Me Back' by Shawn Mendes [2017-04-20]
+Features:
+	Danceability: 0.866
+	Energy: 0.813
+	Loudness: -4.063
+	Speechiness: 0.0554
+	Acousticness: 0.38
+	Instrumentalness: 0
+	Liveness: 0.0779
+	Valence: 0.969
+	Tempo: 121.998
+	Key: 11
+	Mode: 0
+	Popularity: 85
+
+'Run' by OneRepublic [2021-08-27]
+Features:
+	Danceability: 0.682
+	Energy: 0.72
+	Loudness: -8.176
+	Speechiness: 0.0382
+	Acousticness: 0.321
+	Instrumentalness: 0
+	Liveness: 0.205
+	Valence: 0.649
+	Tempo: 116.988
+	Key: 11
+	Mode: 0
+	Popularity: 76
+
+'lovely (with Khalid)' by Billie Eilish, Khalid [2018-04-19]
+Features:
+	Danceability: 0.351
+	Energy: 0.296
+	Loudness: -10.109
+	Speechiness: 0.0333
+	Acousticness: 0.934
+	Instrumentalness: 0
+	Liveness: 0.095
+	Valence: 0.12
+	Tempo: 115.284
+	Key: 4
+	Mode: 0
+	Popularity: 87
+
+'Deserve You' by Justin Bieber [2021-03-19]
+Features:
+	Danceability: 0.677
+	Energy: 0.633
+	Loudness: -7.831
+	Speechiness: 0.0771
+	Acousticness: 0.0314
+	Instrumentalness: 0
+	Liveness: 0.112
+	Valence: 0.409
+	Tempo: 89.934
+	Key: 7
+	Mode: 1
+	Popularity: 68
+
+'Loved By You (feat. Burna Boy)' by Justin Bieber, Burna Boy [2021-03-19]
+Features:
+	Danceability: 0.79
+	Energy: 0.724
+	Loudness: -6.972
+	Speechiness: 0.0852
+	Acousticness: 0.0696
+	Instrumentalness: 2.33e-06
+	Liveness: 0.113
+	Valence: 0.642
+	Tempo: 101.04
+	Key: 1
+	Mode: 1
+	Popularity: 67
+
+'Unstable (feat. The Kid LAROI)' by Justin Bieber, The Kid LAROI [2021-03-19]
+Features:
+	Danceability: 0.495
+	Energy: 0.333
+	Loudness: -10.109
+	Speechiness: 0.0288
+	Acousticness: 0.737
+	Instrumentalness: 0
+	Liveness: 0.112
+	Valence: 0.37
+	Tempo: 99.757
+	Key: 4
+	Mode: 0
+	Popularity: 70
+
+'Holy (feat. Chance The Rapper)' by Justin Bieber, Chance the Rapper [2021-03-19]
+Features:
+	Danceability: 0.67
+	Energy: 0.693
+	Loudness: -8.34
+	Speechiness: 0.35
+	Acousticness: 0.2
+	Instrumentalness: 0
+	Liveness: 0.0909
+	Valence: 0.388
+	Tempo: 87.017
+	Key: 6
+	Mode: 1
+	Popularity: 71
+
+'Anyone' by Justin Bieber [2021-01-01]
+Features:
+	Danceability: 0.686
+	Energy: 0.538
+	Loudness: -8.026
+	Speechiness: 0.0345
+	Acousticness: 0.181
+	Instrumentalness: 3.13e-06
+	Liveness: 0.113
+	Valence: 0.584
+	Tempo: 115.884
+	Key: 2
+	Mode: 1
+	Popularity: 75
+
+'Despacito - Remix' by Luis Fonsi, Daddy Yankee, Justin Bieber [2017-04-17]
+Features:
+	Danceability: 0.653
+	Energy: 0.816
+	Loudness: -4.353
+	Speechiness: 0.167
+	Acousticness: 0.228
+	Instrumentalness: 0
+	Liveness: 0.0967
+	Valence: 0.816
+	Tempo: 178.085
+	Key: 2
+	Mode: 1
+	Popularity: 72
+
+'Where Are Ü Now (with Justin Bieber)' by Jack Ü, Skrillex, Diplo, Justin Bieber [2015-02-24]
+Features:
+	Danceability: 0.432
+	Energy: 0.781
+	Loudness: -4.038
+	Speechiness: 0.0567
+	Acousticness: 0.041
+	Instrumentalness: 4.21e-06
+	Liveness: 0.0789
+	Valence: 0.197
+	Tempo: 139.432
+	Key: 4
+	Mode: 0
+	Popularity: 74
+
+'I'm the One (feat. Justin Bieber, Quavo, Chance the Rapper & Lil Wayne)' by DJ Khaled, Justin Bieber, Quavo, Chance the Rapper, Lil Wayne [2017-06-22]
+Features:
+	Danceability: 0.609
+	Energy: 0.668
+	Loudness: -4.284
+	Speechiness: 0.0367
+	Acousticness: 0.0552
+	Instrumentalness: 0
+	Liveness: 0.167
+	Valence: 0.811
+	Tempo: 80.924
+	Key: 7
+	Mode: 1
+	Popularity: 72
+
+'Lonely (with benny blanco)' by Justin Bieber, benny blanco [2020-10-16]
+Features:
+	Danceability: 0.631
+	Energy: 0.239
+	Loudness: -7.071
+	Speechiness: 0.0398
+	Acousticness: 0.864
+	Instrumentalness: 0
+	Liveness: 0.116
+	Valence: 0.0927
+	Tempo: 79.859
+	Key: 11
+	Mode: 0
+	Popularity: 74
+
+'Yummy' by Justin Bieber [2020-02-14]
+Features:
+	Danceability: 0.676
+	Energy: 0.506
+	Loudness: -6.652
+	Speechiness: 0.0958
+	Acousticness: 0.345
+	Instrumentalness: 0
+	Liveness: 0.118
+	Valence: 0.497
+	Tempo: 145.842
+	Key: 9
+	Mode: 0
+	Popularity: 69
+
+'What Do You Mean?' by Justin Bieber [2015-11-13]
+Features:
+	Danceability: 0.845
+	Energy: 0.567
+	Loudness: -8.118
+	Speechiness: 0.0956
+	Acousticness: 0.59
+	Instrumentalness: 0.00142
+	Liveness: 0.0811
+	Valence: 0.793
+	Tempo: 125.02
+	Key: 5
+	Mode: 0
+	Popularity: 77
+
+'Let Me Love You' by DJ Snake, Justin Bieber [2016-08-05]
+Features:
+	Danceability: 0.649
+	Energy: 0.716
+	Loudness: -5.371
+	Speechiness: 0.0349
+	Acousticness: 0.0863
+	Instrumentalness: 2.63e-05
+	Liveness: 0.135
+	Valence: 0.163
+	Tempo: 99.988
+	Key: 8
+	Mode: 1
+	Popularity: 83
+
+'Sorry' by Justin Bieber [2015-11-13]
+Features:
+	Danceability: 0.654
+	Energy: 0.76
+	Loudness: -3.669
+	Speechiness: 0.045
+	Acousticness: 0.0797
+	Instrumentalness: 0
+	Liveness: 0.299
+	Valence: 0.41
+	Tempo: 99.945
+	Key: 0
+	Mode: 0
+	Popularity: 80
+
+'Love Yourself' by Justin Bieber [2015-11-13]
+Features:
+	Danceability: 0.609
+	Energy: 0.378
+	Loudness: -9.828
+	Speechiness: 0.438
+	Acousticness: 0.835
+	Instrumentalness: 0
+	Liveness: 0.28
+	Valence: 0.515
+	Tempo: 100.418
+	Key: 4
+	Mode: 1
+	Popularity: 83
+
+'Lush Life' by Zara Larsson [2017-03-17]
+Features:
+	Danceability: 0.694
+	Energy: 0.712
+	Loudness: -3.923
+	Speechiness: 0.046
+	Acousticness: 0.132
+	Instrumentalness: 0
+	Liveness: 0.211
+	Valence: 0.799
+	Tempo: 98.023
+	Key: 7
+	Mode: 0
+	Popularity: 78
+
+'Heat Waves' by Glass Animals [2020-08-07]
+Features:
+	Danceability: 0.761
+	Energy: 0.525
+	Loudness: -6.9
+	Speechiness: 0.0944
+	Acousticness: 0.44
+	Instrumentalness: 6.7e-06
+	Liveness: 0.0921
+	Valence: 0.531
+	Tempo: 80.87
+	Key: 11
+	Mode: 1
+	Popularity: 84
+
+'Don't Leave Me Now' by Lost Frequencies, Mathieu Koss [2020-07-31]
+Features:
+	Danceability: 0.671
+	Energy: 0.752
+	Loudness: -6.806
+	Speechiness: 0.0304
+	Acousticness: 0.0258
+	Instrumentalness: 0
+	Liveness: 0.112
+	Valence: 0.717
+	Tempo: 124.998
+	Key: 6
+	Mode: 0
+	Popularity: 46
+
+'Love To Go' by Lost Frequencies, Zonderling, Kelvin Jones [2020-07-31]
+Features:
+	Danceability: 0.755
+	Energy: 0.783
+	Loudness: -6.256
+	Speechiness: 0.175
+	Acousticness: 0.605
+	Instrumentalness: 0.0066
+	Liveness: 0.203
+	Valence: 0.419
+	Tempo: 104.021
+	Key: 11
+	Mode: 1
+	Popularity: 46
+
+'Reality (feat. Janieck Devy)' by Lost Frequencies, Janieck Devy [2015-05-11]
+Features:
+	Danceability: 0.731
+	Energy: 0.639
+	Loudness: -6.597
+	Speechiness: 0.0359
+	Acousticness: 0.0206
+	Instrumentalness: 1.29e-05
+	Liveness: 0.0789
+	Valence: 0.527
+	Tempo: 122.08
+	Key: 9
+	Mode: 1
+	Popularity: 59
+
+'Rise' by Lost Frequencies [2021-03-19]
+Features:
+	Danceability: 0.689
+	Energy: 0.612
+	Loudness: -6.014
+	Speechiness: 0.0387
+	Acousticness: 0.228
+	Instrumentalness: 7.77e-06
+	Liveness: 0.368
+	Valence: 0.461
+	Tempo: 122.076
+	Key: 6
+	Mode: 1
+	Popularity: 70
+
+'Are You With Me' by Lost Frequencies [2016-10-21]
+Features:
+	Danceability: 0.763
+	Energy: 0.608
+	Loudness: -8.1
+	Speechiness: 0.035
+	Acousticness: 0.262
+	Instrumentalness: 2.5e-05
+	Liveness: 0.12
+	Valence: 0.393
+	Tempo: 121.02
+	Key: 5
+	Mode: 0
+	Popularity: 74
+
+'Make Me Feel' by Cryptic Wisdom [2021-10-08]
+Features:
+	Danceability: 0.748
+	Energy: 0.527
+	Loudness: -6.378
+	Speechiness: 0.0298
+	Acousticness: 0.283
+	Instrumentalness: 0
+	Liveness: 0.218
+	Valence: 0.482
+	Tempo: 96.005
+	Key: 9
+	Mode: 0
+	Popularity: 41
+
+'Janet' by Lefa [2021-04-02]
+Features:
+	Danceability: 0.865
+	Energy: 0.51
+	Loudness: -8.501
+	Speechiness: 0.0788
+	Acousticness: 0.227
+	Instrumentalness: 0.0013
+	Liveness: 0.0905
+	Valence: 0.47
+	Tempo: 130.098
+	Key: 11
+	Mode: 0
+	Popularity: 51
+
+'Fuera del mercado' by Danny Ocean [2022-02-17]
+Features:
+	Danceability: 0.453
+	Energy: 0.673
+	Loudness: -5.649
+	Speechiness: 0.144
+	Acousticness: 0.32
+	Instrumentalness: 0
+	Liveness: 0.131
+	Valence: 0.266
+	Tempo: 92.06
+	Key: 8
+	Mode: 1
+	Popularity: 87
+
+'Ghost' by Justin Bieber [2021-03-19]
+Features:
+	Danceability: 0.601
+	Energy: 0.741
+	Loudness: -5.569
+	Speechiness: 0.0478
+	Acousticness: 0.185
+	Instrumentalness: 2.91e-05
+	Liveness: 0.415
+	Valence: 0.441
+	Tempo: 153.96
+	Key: 2
+	Mode: 1
+	Popularity: 89
+
+'Where Them Girls At (feat. Nicki Minaj & Flo Rida)' by David Guetta [2012-12-07]
+Features:
+	Danceability: 0.666
+	Energy: 0.876
+	Loudness: -3.078
+	Speechiness: 0.0414
+	Acousticness: 0.055
+	Instrumentalness: 0
+	Liveness: 0.259
+	Valence: 0.552
+	Tempo: 129.884
+	Key: 3
+	Mode: 1
+	Popularity: 72
+
+'6.3' by Naps, Ninho [2020-02-20]
+Features:
+	Danceability: 0.875
+	Energy: 0.614
+	Loudness: -7.238
+	Speechiness: 0.212
+	Acousticness: 0.69
+	Instrumentalness: 0
+	Liveness: 0.114
+	Valence: 0.753
+	Tempo: 119.963
+	Key: 3
+	Mode: 0
+	Popularity: 54
+
+'Afro Trap Part. 11 (King Kong)' by MHD [2021-07-15]
+Features:
+	Danceability: 0.89
+	Energy: 0.744
+	Loudness: -8.145
+	Speechiness: 0.365
+	Acousticness: 0.0662
+	Instrumentalness: 0
+	Liveness: 0.0648
+	Valence: 0.636
+	Tempo: 123.935
+	Key: 11
+	Mode: 0
+	Popularity: 55
+
+'Petrouchka (feat. PLK)' by Soso Maness, PLK [2021-06-04]
+Features:
+	Danceability: 0.624
+	Energy: 0.802
+	Loudness: -4.818
+	Speechiness: 0.311
+	Acousticness: 0.0597
+	Instrumentalness: 0
+	Liveness: 0.252
+	Valence: 0.818
+	Tempo: 133.888
+	Key: 6
+	Mode: 1
+	Popularity: 65
+
+'Love Is Gone - Fred Riester & Joachim Garraud Radio Edit Remix' by David Guetta, Chris Willis, Fred Riester, Joachim Garraud [2007-06-01]
+Features:
+	Danceability: 0.773
+	Energy: 0.813
+	Loudness: -4.609
+	Speechiness: 0.0797
+	Acousticness: 0.0331
+	Instrumentalness: 3.77e-05
+	Liveness: 0.192
+	Valence: 0.707
+	Tempo: 127.93
+	Key: 4
+	Mode: 0
+	Popularity: 61
+
+'Pump It Up' by Endor [2019-09-13]
+Features:
+	Danceability: 0.899
+	Energy: 0.894
+	Loudness: -7.255
+	Speechiness: 0.222
+	Acousticness: 0.203
+	Instrumentalness: 9.95e-05
+	Liveness: 0.0606
+	Valence: 0.654
+	Tempo: 129.047
+	Key: 1
+	Mode: 1
+	Popularity: 71
+
+'Pump It' by Black Eyed Peas [2005-01-01]
+Features:
+	Danceability: 0.648
+	Energy: 0.931
+	Loudness: -3.15
+	Speechiness: 0.181
+	Acousticness: 0.00937
+	Instrumentalness: 0
+	Liveness: 0.752
+	Valence: 0.744
+	Tempo: 153.649
+	Key: 1
+	Mode: 0
+	Popularity: 75
+
+'Avant la douane' by Jul [2016-05-13]
+Features:
+	Danceability: 0.844
+	Energy: 0.651
+	Loudness: -9.162
+	Speechiness: 0.23
+	Acousticness: 0.673
+	Instrumentalness: 7.08e-05
+	Liveness: 0.174
+	Valence: 0.795
+	Tempo: 138.038
+	Key: 0
+	Mode: 0
+	Popularity: 69
+
+'La danse des bandits' by Naps, SCH [2021-04-02]
+Features:
+	Danceability: 0.83
+	Energy: 0.676
+	Loudness: -5.275
+	Speechiness: 0.0681
+	Acousticness: 0.185
+	Instrumentalness: 1.28e-05
+	Liveness: 0.105
+	Valence: 0.576
+	Tempo: 135.023
+	Key: 0
+	Mode: 0
+	Popularity: 64
+
+'Les Démons De Minuit' by Images [2011-08-22]
+Features:
+	Danceability: 0.676
+	Energy: 0.83
+	Loudness: -5.746
+	Speechiness: 0.0296
+	Acousticness: 0.00148
+	Instrumentalness: 5.41e-06
+	Liveness: 0.0697
+	Valence: 0.842
+	Tempo: 118.922
+	Key: 4
+	Mode: 0
+	Popularity: 49
+
+'Vay' by Dj Leska, Vegedream, KGS [2019-04-12]
+Features:
+	Danceability: 0.855
+	Energy: 0.737
+	Loudness: -6.506
+	Speechiness: 0.257
+	Acousticness: 0.0229
+	Instrumentalness: 0
+	Liveness: 0.0805
+	Valence: 0.651
+	Tempo: 98.008
+	Key: 9
+	Mode: 1
+	Popularity: 56
+
+'Suavemente' by Soolking [2022-02-22]
+Features:
+	Danceability: 0.865
+	Energy: 0.682
+	Loudness: -4.563
+	Speechiness: 0.0548
+	Acousticness: 0.284
+	Instrumentalness: 0.00445
+	Liveness: 0.0422
+	Valence: 0.508
+	Tempo: 140.052
+	Key: 7
+	Mode: 0
+	Popularity: 77
+
+'Dégaine (feat. Damso)' by Aya Nakamura, Damso [2022-03-09]
+Features:
+	Danceability: 0.618
+	Energy: 0.698
+	Loudness: -5.362
+	Speechiness: 0.272
+	Acousticness: 0.181
+	Instrumentalness: 0
+	Liveness: 0.154
+	Valence: 0.784
+	Tempo: 178.143
+	Key: 10
+	Mode: 0
+	Popularity: 72
+
+'Stay High' by Juice WRLD [2020-07-10]
+Features:
+	Danceability: 0.745
+	Energy: 0.5
+	Loudness: -6.184
+	Speechiness: 0.135
+	Acousticness: 0.439
+	Instrumentalness: 0
+	Liveness: 0.0943
+	Valence: 0.433
+	Tempo: 76.968
+	Key: 8
+	Mode: 1
+	Popularity: 73
+
+'Hit Sale (feat. Roméo Elvis)' by Therapie TAXI, Roméo Elvis [2018-02-02]
+Features:
+	Danceability: 0.573
+	Energy: 0.784
+	Loudness: -5.224
+	Speechiness: 0.0591
+	Acousticness: 0.141
+	Instrumentalness: 0
+	Liveness: 0.0844
+	Valence: 0.69
+	Tempo: 82.009
+	Key: 9
+	Mode: 1
+	Popularity: 63
+
+'Galway Girl' by Ed Sheeran [2017-03-03]
+Features:
+	Danceability: 0.624
+	Energy: 0.876
+	Loudness: -3.374
+	Speechiness: 0.1
+	Acousticness: 0.0735
+	Instrumentalness: 0
+	Liveness: 0.327
+	Valence: 0.781
+	Tempo: 99.943
+	Key: 9
+	Mode: 1
+	Popularity: 78
+
+'What Do I Know?' by Ed Sheeran [2017-03-03]
+Features:
+	Danceability: 0.838
+	Energy: 0.492
+	Loudness: -5.69
+	Speechiness: 0.038
+	Acousticness: 0.251
+	Instrumentalness: 0
+	Liveness: 0.262
+	Valence: 0.895
+	Tempo: 115.092
+	Key: 1
+	Mode: 0
+	Popularity: 67
+
+'Soleil noir' by 47ter [2018-10-12]
+Features:
+	Danceability: 0.695
+	Energy: 0.609
+	Loudness: -7.484
+	Speechiness: 0.0318
+	Acousticness: 0.512
+	Instrumentalness: 0
+	Liveness: 0.111
+	Valence: 0.523
+	Tempo: 129.946
+	Key: 1
+	Mode: 0
+	Popularity: 50
+
+'Côte Ouest' by 47ter [2019-10-25]
+Features:
+	Danceability: 0.772
+	Energy: 0.596
+	Loudness: -7.962
+	Speechiness: 0.102
+	Acousticness: 0.534
+	Instrumentalness: 0
+	Liveness: 0.172
+	Valence: 0.603
+	Tempo: 152.057
+	Key: 8
+	Mode: 1
+	Popularity: 58
+
+'On avait dit' by 47ter [2019-10-25]
+Features:
+	Danceability: 0.768
+	Energy: 0.632
+	Loudness: -6.631
+	Speechiness: 0.0492
+	Acousticness: 0.528
+	Instrumentalness: 0
+	Liveness: 0.0957
+	Valence: 0.785
+	Tempo: 120.018
+	Key: 10
+	Mode: 0
+	Popularity: 55
+
+'Cabeza' by OBOY [2020-07-03]
+Features:
+	Danceability: 0.884
+	Energy: 0.566
+	Loudness: -7.398
+	Speechiness: 0.046
+	Acousticness: 0.123
+	Instrumentalness: 3.25e-06
+	Liveness: 0.106
+	Valence: 0.565
+	Tempo: 106.983
+	Key: 5
+	Mode: 0
+	Popularity: 68
+
+'Criminel' by Bramsito, Niska [2020-07-16]
+Features:
+	Danceability: 0.706
+	Energy: 0.74
+	Loudness: -7.375
+	Speechiness: 0.0355
+	Acousticness: 0.126
+	Instrumentalness: 0
+	Liveness: 0.2
+	Valence: 0.558
+	Tempo: 150.118
+	Key: 8
+	Mode: 0
+	Popularity: 48
+
+'Sale mood' by Bramsito, Booba [2019-05-31]
+Features:
+	Danceability: 0.682
+	Energy: 0.755
+	Loudness: -4.503
+	Speechiness: 0.0581
+	Acousticness: 0.315
+	Instrumentalness: 0
+	Liveness: 0.244
+	Valence: 0.766
+	Tempo: 159.94
+	Key: 11
+	Mode: 0
+	Popularity: 49
+
+'MD (feat. Niska)' by 4Keus, Niska [2020-09-23]
+Features:
+	Danceability: 0.409
+	Energy: 0.729
+	Loudness: -5.253
+	Speechiness: 0.401
+	Acousticness: 0.501
+	Instrumentalness: 0
+	Liveness: 0.124
+	Valence: 0.595
+	Tempo: 75.412
+	Key: 4
+	Mode: 0
+	Popularity: 57
+
+'Midi dans le ghetto' by 4Keus Gang, Ninho [2018-12-20]
+Features:
+	Danceability: 0.692
+	Energy: 0.488
+	Loudness: -11.71
+	Speechiness: 0.3
+	Acousticness: 0.845
+	Instrumentalness: 0
+	Liveness: 0.327
+	Valence: 0.792
+	Tempo: 101.675
+	Key: 3
+	Mode: 0
+	Popularity: 41
+
+'Mon soleil' by Dadju, Anitta [2021-06-02]
+Features:
+	Danceability: 0.656
+	Energy: 0.718
+	Loudness: -6.482
+	Speechiness: 0.202
+	Acousticness: 0.129
+	Instrumentalness: 0
+	Liveness: 0.0726
+	Valence: 0.665
+	Tempo: 176.27
+	Key: 2
+	Mode: 0
+	Popularity: 60
+
+'Reine' by Dadju [2017-11-24]
+Features:
+	Danceability: 0.399
+	Energy: 0.395
+	Loudness: -10.782
+	Speechiness: 0.0593
+	Acousticness: 0.76
+	Instrumentalness: 0
+	Liveness: 0.0815
+	Valence: 0.704
+	Tempo: 98.174
+	Key: 2
+	Mode: 1
+	Popularity: 64
+
+'Dans mes bras' by Kendji Girac, Dadju [2021-11-11]
+Features:
+	Danceability: 0.515
+	Energy: 0.542
+	Loudness: -6.638
+	Speechiness: 0.0922
+	Acousticness: 0.289
+	Instrumentalness: 0
+	Liveness: 0.0934
+	Valence: 0.744
+	Tempo: 91.129
+	Key: 3
+	Mode: 1
+	Popularity: 61
+
+'Photograph' by Ed Sheeran [2014-06-21]
+Features:
+	Danceability: 0.614
+	Energy: 0.379
+	Loudness: -10.48
+	Speechiness: 0.0476
+	Acousticness: 0.607
+	Instrumentalness: 0.000464
+	Liveness: 0.0986
+	Valence: 0.201
+	Tempo: 107.989
+	Key: 4
+	Mode: 1
+	Popularity: 84
+
+'Tides' by Ed Sheeran [2021-10-29]
+Features:
+	Danceability: 0.631
+	Energy: 0.825
+	Loudness: -3.971
+	Speechiness: 0.0433
+	Acousticness: 0.0167
+	Instrumentalness: 0
+	Liveness: 0.122
+	Valence: 0.427
+	Tempo: 129.942
+	Key: 11
+	Mode: 1
+	Popularity: 68
+
+'South of the Border (feat. Camila Cabello & Cardi B)' by Ed Sheeran, Camila Cabello, Cardi B [2019-07-12]
+Features:
+	Danceability: 0.857
+	Energy: 0.621
+	Loudness: -6.376
+	Speechiness: 0.0825
+	Acousticness: 0.148
+	Instrumentalness: 0
+	Liveness: 0.0865
+	Valence: 0.668
+	Tempo: 97.989
+	Key: 9
+	Mode: 0
+	Popularity: 76
+
+'Sing' by Ed Sheeran [2014-06-21]
+Features:
+	Danceability: 0.818
+	Energy: 0.67
+	Loudness: -4.451
+	Speechiness: 0.0472
+	Acousticness: 0.304
+	Instrumentalness: 1.22e-06
+	Liveness: 0.0601
+	Valence: 0.939
+	Tempo: 119.988
+	Key: 8
+	Mode: 0
+	Popularity: 70
+
+'Beautiful People (feat. Khalid)' by Ed Sheeran, Khalid [2019-06-28]
+Features:
+	Danceability: 0.64
+	Energy: 0.648
+	Loudness: -8.113
+	Speechiness: 0.187
+	Acousticness: 0.124
+	Instrumentalness: 0
+	Liveness: 0.0802
+	Valence: 0.548
+	Tempo: 92.977
+	Key: 5
+	Mode: 0
+	Popularity: 75
+
+'I Don't Care (with Justin Bieber)' by Ed Sheeran, Justin Bieber [2019-05-10]
+Features:
+	Danceability: 0.798
+	Energy: 0.675
+	Loudness: -5.041
+	Speechiness: 0.0442
+	Acousticness: 0.0912
+	Instrumentalness: 0
+	Liveness: 0.0894
+	Valence: 0.842
+	Tempo: 101.956
+	Key: 6
+	Mode: 1
+	Popularity: 78
+
+'Thinking out Loud' by Ed Sheeran [2014-06-21]
+Features:
+	Danceability: 0.781
+	Energy: 0.445
+	Loudness: -6.061
+	Speechiness: 0.0295
+	Acousticness: 0.474
+	Instrumentalness: 0
+	Liveness: 0.184
+	Valence: 0.591
+	Tempo: 78.998
+	Key: 2
+	Mode: 1
+	Popularity: 82
+
+'Shape of You' by Ed Sheeran [2017-03-03]
+Features:
+	Danceability: 0.825
+	Energy: 0.652
+	Loudness: -3.183
+	Speechiness: 0.0802
+	Acousticness: 0.581
+	Instrumentalness: 0
+	Liveness: 0.0931
+	Valence: 0.931
+	Tempo: 95.977
+	Key: 1
+	Mode: 0
+	Popularity: 85
+
+'Perfect' by Ed Sheeran [2017-03-03]
+Features:
+	Danceability: 0.599
+	Energy: 0.448
+	Loudness: -6.312
+	Speechiness: 0.0232
+	Acousticness: 0.163
+	Instrumentalness: 0
+	Liveness: 0.106
+	Valence: 0.168
+	Tempo: 95.05
+	Key: 8
+	Mode: 1
+	Popularity: 85
+
+'Bad Habits' by Ed Sheeran [2021-10-29]
+Features:
+	Danceability: 0.807
+	Energy: 0.893
+	Loudness: -3.745
+	Speechiness: 0.0347
+	Acousticness: 0.0451
+	Instrumentalness: 2.79e-05
+	Liveness: 0.366
+	Valence: 0.537
+	Tempo: 126.011
+	Key: 11
+	Mode: 0
+	Popularity: 89
+
+'This Love' by Maroon 5 [2002-06-25]
+Features:
+	Danceability: 0.712
+	Energy: 0.862
+	Loudness: -4.612
+	Speechiness: 0.0378
+	Acousticness: 0.0525
+	Instrumentalness: 0
+	Liveness: 0.093
+	Valence: 0.809
+	Tempo: 95.051
+	Key: 5
+	Mode: 0
+	Popularity: 68
+
+'Lost' by Maroon 5 [2021-06-11]
+Features:
+	Danceability: 0.766
+	Energy: 0.706
+	Loudness: -6.553
+	Speechiness: 0.16
+	Acousticness: 0.223
+	Instrumentalness: 0.00028
+	Liveness: 0.064
+	Valence: 0.766
+	Tempo: 142.989
+	Key: 7
+	Mode: 0
+	Popularity: 63
+
+'Moves Like Jagger - Studio Recording From "The Voice" Performance' by Maroon 5, Christina Aguilera [2010-01-01]
+Features:
+	Danceability: 0.722
+	Energy: 0.761
+	Loudness: -4.459
+	Speechiness: 0.0475
+	Acousticness: 0.0117
+	Instrumentalness: 0
+	Liveness: 0.315
+	Valence: 0.624
+	Tempo: 128.044
+	Key: 11
+	Mode: 0
+	Popularity: 77
+
+'What Lovers Do (feat. SZA)' by Maroon 5, SZA [2018-06-15]
+Features:
+	Danceability: 0.799
+	Energy: 0.597
+	Loudness: -5.131
+	Speechiness: 0.0611
+	Acousticness: 0.0788
+	Instrumentalness: 5.66e-06
+	Liveness: 0.1
+	Valence: 0.419
+	Tempo: 110.001
+	Key: 5
+	Mode: 0
+	Popularity: 72
+
+'One More Night' by Maroon 5 [2012-01-01]
+Features:
+	Danceability: 0.716
+	Energy: 0.821
+	Loudness: -3.435
+	Speechiness: 0.0314
+	Acousticness: 0.0558
+	Instrumentalness: 0
+	Liveness: 0.0844
+	Valence: 0.618
+	Tempo: 92.997
+	Key: 5
+	Mode: 0
+	Popularity: 75
+
+'Animals' by Maroon 5 [2014-09-02]
+Features:
+	Danceability: 0.279
+	Energy: 0.742
+	Loudness: -6.46
+	Speechiness: 0.0898
+	Acousticness: 0.000185
+	Instrumentalness: 0
+	Liveness: 0.593
+	Valence: 0.328
+	Tempo: 189.868
+	Key: 4
+	Mode: 0
+	Popularity: 79
+
+'Girls Like You (feat. Cardi B) - Cardi B Version' by Maroon 5, Cardi B [2018-05-30]
+Features:
+	Danceability: 0.851
+	Energy: 0.541
+	Loudness: -6.825
+	Speechiness: 0.0505
+	Acousticness: 0.568
+	Instrumentalness: 0
+	Liveness: 0.13
+	Valence: 0.448
+	Tempo: 124.959
+	Key: 0
+	Mode: 1
+	Popularity: 70
+
+'Sugar' by Maroon 5 [2014-09-02]
+Features:
+	Danceability: 0.748
+	Energy: 0.788
+	Loudness: -7.055
+	Speechiness: 0.0334
+	Acousticness: 0.0591
+	Instrumentalness: 0
+	Liveness: 0.0863
+	Valence: 0.884
+	Tempo: 120.076
+	Key: 1
+	Mode: 1
+	Popularity: 80
+
+'Maps' by Maroon 5 [2014-09-02]
+Features:
+	Danceability: 0.742
+	Energy: 0.713
+	Loudness: -5.522
+	Speechiness: 0.0303
+	Acousticness: 0.0205
+	Instrumentalness: 0
+	Liveness: 0.059
+	Valence: 0.879
+	Tempo: 120.032
+	Key: 1
+	Mode: 0
+	Popularity: 82
+
+'Memories' by Maroon 5 [2021-06-11]
+Features:
+	Danceability: 0.775
+	Energy: 0.327
+	Loudness: -7.241
+	Speechiness: 0.0557
+	Acousticness: 0.841
+	Instrumentalness: 0
+	Liveness: 0.0821
+	Valence: 0.595
+	Tempo: 91.05
+	Key: 11
+	Mode: 1
+	Popularity: 84
+
+'HIGHEST IN THE ROOM' by Travis Scott [2019-10-04]
+Features:
+	Danceability: 0.598
+	Energy: 0.427
+	Loudness: -8.764
+	Speechiness: 0.0317
+	Acousticness: 0.0546
+	Instrumentalness: 5.83e-06
+	Liveness: 0.21
+	Valence: 0.0605
+	Tempo: 76.469
+	Key: 7
+	Mode: 0
+	Popularity: 81
+
+'Du mal à te dire' by Dinos, Damso [2021-07-01]
+Features:
+	Danceability: 0.608
+	Energy: 0.464
+	Loudness: -9.659
+	Speechiness: 0.192
+	Acousticness: 0.174
+	Instrumentalness: 0
+	Liveness: 0.712
+	Valence: 0.274
+	Tempo: 83.781
+	Key: 0
+	Mode: 0
+	Popularity: 64
+
+'Moto' by Mac Tyer, Ninho [2020-07-17]
+Features:
+	Danceability: 0.931
+	Energy: 0.605
+	Loudness: -6.615
+	Speechiness: 0.36
+	Acousticness: 0.153
+	Instrumentalness: 0
+	Liveness: 0.214
+	Valence: 0.601
+	Tempo: 127.004
+	Key: 7
+	Mode: 1
+	Popularity: 59
+
+'REPEAT IT (with Gunna)' by Lil Tecca, Gunna [2021-08-27]
+Features:
+	Danceability: 0.743
+	Energy: 0.687
+	Loudness: -7.613
+	Speechiness: 0.309
+	Acousticness: 0.0567
+	Instrumentalness: 0
+	Liveness: 0.062
+	Valence: 0.582
+	Tempo: 108.685
+	Key: 11
+	Mode: 0
+	Popularity: 66
+
+'Run It Up (feat. Offset & Moneybagg Yo)' by Lil Tjay, Offset, Moneybagg Yo [2021-04-02]
+Features:
+	Danceability: 0.88
+	Energy: 0.575
+	Loudness: -6.091
+	Speechiness: 0.163
+	Acousticness: 0.415
+	Instrumentalness: 0
+	Liveness: 0.109
+	Valence: 0.671
+	Tempo: 120.031
+	Key: 6
+	Mode: 1
+	Popularity: 77
+
+'Love Me Harder' by Ariana Grande, The Weeknd [2015-04-13]
+Features:
+	Danceability: 0.483
+	Energy: 0.714
+	Loudness: -4.389
+	Speechiness: 0.0331
+	Acousticness: 0.00974
+	Instrumentalness: 0
+	Liveness: 0.0763
+	Valence: 0.245
+	Tempo: 99.027
+	Key: 1
+	Mode: 0
+	Popularity: 48
+
+'Die For You' by The Weeknd [2016-11-25]
+Features:
+	Danceability: 0.582
+	Energy: 0.525
+	Loudness: -7.163
+	Speechiness: 0.0627
+	Acousticness: 0.111
+	Instrumentalness: 0
+	Liveness: 0.134
+	Valence: 0.51
+	Tempo: 133.249
+	Key: 1
+	Mode: 0
+	Popularity: 86
+
+'Call Out My Name' by The Weeknd [2018-03-30]
+Features:
+	Danceability: 0.461
+	Energy: 0.593
+	Loudness: -4.954
+	Speechiness: 0.0356
+	Acousticness: 0.17
+	Instrumentalness: 0
+	Liveness: 0.307
+	Valence: 0.175
+	Tempo: 134.17
+	Key: 1
+	Mode: 1
+	Popularity: 88
+
+'Often' by The Weeknd [2015-08-28]
+Features:
+	Danceability: 0.572
+	Energy: 0.631
+	Loudness: -9.836
+	Speechiness: 0.0476
+	Acousticness: 0.222
+	Instrumentalness: 0
+	Liveness: 0.135
+	Valence: 0.0713
+	Tempo: 134.078
+	Key: 7
+	Mode: 0
+	Popularity: 80
+
+'Sacrifice' by The Weeknd [2022-01-06]
+Features:
+	Danceability: 0.735
+	Energy: 0.795
+	Loudness: -6.523
+	Speechiness: 0.113
+	Acousticness: 0.0296
+	Instrumentalness: 3.18e-05
+	Liveness: 0.0678
+	Valence: 0.905
+	Tempo: 122.0
+	Key: 11
+	Mode: 0
+	Popularity: 80
+
+'Can't Feel My Face' by The Weeknd [2015-08-28]
+Features:
+	Danceability: 0.705
+	Energy: 0.769
+	Loudness: -5.526
+	Speechiness: 0.0425
+	Acousticness: 0.113
+	Instrumentalness: 0
+	Liveness: 0.105
+	Valence: 0.583
+	Tempo: 107.949
+	Key: 9
+	Mode: 0
+	Popularity: 81
+
+'Heartless' by The Weeknd [2020-03-20]
+Features:
+	Danceability: 0.537
+	Energy: 0.746
+	Loudness: -5.507
+	Speechiness: 0.15
+	Acousticness: 0.0236
+	Instrumentalness: 1.01e-06
+	Liveness: 0.156
+	Valence: 0.252
+	Tempo: 170.062
+	Key: 10
+	Mode: 0
+	Popularity: 77
+
+'Earned It (Fifty Shades Of Grey) - From The "Fifty Shades Of Grey" Soundtrack' by The Weeknd [2014-12-23]
+Features:
+	Danceability: 0.659
+	Energy: 0.381
+	Loudness: -5.922
+	Speechiness: 0.0304
+	Acousticness: 0.385
+	Instrumentalness: 0
+	Liveness: 0.0972
+	Valence: 0.426
+	Tempo: 119.844
+	Key: 2
+	Mode: 0
+	Popularity: 77
+
+'In Your Eyes' by The Weeknd [2020-03-20]
+Features:
+	Danceability: 0.667
+	Energy: 0.719
+	Loudness: -5.371
+	Speechiness: 0.0346
+	Acousticness: 0.00285
+	Instrumentalness: 8.1e-05
+	Liveness: 0.0736
+	Valence: 0.717
+	Tempo: 100.021
+	Key: 7
+	Mode: 0
+	Popularity: 79
+
+'I Feel It Coming' by The Weeknd, Daft Punk [2016-11-25]
+Features:
+	Danceability: 0.773
+	Energy: 0.819
+	Loudness: -5.946
+	Speechiness: 0.118
+	Acousticness: 0.428
+	Instrumentalness: 0
+	Liveness: 0.0679
+	Valence: 0.585
+	Tempo: 92.987
+	Key: 0
+	Mode: 0
+	Popularity: 79
+
+'Light Switch' by Charlie Puth [2022-01-19]
+Features:
+	Danceability: 0.69
+	Energy: 0.626
+	Loudness: -5.693
+	Speechiness: 0.306
+	Acousticness: 0.105
+	Instrumentalness: 0.000335
+	Liveness: 0.0881
+	Valence: 0.912
+	Tempo: 184.009
+	Key: 6
+	Mode: 1
+	Popularity: 79
+
+'Kiss Me More (feat. SZA)' by Doja Cat, SZA [2021-06-25]
+Features:
+	Danceability: 0.764
+	Energy: 0.705
+	Loudness: -3.463
+	Speechiness: 0.0284
+	Acousticness: 0.259
+	Instrumentalness: 8.92e-05
+	Liveness: 0.12
+	Valence: 0.781
+	Tempo: 110.97
+	Key: 8
+	Mode: 1
+	Popularity: 81
+
+'Another Love' by Tom Odell [2013-06-17]
+Features:
+	Danceability: 0.442
+	Energy: 0.538
+	Loudness: -8.55
+	Speechiness: 0.0451
+	Acousticness: 0.717
+	Instrumentalness: 2.95e-05
+	Liveness: 0.09
+	Valence: 0.139
+	Tempo: 122.758
+	Key: 4
+	Mode: 0
+	Popularity: 56
+
+'My Universe' by Coldplay, BTS [2021-10-15]
+Features:
+	Danceability: 0.573
+	Energy: 0.711
+	Loudness: -6.268
+	Speechiness: 0.0406
+	Acousticness: 0.0114
+	Instrumentalness: 0
+	Liveness: 0.328
+	Valence: 0.47
+	Tempo: 105.006
+	Key: 1
+	Mode: 0
+	Popularity: 81
+
+'Where Are You Now' by Lost Frequencies, Calum Scott [2021-07-30]
+Features:
+	Danceability: 0.671
+	Energy: 0.636
+	Loudness: -8.117
+	Speechiness: 0.103
+	Acousticness: 0.515
+	Instrumentalness: 0.000411
+	Liveness: 0.172
+	Valence: 0.262
+	Tempo: 120.966
+	Key: 6
+	Mode: 0
+	Popularity: 90
+
+'Cold Heart - PNAU Remix' by Elton John, Dua Lipa, PNAU [2021-10-22]
+Features:
+	Danceability: 0.795
+	Energy: 0.8
+	Loudness: -6.32
+	Speechiness: 0.0309
+	Acousticness: 0.0354
+	Instrumentalness: 7.25e-05
+	Liveness: 0.0915
+	Valence: 0.934
+	Tempo: 116.032
+	Key: 1
+	Mode: 1
+	Popularity: 73
+
+'Heat Waves' by Glass Animals [2020-08-06]
+Features:
+	Danceability: 0.761
+	Energy: 0.525
+	Loudness: -6.9
+	Speechiness: 0.0944
+	Acousticness: 0.44
+	Instrumentalness: 6.7e-06
+	Liveness: 0.0921
+	Valence: 0.531
+	Tempo: 80.87
+	Key: 11
+	Mode: 1
+	Popularity: 89
+
+'Zombie' by GIMS [2013-12-02]
+Features:
+	Danceability: 0.72
+	Energy: 0.676
+	Loudness: -6.207
+	Speechiness: 0.0367
+	Acousticness: 0.0155
+	Instrumentalness: 0
+	Liveness: 0.128
+	Valence: 0.481
+	Tempo: 110.044
+	Key: 3
+	Mode: 0
+	Popularity: 56
+
+'Tout Est Bon' by Boef, Numidia [2020-07-03]
+Features:
+	Danceability: 0.791
+	Energy: 0.861
+	Loudness: -5.311
+	Speechiness: 0.12
+	Acousticness: 0.211
+	Instrumentalness: 0
+	Liveness: 0.0833
+	Valence: 0.962
+	Tempo: 95.216
+	Key: 8
+	Mode: 0
+	Popularity: 47
+
+'Indépendante (feat. Debbie Sparrow)' by Jok'air, Debbie Sparrow [2017-02-24]
+Features:
+	Danceability: 0.724
+	Energy: 0.527
+	Loudness: -7.364
+	Speechiness: 0.0404
+	Acousticness: 0.284
+	Instrumentalness: 0
+	Liveness: 0.0931
+	Valence: 0.703
+	Tempo: 137.993
+	Key: 11
+	Mode: 1
+	Popularity: 43
+
+'Take My Breath' by The Weeknd [2022-01-07]
+Features:
+	Danceability: 0.698
+	Energy: 0.769
+	Loudness: -7.154
+	Speechiness: 0.0368
+	Acousticness: 0.0128
+	Instrumentalness: 0.00166
+	Liveness: 0.238
+	Valence: 0.354
+	Tempo: 121.02
+	Key: 8
+	Mode: 1
+	Popularity: 18
+
+'Starboy' by The Weeknd, Daft Punk [2016-11-25]
+Features:
+	Danceability: 0.679
+	Energy: 0.587
+	Loudness: -7.015
+	Speechiness: 0.276
+	Acousticness: 0.141
+	Instrumentalness: 6.35e-06
+	Liveness: 0.137
+	Valence: 0.486
+	Tempo: 186.003
+	Key: 7
+	Mode: 1
+	Popularity: 88
+
+'Blinding Lights' by The Weeknd [2020-03-20]
+Features:
+	Danceability: 0.514
+	Energy: 0.73
+	Loudness: -5.934
+	Speechiness: 0.0598
+	Acousticness: 0.00146
+	Instrumentalness: 9.54e-05
+	Liveness: 0.0897
+	Valence: 0.334
+	Tempo: 171.005
+	Key: 1
+	Mode: 1
+	Popularity: 90
+
+'Save Your Tears' by The Weeknd [2020-03-20]
+Features:
+	Danceability: 0.68
+	Energy: 0.826
+	Loudness: -5.487
+	Speechiness: 0.0309
+	Acousticness: 0.0212
+	Instrumentalness: 1.24e-05
+	Liveness: 0.543
+	Valence: 0.644
+	Tempo: 118.051
+	Key: 0
+	Mode: 1
+	Popularity: 88
+
+'Nos souvenirs' by Jok'air, Chilla, Yseult [2019-03-29]
+Features:
+	Danceability: 0.467
+	Energy: 0.683
+	Loudness: -7.609
+	Speechiness: 0.219
+	Acousticness: 0.101
+	Instrumentalness: 0
+	Liveness: 0.123
+	Valence: 0.259
+	Tempo: 119.909
+	Key: 8
+	Mode: 1
+	Popularity: 60
+
+'Mon survet' by Jok'air [2018-05-25]
+Features:
+	Danceability: 0.673
+	Energy: 0.659
+	Loudness: -6.035
+	Speechiness: 0.186
+	Acousticness: 0.017
+	Instrumentalness: 0
+	Liveness: 0.0993
+	Valence: 0.206
+	Tempo: 150.045
+	Key: 8
+	Mode: 1
+	Popularity: 48
+
+'Squale (feat. Chich)' by Jok'air, Chich [2017-02-24]
+Features:
+	Danceability: 0.703
+	Energy: 0.495
+	Loudness: -6.356
+	Speechiness: 0.0584
+	Acousticness: 0.252
+	Instrumentalness: 0
+	Liveness: 0.124
+	Valence: 0.449
+	Tempo: 117.068
+	Key: 6
+	Mode: 1
+	Popularity: 52
+
+'Sensualité' by Jok'air [2021-11-19]
+Features:
+	Danceability: 0.532
+	Energy: 0.335
+	Loudness: -6.783
+	Speechiness: 0.127
+	Acousticness: 0.41
+	Instrumentalness: 0
+	Liveness: 0.0916
+	Valence: 0.313
+	Tempo: 104.582
+	Key: 7
+	Mode: 0
+	Popularity: 54
+
+'Bonbon à la menthe' by Jok'air, Mallaury [2019-03-29]
+Features:
+	Danceability: 0.687
+	Energy: 0.684
+	Loudness: -6.72
+	Speechiness: 0.178
+	Acousticness: 0.218
+	Instrumentalness: 3.32e-05
+	Liveness: 0.118
+	Valence: 0.377
+	Tempo: 105.075
+	Key: 1
+	Mode: 0
+	Popularity: 59
+
+'Châtelet Les Halles' by Jok'air [2019-11-15]
+Features:
+	Danceability: 0.686
+	Energy: 0.777
+	Loudness: -6.103
+	Speechiness: 0.0978
+	Acousticness: 0.0448
+	Instrumentalness: 1.25e-05
+	Liveness: 0.145
+	Valence: 0.546
+	Tempo: 102.007
+	Key: 0
+	Mode: 0
+	Popularity: 42
+
+'T-Rain' by Niska [2021-11-04]
+Features:
+	Danceability: 0.856
+	Energy: 0.606
+	Loudness: -6.658
+	Speechiness: 0.0557
+	Acousticness: 0.0832
+	Instrumentalness: 0
+	Liveness: 0.166
+	Valence: 0.5
+	Tempo: 126.989
+	Key: 5
+	Mode: 0
+	Popularity: 52
+
+'Motley Crew' by Post Malone [2021-07-09]
+Features:
+	Danceability: 0.797
+	Energy: 0.631
+	Loudness: -3.818
+	Speechiness: 0.0786
+	Acousticness: 0.0904
+	Instrumentalness: 3.71e-06
+	Liveness: 0.0998
+	Valence: 0.288
+	Tempo: 129.915
+	Key: 3
+	Mode: 0
+	Popularity: 77
+
+'Diva (feat. Lil Tecca)' by The Kid LAROI, Lil Tecca [2020-01-31]
+Features:
+	Danceability: 0.686
+	Energy: 0.703
+	Loudness: -6.141
+	Speechiness: 0.0606
+	Acousticness: 0.00728
+	Instrumentalness: 0
+	Liveness: 0.0946
+	Valence: 0.457
+	Tempo: 144.902
+	Key: 6
+	Mode: 0
+	Popularity: 71
+
+'3, 2, 1' by 24kGoldn [2021-03-26]
+Features:
+	Danceability: 0.694
+	Energy: 0.708
+	Loudness: -2.066
+	Speechiness: 0.137
+	Acousticness: 0.246
+	Instrumentalness: 0
+	Liveness: 0.152
+	Valence: 0.69
+	Tempo: 164.958
+	Key: 0
+	Mode: 1
+	Popularity: 66
+
+'Down Below' by Roddy Ricch [2018-11-02]
+Features:
+	Danceability: 0.926
+	Energy: 0.454
+	Loudness: -9.932
+	Speechiness: 0.0732
+	Acousticness: 0.036
+	Instrumentalness: 0.000422
+	Liveness: 0.0896
+	Valence: 0.34
+	Tempo: 119.969
+	Key: 6
+	Mode: 1
+	Popularity: 74
+
+'After Party' by Don Toliver [2020-03-13]
+Features:
+	Danceability: 0.629
+	Energy: 0.692
+	Loudness: -8.045
+	Speechiness: 0.0376
+	Acousticness: 0.00981
+	Instrumentalness: 0.331
+	Liveness: 0.603
+	Valence: 0.453
+	Tempo: 162.948
+	Key: 5
+	Mode: 1
+	Popularity: 80
+
+'Lemonade - Remix' by Internet Money, Don Toliver, Roddy Ricch [2020-10-23]
+Features:
+	Danceability: 0.832
+	Energy: 0.549
+	Loudness: -8.259
+	Speechiness: 0.0602
+	Acousticness: 0.168
+	Instrumentalness: 0
+	Liveness: 0.11
+	Valence: 0.384
+	Tempo: 140.045
+	Key: 1
+	Mode: 0
+	Popularity: 59
+
+'Spicy (feat. Post Malone)' by Ty Dolla $ign, Post Malone [2020-10-23]
+Features:
+	Danceability: 0.782
+	Energy: 0.51
+	Loudness: -5.724
+	Speechiness: 0.0419
+	Acousticness: 0.143
+	Instrumentalness: 0
+	Liveness: 0.115
+	Valence: 0.118
+	Tempo: 99.993
+	Key: 4
+	Mode: 0
+	Popularity: 74
+
+'Blueberry Faygo' by Lil Mosey [2020-02-06]
+Features:
+	Danceability: 0.774
+	Energy: 0.554
+	Loudness: -7.909
+	Speechiness: 0.0383
+	Acousticness: 0.207
+	Instrumentalness: 0
+	Liveness: 0.132
+	Valence: 0.349
+	Tempo: 99.034
+	Key: 0
+	Mode: 1
+	Popularity: 74
+
+'Smile (feat. SCH)' by Lefa, SCH [2020-07-10]
+Features:
+	Danceability: 0.795
+	Energy: 0.602
+	Loudness: -9.35
+	Speechiness: 0.124
+	Acousticness: 0.442
+	Instrumentalness: 3.65e-05
+	Liveness: 0.188
+	Valence: 0.435
+	Tempo: 144.955
+	Key: 6
+	Mode: 0
+	Popularity: 52
+
+'Lettre à mon ex' by KIKESA [2022-03-24]
+Features:
+	Danceability: 0.569
+	Energy: 0.351
+	Loudness: -12.048
+	Speechiness: 0.107
+	Acousticness: 0.811
+	Instrumentalness: 3.04e-05
+	Liveness: 0.392
+	Valence: 0.328
+	Tempo: 89.22
+	Key: 6
+	Mode: 1
+	Popularity: 48
+
+'Nul au foot' by KIKESA [2022-03-24]
+Features:
+	Danceability: 0.714
+	Energy: 0.521
+	Loudness: -8.338
+	Speechiness: 0.107
+	Acousticness: 0.51
+	Instrumentalness: 0
+	Liveness: 0.251
+	Valence: 0.374
+	Tempo: 129.933
+	Key: 1
+	Mode: 1
+	Popularity: 51
+
+'Dans le vide' by Josman [2016-06-13]
+Features:
+	Danceability: 0.834
+	Energy: 0.523
+	Loudness: -7.175
+	Speechiness: 0.147
+	Acousticness: 0.235
+	Instrumentalness: 2.77e-06
+	Liveness: 0.105
+	Valence: 0.243
+	Tempo: 119.963
+	Key: 2
+	Mode: 1
+	Popularity: 58
+
+'Doss' by 47ter [2021-11-12]
+Features:
+	Danceability: 0.786
+	Energy: 0.713
+	Loudness: -6.507
+	Speechiness: 0.0404
+	Acousticness: 0.198
+	Instrumentalness: 0
+	Liveness: 0.0782
+	Valence: 0.918
+	Tempo: 120.054
+	Key: 4
+	Mode: 0
+	Popularity: 51
+
+'Elles ont trop joué avec mon coeur' by Jok'air [2020-12-11]
+Features:
+	Danceability: 0.686
+	Energy: 0.565
+	Loudness: -7.98
+	Speechiness: 0.0469
+	Acousticness: 0.158
+	Instrumentalness: 0.0405
+	Liveness: 0.122
+	Valence: 0.413
+	Tempo: 152.101
+	Key: 6
+	Mode: 1
+	Popularity: 58
+
+'Lettre à une femme' by Ninho [2020-03-07]
+Features:
+	Danceability: 0.487
+	Energy: 0.398
+	Loudness: -9.901
+	Speechiness: 0.0697
+	Acousticness: 0.835
+	Instrumentalness: 0
+	Liveness: 0.12
+	Valence: 0.905
+	Tempo: 149.367
+	Key: 1
+	Mode: 0
+	Popularity: 64
+
+'N.I' by Niska, Ninho [2021-11-02]
+Features:
+	Danceability: 0.763
+	Energy: 0.762
+	Loudness: -5.112
+	Speechiness: 0.0773
+	Acousticness: 0.148
+	Instrumentalness: 0
+	Liveness: 0.196
+	Valence: 0.789
+	Tempo: 135.014
+	Key: 5
+	Mode: 0
+	Popularity: 62
+
+'Zipette' by Ninho [2020-03-07]
+Features:
+	Danceability: 0.743
+	Energy: 0.757
+	Loudness: -6.889
+	Speechiness: 0.272
+	Acousticness: 0.371
+	Instrumentalness: 0
+	Liveness: 0.0988
+	Valence: 0.72
+	Tempo: 192.018
+	Key: 3
+	Mode: 0
+	Popularity: 61
+
+'J'picole' by Sasso [2020-12-18]
+Features:
+	Danceability: 0.865
+	Energy: 0.537
+	Loudness: -8.359
+	Speechiness: 0.243
+	Acousticness: 0.354
+	Instrumentalness: 0
+	Liveness: 0.141
+	Valence: 0.659
+	Tempo: 126.972
+	Key: 6
+	Mode: 0
+	Popularity: 63
+
+'MD' by Niska, 4Keus [2019-12-27]
+Features:
+	Danceability: 0.41
+	Energy: 0.729
+	Loudness: -5.253
+	Speechiness: 0.4
+	Acousticness: 0.499
+	Instrumentalness: 0
+	Liveness: 0.124
+	Valence: 0.593
+	Tempo: 75.301
+	Key: 4
+	Mode: 0
+	Popularity: 51
+
+'Prada (feat. Lil Tecca)' by 24kGoldn, Lil Tecca [2021-10-08]
+Features:
+	Danceability: 0.686
+	Energy: 0.69
+	Loudness: -6.13
+	Speechiness: 0.24
+	Acousticness: 0.122
+	Instrumentalness: 0
+	Liveness: 0.137
+	Valence: 0.528
+	Tempo: 178.157
+	Key: 6
+	Mode: 0
+	Popularity: 66
+
+'Chanel Bag' by KillBunk [2020-10-31]
+Features:
+	Danceability: 0.77
+	Energy: 0.614
+	Loudness: -5.49
+	Speechiness: 0.0816
+	Acousticness: 0.0671
+	Instrumentalness: 0
+	Liveness: 0.0873
+	Valence: 0.698
+	Tempo: 115.012
+	Key: 11
+	Mode: 0
+	Popularity: 70
+
+'Come Through (feat. Lil Tecca)' by Bankrol Hayden, Lil Tecca [2021-09-24]
+Features:
+	Danceability: 0.872
+	Energy: 0.623
+	Loudness: -3.94
+	Speechiness: 0.0389
+	Acousticness: 0.41
+	Instrumentalness: 0
+	Liveness: 0.184
+	Valence: 0.72
+	Tempo: 104.07
+	Key: 3
+	Mode: 0
+	Popularity: 68
+
+'21' by Polo G [2020-05-15]
+Features:
+	Danceability: 0.783
+	Energy: 0.479
+	Loudness: -10.646
+	Speechiness: 0.541
+	Acousticness: 0.149
+	Instrumentalness: 0
+	Liveness: 0.101
+	Valence: 0.533
+	Tempo: 176.027
+	Key: 7
+	Mode: 1
+	Popularity: 76
+
+'Life Is Good (feat. Drake)' by Future, Drake [2020-05-15]
+Features:
+	Danceability: 0.795
+	Energy: 0.574
+	Loudness: -6.903
+	Speechiness: 0.487
+	Acousticness: 0.067
+	Instrumentalness: 0
+	Liveness: 0.15
+	Valence: 0.537
+	Tempo: 142.053
+	Key: 2
+	Mode: 0
+	Popularity: 71
+
+'JETSKI (feat. Lil Mosey & Lil Tecca)' by Internet Money, Lil Tecca, Lil Mosey [2021-03-26]
+Features:
+	Danceability: 0.883
+	Energy: 0.446
+	Loudness: -8.723
+	Speechiness: 0.296
+	Acousticness: 0.0253
+	Instrumentalness: 0
+	Liveness: 0.103
+	Valence: 0.463
+	Tempo: 92.95
+	Key: 8
+	Mode: 0
+	Popularity: 67
+
+'Goosebumps - Remix' by Travis Scott, HVME [2021-01-15]
+Features:
+	Danceability: 0.841
+	Energy: 0.593
+	Loudness: -7.846
+	Speechiness: 0.0379
+	Acousticness: 0.418
+	Instrumentalness: 0
+	Liveness: 0.124
+	Valence: 0.808
+	Tempo: 124.917
+	Key: 1
+	Mode: 1
+	Popularity: 81
+
+'Drankin N Smokin' by Future, Lil Uzi Vert [2020-11-13]
+Features:
+	Danceability: 0.752
+	Energy: 0.658
+	Loudness: -6.297
+	Speechiness: 0.342
+	Acousticness: 0.0421
+	Instrumentalness: 0
+	Liveness: 0.0927
+	Valence: 0.387
+	Tempo: 151.951
+	Key: 0
+	Mode: 1
+	Popularity: 73
+
+'Fair Trade (with Travis Scott)' by Drake, Travis Scott [2021-09-03]
+Features:
+	Danceability: 0.666
+	Energy: 0.465
+	Loudness: -8.545
+	Speechiness: 0.26
+	Acousticness: 0.0503
+	Instrumentalness: 0
+	Liveness: 0.215
+	Valence: 0.292
+	Tempo: 167.937
+	Key: 1
+	Mode: 1
+	Popularity: 83
+
+'Coco (feat. DaBaby)' by 24kGoldn, DaBaby [2021-03-26]
+Features:
+	Danceability: 0.697
+	Energy: 0.783
+	Loudness: -4.356
+	Speechiness: 0.0876
+	Acousticness: 0.158
+	Instrumentalness: 0
+	Liveness: 0.151
+	Valence: 0.528
+	Tempo: 98.068
+	Key: 7
+	Mode: 0
+	Popularity: 68
+
+'Dior' by Pop Smoke [2019-07-26]
+Features:
+	Danceability: 0.548
+	Energy: 0.805
+	Loudness: -5.732
+	Speechiness: 0.351
+	Acousticness: 0.212
+	Instrumentalness: 0.000389
+	Liveness: 0.408
+	Valence: 0.648
+	Tempo: 142.094
+	Key: 7
+	Mode: 1
+	Popularity: 82
+
+'F.N' by Lil Tjay [2019-10-11]
+Features:
+	Danceability: 0.567
+	Energy: 0.515
+	Loudness: -10.265
+	Speechiness: 0.247
+	Acousticness: 0.354
+	Instrumentalness: 0
+	Liveness: 0.078
+	Valence: 0.321
+	Tempo: 120.1
+	Key: 6
+	Mode: 0
+	Popularity: 77
+
+'Laugh Now Cry Later (feat. Lil Durk)' by Drake, Lil Durk [2020-08-14]
+Features:
+	Danceability: 0.761
+	Energy: 0.518
+	Loudness: -8.871
+	Speechiness: 0.134
+	Acousticness: 0.244
+	Instrumentalness: 3.47e-05
+	Liveness: 0.107
+	Valence: 0.522
+	Tempo: 133.976
+	Key: 0
+	Mode: 1
+	Popularity: 79
+
+'GREECE (feat. Drake)' by DJ Khaled, Drake [2021-04-30]
+Features:
+	Danceability: 0.687
+	Energy: 0.336
+	Loudness: -10.748
+	Speechiness: 0.0456
+	Acousticness: 0.0755
+	Instrumentalness: 0
+	Liveness: 0.126
+	Valence: 0.215
+	Tempo: 85.828
+	Key: 5
+	Mode: 1
+	Popularity: 68
+
+'Smile (with The Weeknd)' by Juice WRLD, The Weeknd [2020-07-10]
+Features:
+	Danceability: 0.694
+	Energy: 0.685
+	Loudness: -6.535
+	Speechiness: 0.133
+	Acousticness: 0.224
+	Instrumentalness: 0
+	Liveness: 0.124
+	Valence: 0.306
+	Tempo: 158.831
+	Key: 6
+	Mode: 0
+	Popularity: 72
+
+'Toosie Slide' by Drake [2020-04-03]
+Features:
+	Danceability: 0.834
+	Energy: 0.454
+	Loudness: -9.75
+	Speechiness: 0.201
+	Acousticness: 0.321
+	Instrumentalness: 6.15e-06
+	Liveness: 0.114
+	Valence: 0.837
+	Tempo: 81.618
+	Key: 1
+	Mode: 0
+	Popularity: 73
+
+'The Box' by Roddy Ricch [2019-12-06]
+Features:
+	Danceability: 0.896
+	Energy: 0.586
+	Loudness: -6.687
+	Speechiness: 0.0559
+	Acousticness: 0.104
+	Instrumentalness: 0
+	Liveness: 0.79
+	Valence: 0.642
+	Tempo: 116.971
+	Key: 10
+	Mode: 0
+	Popularity: 80
+
+'Skechers' by DripReport [2020-01-12]
+Features:
+	Danceability: 0.903
+	Energy: 0.327
+	Loudness: -9.727
+	Speechiness: 0.0877
+	Acousticness: 0.26
+	Instrumentalness: 0.011
+	Liveness: 0.108
+	Valence: 0.274
+	Tempo: 100.008
+	Key: 1
+	Mode: 1
+	Popularity: 71
+
+'Trucs de choses' by Gradur, Franglish [2021-07-29]
+Features:
+	Danceability: 0.54
+	Energy: 0.577
+	Loudness: -4.733
+	Speechiness: 0.189
+	Acousticness: 0.323
+	Instrumentalness: 0
+	Liveness: 0.265
+	Valence: 0.634
+	Tempo: 96.657
+	Key: 9
+	Mode: 0
+	Popularity: 63
+
+'Dans tes yeux' by Kaza [2020-03-06]
+Features:
+	Danceability: 0.678
+	Energy: 0.485
+	Loudness: -8.738
+	Speechiness: 0.0651
+	Acousticness: 0.259
+	Instrumentalness: 0
+	Liveness: 0.174
+	Valence: 0.251
+	Tempo: 114.076
+	Key: 6
+	Mode: 1
+	Popularity: 56
+
+'Rose' by Ninho [2017-09-08]
+Features:
+	Danceability: 0.876
+	Energy: 0.443
+	Loudness: -6.632
+	Speechiness: 0.324
+	Acousticness: 0.445
+	Instrumentalness: 0
+	Liveness: 0.118
+	Valence: 0.273
+	Tempo: 115.048
+	Key: 6
+	Mode: 1
+	Popularity: 8
+
+'Rêve encore' by KIKESA [2020-09-27]
+Features:
+	Danceability: 0.704
+	Energy: 0.762
+	Loudness: -5.137
+	Speechiness: 0.0417
+	Acousticness: 0.134
+	Instrumentalness: 0
+	Liveness: 0.163
+	Valence: 0.56
+	Tempo: 150.077
+	Key: 11
+	Mode: 0
+	Popularity: 43
+
+'Hubert et Saïd' by PLK [2021-11-12]
+Features:
+	Danceability: 0.782
+	Energy: 0.582
+	Loudness: -9.525
+	Speechiness: 0.111
+	Acousticness: 0.0984
+	Instrumentalness: 0
+	Liveness: 0.124
+	Valence: 0.682
+	Tempo: 118.127
+	Key: 10
+	Mode: 0
+	Popularity: 55
+
+'Mon poto - Extrait de la BO de « En Passant Pécho »' by Kore, Ninho [2021-04-02]
+Features:
+	Danceability: 0.743
+	Energy: 0.622
+	Loudness: -5.332
+	Speechiness: 0.136
+	Acousticness: 0.904
+	Instrumentalness: 1.66e-05
+	Liveness: 0.143
+	Valence: 0.317
+	Tempo: 140.054
+	Key: 4
+	Mode: 0
+	Popularity: 61
+
+'Tout en Gucci' by Ninho [2020-10-30]
+Features:
+	Danceability: 0.776
+	Energy: 0.662
+	Loudness: -7.586
+	Speechiness: 0.233
+	Acousticness: 0.548
+	Instrumentalness: 5.1e-06
+	Liveness: 0.117
+	Valence: 0.5
+	Tempo: 121.987
+	Key: 3
+	Mode: 0
+	Popularity: 61
+
+'Arme de poing' by Ninho [2021-12-03]
+Features:
+	Danceability: 0.696
+	Energy: 0.776
+	Loudness: -6.066
+	Speechiness: 0.367
+	Acousticness: 0.445
+	Instrumentalness: 0
+	Liveness: 0.191
+	Valence: 0.374
+	Tempo: 89.993
+	Key: 10
+	Mode: 0
+	Popularity: 62
+
+'Enfants terribles' by Landy, Ninho [2020-12-18]
+Features:
+	Danceability: 0.846
+	Energy: 0.559
+	Loudness: -7.725
+	Speechiness: 0.365
+	Acousticness: 0.534
+	Instrumentalness: 0
+	Liveness: 0.131
+	Valence: 0.668
+	Tempo: 129.956
+	Key: 2
+	Mode: 0
+	Popularity: 61
+
+'Grand bain' by Dadju, Ninho [2020-09-25]
+Features:
+	Danceability: 0.63
+	Energy: 0.393
+	Loudness: -10.762
+	Speechiness: 0.183
+	Acousticness: 0.88
+	Instrumentalness: 0
+	Liveness: 0.0894
+	Valence: 0.166
+	Tempo: 145.051
+	Key: 1
+	Mode: 1
+	Popularity: 61
+
+'Jusqu'au dernier gramme' by PNL [2016-09-16]
+Features:
+	Danceability: 0.762
+	Energy: 0.6
+	Loudness: -7.585
+	Speechiness: 0.0909
+	Acousticness: 0.542
+	Instrumentalness: 0
+	Liveness: 0.0841
+	Valence: 0.39
+	Tempo: 115.908
+	Key: 5
+	Mode: 0
+	Popularity: 64
+
+'Levels - Radio Edit' by Avicii [2011-10-28]
+Features:
+	Danceability: 0.584
+	Energy: 0.889
+	Loudness: -5.941
+	Speechiness: 0.0343
+	Acousticness: 0.0462
+	Instrumentalness: 0.828
+	Liveness: 0.309
+	Valence: 0.464
+	Tempo: 126.04
+	Key: 1
+	Mode: 0
+	Popularity: 78
+
+'Com'dab' by DJ Kayz, KeBlack, Naza [2016-06-03]
+Features:
+	Danceability: 0.786
+	Energy: 0.884
+	Loudness: -3.913
+	Speechiness: 0.195
+	Acousticness: 0.432
+	Instrumentalness: 0
+	Liveness: 0.0751
+	Valence: 0.873
+	Tempo: 121.05
+	Key: 1
+	Mode: 1
+	Popularity: 60
+
+'Better Days (NEIKED x Mae Muller x Polo G)' by NEIKED, Mae Muller, Polo G [2021-09-24]
+Features:
+	Danceability: 0.717
+	Energy: 0.671
+	Loudness: -5.077
+	Speechiness: 0.0337
+	Acousticness: 0.0018
+	Instrumentalness: 2.54e-06
+	Liveness: 0.0921
+	Valence: 0.699
+	Tempo: 110.054
+	Key: 0
+	Mode: 0
+	Popularity: 83
+
+'Locked out of Heaven' by Bruno Mars [2012-12-07]
+Features:
+	Danceability: 0.726
+	Energy: 0.698
+	Loudness: -4.165
+	Speechiness: 0.0431
+	Acousticness: 0.049
+	Instrumentalness: 0
+	Liveness: 0.309
+	Valence: 0.867
+	Tempo: 143.994
+	Key: 5
+	Mode: 1
+	Popularity: 86
+
+'La kiffance' by Naps [2021-04-02]
+Features:
+	Danceability: 0.805
+	Energy: 0.637
+	Loudness: -6.515
+	Speechiness: 0.0869
+	Acousticness: 0.228
+	Instrumentalness: 0
+	Liveness: 0.071
+	Valence: 0.678
+	Tempo: 140.045
+	Key: 6
+	Mode: 1
+	Popularity: 68
+
+'TDB' by OBOY [2021-09-10]
+Features:
+	Danceability: 0.882
+	Energy: 0.675
+	Loudness: -6.004
+	Speechiness: 0.141
+	Acousticness: 0.0474
+	Instrumentalness: 0.000598
+	Liveness: 0.124
+	Valence: 0.758
+	Tempo: 140.092
+	Key: 3
+	Mode: 1
+	Popularity: 65
+
+'ON S'TAILLE' by Gambi [2020-07-10]
+Features:
+	Danceability: 0.9
+	Energy: 0.466
+	Loudness: -6.999
+	Speechiness: 0.187
+	Acousticness: 0.466
+	Instrumentalness: 0.000101
+	Liveness: 0.0905
+	Valence: 0.523
+	Tempo: 126.951
+	Key: 11
+	Mode: 0
+	Popularity: 55
+
+'Millions d'euros' by Landy, Niska [2020-12-18]
+Features:
+	Danceability: 0.611
+	Energy: 0.603
+	Loudness: -7.819
+	Speechiness: 0.428
+	Acousticness: 0.498
+	Instrumentalness: 0
+	Liveness: 0.0657
+	Valence: 0.397
+	Tempo: 119.559
+	Key: 6
+	Mode: 0
+	Popularity: 62
+
+'Pesetas' by Rilès [2017-05-29]
+Features:
+	Danceability: 0.772
+	Energy: 0.659
+	Loudness: -5.218
+	Speechiness: 0.335
+	Acousticness: 0.0785
+	Instrumentalness: 0
+	Liveness: 0.0834
+	Valence: 0.536
+	Tempo: 147.149
+	Key: 11
+	Mode: 0
+	Popularity: 64
+
+'Las vegas' by Jok'air [2019-03-29]
+Features:
+	Danceability: 0.6
+	Energy: 0.759
+	Loudness: -5.385
+	Speechiness: 0.178
+	Acousticness: 0.146
+	Instrumentalness: 0
+	Liveness: 0.11
+	Valence: 0.603
+	Tempo: 170.03
+	Key: 10
+	Mode: 0
+	Popularity: 63
+
+'911' by Damso [2021-04-28]
+Features:
+	Danceability: 0.685
+	Energy: 0.706
+	Loudness: -7.02
+	Speechiness: 0.0545
+	Acousticness: 0.0894
+	Instrumentalness: 0.0287
+	Liveness: 0.0986
+	Valence: 0.64
+	Tempo: 155.989
+	Key: 11
+	Mode: 0
+	Popularity: 64
+
+'C'est ma vie (feat. Jul)' by Sasso, Jul [2021-07-09]
+Features:
+	Danceability: 0.788
+	Energy: 0.819
+	Loudness: -4.586
+	Speechiness: 0.0982
+	Acousticness: 0.318
+	Instrumentalness: 0
+	Liveness: 0.118
+	Valence: 0.343
+	Tempo: 131.921
+	Key: 7
+	Mode: 1
+	Popularity: 49
+
+'Swipe up' by Bolémvn [2021-03-11]
+Features:
+	Danceability: 0.882
+	Energy: 0.374
+	Loudness: -12.113
+	Speechiness: 0.354
+	Acousticness: 0.548
+	Instrumentalness: 0
+	Liveness: 0.105
+	Valence: 0.507
+	Tempo: 123.936
+	Key: 11
+	Mode: 0
+	Popularity: 32
+
+'GO (feat. Juice WRLD)' by The Kid LAROI, Juice WRLD [2020-07-24]
+Features:
+	Danceability: 0.487
+	Energy: 0.74
+	Loudness: -4.973
+	Speechiness: 0.0944
+	Acousticness: 0.157
+	Instrumentalness: 0
+	Liveness: 0.612
+	Valence: 0.522
+	Tempo: 73.779
+	Key: 6
+	Mode: 1
+	Popularity: 73
+
+'Hate The Other Side (with Marshmello & The Kid Laroi)' by Juice WRLD, Marshmello, The Kid LAROI, Polo G [2020-07-10]
+Features:
+	Danceability: 0.701
+	Energy: 0.65
+	Loudness: -6.313
+	Speechiness: 0.104
+	Acousticness: 0.291
+	Instrumentalness: 0
+	Liveness: 0.112
+	Valence: 0.647
+	Tempo: 90.003
+	Key: 6
+	Mode: 1
+	Popularity: 75
+
+'Look At Me!' by XXXTENTACION [2017-02-20]
+Features:
+	Danceability: 0.763
+	Energy: 0.726
+	Loudness: -6.405
+	Speechiness: 0.282
+	Acousticness: 0.259
+	Instrumentalness: 0
+	Liveness: 0.0976
+	Valence: 0.349
+	Tempo: 139.059
+	Key: 1
+	Mode: 1
+	Popularity: 81
+
+'Moonlight' by XXXTENTACION [2018-03-16]
+Features:
+	Danceability: 0.921
+	Energy: 0.537
+	Loudness: -5.723
+	Speechiness: 0.0804
+	Acousticness: 0.556
+	Instrumentalness: 0.00404
+	Liveness: 0.102
+	Valence: 0.711
+	Tempo: 128.009
+	Key: 9
+	Mode: 0
+	Popularity: 81
+
+'SAD!' by XXXTENTACION [2018-03-16]
+Features:
+	Danceability: 0.74
+	Energy: 0.613
+	Loudness: -4.88
+	Speechiness: 0.145
+	Acousticness: 0.258
+	Instrumentalness: 0.00372
+	Liveness: 0.123
+	Valence: 0.473
+	Tempo: 75.023
+	Key: 8
+	Mode: 1
+	Popularity: 82
+
+'Everyday (feat. Rod Stewart, Miguel & Mark Ronson)' by A$AP Rocky, Rod Stewart, Miguel, Mark Ronson [2015-05-26]
+Features:
+	Danceability: 0.394
+	Energy: 0.661
+	Loudness: -8.684
+	Speechiness: 0.192
+	Acousticness: 0.00996
+	Instrumentalness: 0
+	Liveness: 0.343
+	Valence: 0.335
+	Tempo: 149.818
+	Key: 4
+	Mode: 1
+	Popularity: 77
+
+'Livin It Up (with Post Malone & A$AP Rocky)' by Young Thug, A$AP Rocky, Post Malone [2021-10-15]
+Features:
+	Danceability: 0.767
+	Energy: 0.313
+	Loudness: -12.059
+	Speechiness: 0.0798
+	Acousticness: 0.838
+	Instrumentalness: 0
+	Liveness: 0.105
+	Valence: 0.765
+	Tempo: 82.582
+	Key: 7
+	Mode: 1
+	Popularity: 75
+
+'Old Town Road' by Lil Nas X [2019-06-21]
+Features:
+	Danceability: 0.907
+	Energy: 0.53
+	Loudness: -6.112
+	Speechiness: 0.127
+	Acousticness: 0.0578
+	Instrumentalness: 2.23e-06
+	Liveness: 0.101
+	Valence: 0.507
+	Tempo: 135.998
+	Key: 1
+	Mode: 1
+	Popularity: 75
+
+'Moth To A Flame (with The Weeknd)' by Swedish House Mafia, The Weeknd [2021-10-22]
+Features:
+	Danceability: 0.542
+	Energy: 0.659
+	Loudness: -7.289
+	Speechiness: 0.0389
+	Acousticness: 0.00279
+	Instrumentalness: 0
+	Liveness: 0.105
+	Valence: 0.109
+	Tempo: 120.122
+	Key: 8
+	Mode: 1
+	Popularity: 41
+
+'Praise The Lord (Da Shine) (feat. Skepta)' by A$AP Rocky, Skepta [2018-05-25]
+Features:
+	Danceability: 0.854
+	Energy: 0.569
+	Loudness: -8.151
+	Speechiness: 0.106
+	Acousticness: 0.0609
+	Instrumentalness: 0.0816
+	Liveness: 0.1
+	Valence: 0.294
+	Tempo: 80.015
+	Key: 5
+	Mode: 0
+	Popularity: 81
+
+'INDUSTRY BABY (feat. Jack Harlow)' by Lil Nas X, Jack Harlow [2021-09-17]
+Features:
+	Danceability: 0.741
+	Energy: 0.691
+	Loudness: -7.395
+	Speechiness: 0.0672
+	Acousticness: 0.0221
+	Instrumentalness: 0
+	Liveness: 0.0476
+	Valence: 0.892
+	Tempo: 150.087
+	Key: 10
+	Mode: 0
+	Popularity: 82
+
+'Reminds Me Of You' by Juice WRLD, The Kid LAROI [2020-12-08]
+Features:
+	Danceability: 0.613
+	Energy: 0.631
+	Loudness: -6.965
+	Speechiness: 0.12
+	Acousticness: 0.0663
+	Instrumentalness: 0
+	Liveness: 0.169
+	Valence: 0.33
+	Tempo: 149.992
+	Key: 4
+	Mode: 1
+	Popularity: 70
+
+'Falling Down - Bonus Track' by Lil Peep, XXXTENTACION [2018-11-09]
+Features:
+	Danceability: 0.669
+	Energy: 0.574
+	Loudness: -6.442
+	Speechiness: 0.0286
+	Acousticness: 0.0175
+	Instrumentalness: 0.00294
+	Liveness: 0.146
+	Valence: 0.273
+	Tempo: 120.013
+	Key: 4
+	Mode: 0
+	Popularity: 79
+
+'Dreams Unfold' by Joyner Lucas, Lil Tjay [2021-08-25]
+Features:
+	Danceability: 0.869
+	Energy: 0.62
+	Loudness: -5.308
+	Speechiness: 0.191
+	Acousticness: 0.36
+	Instrumentalness: 0
+	Liveness: 0.103
+	Valence: 0.961
+	Tempo: 148.041
+	Key: 9
+	Mode: 1
+	Popularity: 63
+
+'TRAGIC (feat. Youngboy Never Broke Again & Internet Money)' by The Kid LAROI, YoungBoy Never Broke Again, Internet Money [2020-11-06]
+Features:
+	Danceability: 0.779
+	Energy: 0.642
+	Loudness: -6.321
+	Speechiness: 0.116
+	Acousticness: 0.0383
+	Instrumentalness: 0
+	Liveness: 0.2
+	Valence: 0.388
+	Tempo: 82.363
+	Key: 8
+	Mode: 0
+	Popularity: 71
+
+'Wanted You (feat. Lil Uzi Vert)' by NAV, Lil Uzi Vert [2018-05-18]
+Features:
+	Danceability: 0.797
+	Energy: 0.731
+	Loudness: -4.443
+	Speechiness: 0.0479
+	Acousticness: 0.229
+	Instrumentalness: 0
+	Liveness: 0.224
+	Valence: 0.623
+	Tempo: 146.93
+	Key: 9
+	Mode: 0
+	Popularity: 65
+
+'Make a Mall' by Preme, PARTYNEXTDOOR [2021-12-17]
+Features:
+	Danceability: 0.758
+	Energy: 0.575
+	Loudness: -8.095
+	Speechiness: 0.0416
+	Acousticness: 0.411
+	Instrumentalness: 2.38e-06
+	Liveness: 0.112
+	Valence: 0.486
+	Tempo: 89.98
+	Key: 0
+	Mode: 1
+	Popularity: 51
+
+'Ur Best Friend (with Kehlani)' by Kiana Ledé, Kehlani [2021-07-23]
+Features:
+	Danceability: 0.565
+	Energy: 0.531
+	Loudness: -6.09
+	Speechiness: 0.197
+	Acousticness: 0.497
+	Instrumentalness: 1.94e-06
+	Liveness: 0.102
+	Valence: 0.237
+	Tempo: 129.424
+	Key: 2
+	Mode: 1
+	Popularity: 61
+
+'Pieces (feat. Queen Naija)' by YNW Melly, Queen Naija [2021-08-13]
+Features:
+	Danceability: 0.812
+	Energy: 0.609
+	Loudness: -5.452
+	Speechiness: 0.0695
+	Acousticness: 0.555
+	Instrumentalness: 0
+	Liveness: 0.296
+	Valence: 0.707
+	Tempo: 121.026
+	Key: 3
+	Mode: 1
+	Popularity: 48
+
+'Summer Nights (feat. Clever)' by DryBoy., Clever [2019-08-23]
+Features:
+	Danceability: 0.661
+	Energy: 0.466
+	Loudness: -8.377
+	Speechiness: 0.0504
+	Acousticness: 0.0608
+	Instrumentalness: 0
+	Liveness: 0.147
+	Valence: 0.152
+	Tempo: 85.451
+	Key: 3
+	Mode: 1
+	Popularity: 50
+
+'Difference' by Yung Pinch [2021-08-06]
+Features:
+	Danceability: 0.79
+	Energy: 0.414
+	Loudness: -7.786
+	Speechiness: 0.143
+	Acousticness: 0.614
+	Instrumentalness: 0
+	Liveness: 0.0996
+	Valence: 0.375
+	Tempo: 101.986
+	Key: 5
+	Mode: 1
+	Popularity: 49
+
+'Infatuation' by Takeoff [2018-11-02]
+Features:
+	Danceability: 0.629
+	Energy: 0.608
+	Loudness: -7.247
+	Speechiness: 0.0771
+	Acousticness: 0.0724
+	Instrumentalness: 0
+	Liveness: 0.0874
+	Valence: 0.413
+	Tempo: 103.021
+	Key: 2
+	Mode: 0
+	Popularity: 59
+
+'MONTERO (Call Me By Your Name)' by Lil Nas X [2021-09-17]
+Features:
+	Danceability: 0.593
+	Energy: 0.503
+	Loudness: -6.725
+	Speechiness: 0.22
+	Acousticness: 0.293
+	Instrumentalness: 0
+	Liveness: 0.405
+	Valence: 0.71
+	Tempo: 178.781
+	Key: 8
+	Mode: 0
+	Popularity: 82
+
+'Jocelyn Flores' by XXXTENTACION [2017-08-25]
+Features:
+	Danceability: 0.872
+	Energy: 0.391
+	Loudness: -9.144
+	Speechiness: 0.242
+	Acousticness: 0.469
+	Instrumentalness: 4.13e-06
+	Liveness: 0.297
+	Valence: 0.437
+	Tempo: 134.021
+	Key: 0
+	Mode: 0
+	Popularity: 83
+
+'Pop Out (feat. Lil Tjay)' by Polo G, Lil Tjay [2019-06-07]
+Features:
+	Danceability: 0.772
+	Energy: 0.639
+	Loudness: -7.119
+	Speechiness: 0.467
+	Acousticness: 0.15
+	Instrumentalness: 0
+	Liveness: 0.0698
+	Valence: 0.261
+	Tempo: 168.112
+	Key: 1
+	Mode: 1
+	Popularity: 77
+
+'RAPSTAR' by Polo G [2021-06-11]
+Features:
+	Danceability: 0.789
+	Energy: 0.536
+	Loudness: -6.862
+	Speechiness: 0.242
+	Acousticness: 0.41
+	Instrumentalness: 0
+	Liveness: 0.129
+	Valence: 0.437
+	Tempo: 81.039
+	Key: 6
+	Mode: 1
+	Popularity: 81
+
+'Martin & Gina' by Polo G [2020-05-15]
+Features:
+	Danceability: 0.832
+	Energy: 0.534
+	Loudness: -7.813
+	Speechiness: 0.253
+	Acousticness: 0.345
+	Instrumentalness: 0
+	Liveness: 0.165
+	Valence: 0.116
+	Tempo: 93.924
+	Key: 1
+	Mode: 0
+	Popularity: 80
+
+'Le cœur des filles' by A2h [2020-10-23]
+Features:
+	Danceability: 0.761
+	Energy: 0.649
+	Loudness: -6.037
+	Speechiness: 0.0352
+	Acousticness: 0.441
+	Instrumentalness: 7.39e-05
+	Liveness: 0.102
+	Valence: 0.231
+	Tempo: 140.071
+	Key: 1
+	Mode: 1
+	Popularity: 64
+
+'O.G. (feat. Dinos)' by Leto, Dinos [2022-02-18]
+Features:
+	Danceability: 0.764
+	Energy: 0.584
+	Loudness: -9.879
+	Speechiness: 0.107
+	Acousticness: 0.774
+	Instrumentalness: 0
+	Liveness: 0.288
+	Valence: 0.542
+	Tempo: 132.035
+	Key: 4
+	Mode: 0
+	Popularity: 43
+
+'Woman' by Doja Cat [2021-06-25]
+Features:
+	Danceability: 0.824
+	Energy: 0.764
+	Loudness: -4.175
+	Speechiness: 0.0854
+	Acousticness: 0.0888
+	Instrumentalness: 0.00294
+	Liveness: 0.117
+	Valence: 0.881
+	Tempo: 107.998
+	Key: 5
+	Mode: 0
+	Popularity: 89
+
+'TO THE MOON' by Jnr Choi, Sam Tompkins [2021-11-06]
+Features:
+	Danceability: 0.745
+	Energy: 0.65
+	Loudness: -11.814
+	Speechiness: 0.346
+	Acousticness: 0.0451
+	Instrumentalness: 0.00758
+	Liveness: 0.111
+	Valence: 0.386
+	Tempo: 144.047
+	Key: 2
+	Mode: 1
+	Popularity: 78
+
+'In My Mind' by Alok, John Legend [2021-07-30]
+Features:
+	Danceability: 0.629
+	Energy: 0.746
+	Loudness: -5.482
+	Speechiness: 0.0401
+	Acousticness: 0.0947
+	Instrumentalness: 0
+	Liveness: 0.225
+	Valence: 0.425
+	Tempo: 108.025
+	Key: 0
+	Mode: 1
+	Popularity: 59
+
+'Thunder' by Gabry Ponte, LUM!X, Prezioso [2021-05-07]
+Features:
+	Danceability: 0.67
+	Energy: 0.896
+	Loudness: -4.673
+	Speechiness: 0.058
+	Acousticness: 0.0342
+	Instrumentalness: 3.21e-05
+	Liveness: 0.344
+	Valence: 0.403
+	Tempo: 101.216
+	Key: 1
+	Mode: 1
+	Popularity: 80
+
+'La maison que je voulais' by Ninho [2021-12-03]
+Features:
+	Danceability: 0.739
+	Energy: 0.59
+	Loudness: -7.528
+	Speechiness: 0.413
+	Acousticness: 0.302
+	Instrumentalness: 0
+	Liveness: 0.141
+	Valence: 0.393
+	Tempo: 124.098
+	Key: 10
+	Mode: 0
+	Popularity: 59
+
+'Parano' by SCH [2021-03-19]
+Features:
+	Danceability: 0.523
+	Energy: 0.577
+	Loudness: -10.587
+	Speechiness: 0.434
+	Acousticness: 0.0944
+	Instrumentalness: 0
+	Liveness: 0.15
+	Valence: 0.536
+	Tempo: 173.485
+	Key: 10
+	Mode: 0
+	Popularity: 51
+
+'Champion' by Serge Ibaka, Ninho [2021-02-26]
+Features:
+	Danceability: 0.556
+	Energy: 0.639
+	Loudness: -6.652
+	Speechiness: 0.0974
+	Acousticness: 0.282
+	Instrumentalness: 0
+	Liveness: 0.0878
+	Valence: 0.591
+	Tempo: 99.627
+	Key: 9
+	Mode: 0
+	Popularity: 60
+
+'Sur paname' by Ninho [2020-10-30]
+Features:
+	Danceability: 0.701
+	Energy: 0.789
+	Loudness: -5.305
+	Speechiness: 0.327
+	Acousticness: 0.196
+	Instrumentalness: 0
+	Liveness: 0.113
+	Valence: 0.765
+	Tempo: 82.169
+	Key: 6
+	Mode: 0
+	Popularity: 49
+
+'Toi t'es chelou' by Landy, No Limit, Alonzo [2020-07-30]
+Features:
+	Danceability: 0.753
+	Energy: 0.714
+	Loudness: -3.691
+	Speechiness: 0.211
+	Acousticness: 0.52
+	Instrumentalness: 0
+	Liveness: 0.116
+	Valence: 0.67
+	Tempo: 73.085
+	Key: 5
+	Mode: 0
+	Popularity: 1
+
+'Goodbye' by No Limit, Dadju, Chris Brown, Skread [2021-12-17]
+Features:
+	Danceability: 0.775
+	Energy: 0.669
+	Loudness: -7.256
+	Speechiness: 0.0693
+	Acousticness: 0.134
+	Instrumentalness: 0
+	Liveness: 0.123
+	Valence: 0.337
+	Tempo: 93.017
+	Key: 0
+	Mode: 0
+	Popularity: 57
+
+'EUPHON' by Gazo [2021-02-26]
+Features:
+	Danceability: 0.814
+	Energy: 0.584
+	Loudness: -6.973
+	Speechiness: 0.123
+	Acousticness: 0.0434
+	Instrumentalness: 0
+	Liveness: 0.0883
+	Valence: 0.501
+	Tempo: 139.99
+	Key: 1
+	Mode: 1
+	Popularity: 64
+
+'Ma werss' by Landy, Soolking [2020-12-18]
+Features:
+	Danceability: 0.893
+	Energy: 0.761
+	Loudness: -4.409
+	Speechiness: 0.0676
+	Acousticness: 0.111
+	Instrumentalness: 0
+	Liveness: 0.0736
+	Valence: 0.78
+	Tempo: 116.008
+	Key: 11
+	Mode: 0
+	Popularity: 59
+
+'Mango - Extrait de la BO de « En Passant Pécho »' by Kore, Lacrim [2021-02-10]
+Features:
+	Danceability: 0.798
+	Energy: 0.868
+	Loudness: -5.1
+	Speechiness: 0.104
+	Acousticness: 0.128
+	Instrumentalness: 6.22e-06
+	Liveness: 0.249
+	Valence: 0.787
+	Tempo: 140.009
+	Key: 2
+	Mode: 1
+	Popularity: 49
+
+'Tout le bonheur du monde' by Sinsémilia [2004-10-03]
+Features:
+	Danceability: 0.693
+	Energy: 0.729
+	Loudness: -7.544
+	Speechiness: 0.0659
+	Acousticness: 0.207
+	Instrumentalness: 0
+	Liveness: 0.0818
+	Valence: 0.749
+	Tempo: 100.029
+	Key: 2
+	Mode: 0
+	Popularity: 56
+
+'Do It To It' by ACRAZE, Cherish [2021-08-20]
+Features:
+	Danceability: 0.854
+	Energy: 0.806
+	Loudness: -8.262
+	Speechiness: 0.0886
+	Acousticness: 0.0209
+	Instrumentalness: 0.0542
+	Liveness: 0.0703
+	Valence: 0.637
+	Tempo: 124.927
+	Key: 11
+	Mode: 0
+	Popularity: 85
+
+'Wrecked' by Imagine Dragons [2021-07-02]
+Features:
+	Danceability: 0.626
+	Energy: 0.56
+	Loudness: -5.82
+	Speechiness: 0.0288
+	Acousticness: 0.148
+	Instrumentalness: 1.51e-05
+	Liveness: 0.109
+	Valence: 0.229
+	Tempo: 93.989
+	Key: 0
+	Mode: 0
+	Popularity: 70
+
+'Acapulco' by Jason Derulo [2021-09-03]
+Features:
+	Danceability: 0.774
+	Energy: 0.792
+	Loudness: -4.021
+	Speechiness: 0.0523
+	Acousticness: 0.051
+	Instrumentalness: 0
+	Liveness: 0.155
+	Valence: 0.507
+	Tempo: 122.062
+	Key: 10
+	Mode: 1
+	Popularity: 81
+
+'Shivers' by Ed Sheeran [2021-10-29]
+Features:
+	Danceability: 0.788
+	Energy: 0.859
+	Loudness: -2.724
+	Speechiness: 0.0856
+	Acousticness: 0.281
+	Instrumentalness: 0
+	Liveness: 0.0424
+	Valence: 0.822
+	Tempo: 141.02
+	Key: 2
+	Mode: 1
+	Popularity: 88
+
+'Hurricane' by Ofenbach, Ella Henderson [2021-09-17]
+Features:
+	Danceability: 0.56
+	Energy: 0.851
+	Loudness: -2.851
+	Speechiness: 0.0486
+	Acousticness: 0.225
+	Instrumentalness: 2.9e-06
+	Liveness: 0.177
+	Valence: 0.461
+	Tempo: 125.947
+	Key: 2
+	Mode: 0
+	Popularity: 74
+
+'How You Remind Me' by Nickelback [2001-09-11]
+Features:
+	Danceability: 0.446
+	Energy: 0.764
+	Loudness: -5.042
+	Speechiness: 0.033
+	Acousticness: 0.00135
+	Instrumentalness: 0
+	Liveness: 0.099
+	Valence: 0.543
+	Tempo: 172.094
+	Key: 10
+	Mode: 1
+	Popularity: 79
+
+'Incontrolables' by PLK, SCH [2021-11-12]
+Features:
+	Danceability: 0.763
+	Energy: 0.657
+	Loudness: -8.004
+	Speechiness: 0.202
+	Acousticness: 0.331
+	Instrumentalness: 0.0103
+	Liveness: 0.0981
+	Valence: 0.555
+	Tempo: 135.178
+	Key: 11
+	Mode: 0
+	Popularity: 56
+
+'abcdefu' by GAYLE [2021-08-13]
+Features:
+	Danceability: 0.695
+	Energy: 0.54
+	Loudness: -5.692
+	Speechiness: 0.0493
+	Acousticness: 0.299
+	Instrumentalness: 0
+	Liveness: 0.367
+	Valence: 0.415
+	Tempo: 121.932
+	Key: 4
+	Mode: 1
+	Popularity: 87
+
+'Never Be Like You' by Flume, kai [2016-05-27]
+Features:
+	Danceability: 0.56
+	Energy: 0.551
+	Loudness: -5.446
+	Speechiness: 0.0563
+	Acousticness: 0.445
+	Instrumentalness: 0
+	Liveness: 0.163
+	Valence: 0.263
+	Tempo: 119.777
+	Key: 0
+	Mode: 1
+	Popularity: 63
+
+'Vérité' by Ninho [2021-12-03]
+Features:
+	Danceability: 0.721
+	Energy: 0.509
+	Loudness: -9.356
+	Speechiness: 0.153
+	Acousticness: 0.423
+	Instrumentalness: 7.74e-05
+	Liveness: 0.116
+	Valence: 0.317
+	Tempo: 157.022
+	Key: 6
+	Mode: 0
+	Popularity: 69
+
+'THATS WHAT I WANT' by Lil Nas X [2021-09-17]
+Features:
+	Danceability: 0.737
+	Energy: 0.846
+	Loudness: -4.51
+	Speechiness: 0.22
+	Acousticness: 0.00614
+	Instrumentalness: 0
+	Liveness: 0.0486
+	Valence: 0.546
+	Tempo: 87.981
+	Key: 1
+	Mode: 0
+	Popularity: 87
+
+'Cœur de pirate' by Naza, Tayc, Vegedream, Elams, Jul, Lynda, SAF, THABITI, Naps, Le classico organisé [2021-11-04]
+Features:
+	Danceability: 0.826
+	Energy: 0.701
+	Loudness: -5.596
+	Speechiness: 0.0672
+	Acousticness: 0.0765
+	Instrumentalness: 0
+	Liveness: 0.0942
+	Valence: 0.654
+	Tempo: 117.991
+	Key: 6
+	Mode: 0
+	Popularity: 57
+
+'VVS' by Ninho [2021-12-03]
+Features:
+	Danceability: 0.751
+	Energy: 0.61
+	Loudness: -8.368
+	Speechiness: 0.485
+	Acousticness: 0.337
+	Instrumentalness: 0
+	Liveness: 0.11
+	Valence: 0.525
+	Tempo: 167.983
+	Key: 10
+	Mode: 0
+	Popularity: 73
+
+'AVM' by YG Pablo [2019-02-14]
+Features:
+	Danceability: 0.813
+	Energy: 0.534
+	Loudness: -9.733
+	Speechiness: 0.112
+	Acousticness: 0.709
+	Instrumentalness: 3.96e-05
+	Liveness: 0.0959
+	Valence: 0.149
+	Tempo: 124.96
+	Key: 1
+	Mode: 1
+	Popularity: 63
+
+'Mapessa (feat. Tiakola)' by Leto, Tiakola [2021-09-17]
+Features:
+	Danceability: 0.62
+	Energy: 0.558
+	Loudness: -9.689
+	Speechiness: 0.203
+	Acousticness: 0.389
+	Instrumentalness: 0
+	Liveness: 0.192
+	Valence: 0.492
+	Tempo: 74.934
+	Key: 5
+	Mode: 0
+	Popularity: 68
+
+'Tu le sais' by Kalash, Gazo [2021-07-23]
+Features:
+	Danceability: 0.731
+	Energy: 0.59
+	Loudness: -6.27
+	Speechiness: 0.126
+	Acousticness: 0.352
+	Instrumentalness: 0
+	Liveness: 0.126
+	Valence: 0.321
+	Tempo: 91.989
+	Key: 5
+	Mode: 0
+	Popularity: 59
+
+'Σ. MOROSE' by Damso [2021-04-28]
+Features:
+	Danceability: 0.721
+	Energy: 0.588
+	Loudness: -7.801
+	Speechiness: 0.0501
+	Acousticness: 0.37
+	Instrumentalness: 0.00208
+	Liveness: 0.1
+	Valence: 0.276
+	Tempo: 150.031
+	Key: 4
+	Mode: 0
+	Popularity: 68
+
+'Outro' by Ninho [2021-12-03]
+Features:
+	Danceability: 0.452
+	Energy: 0.454
+	Loudness: -11.197
+	Speechiness: 0.0838
+	Acousticness: 0.69
+	Instrumentalness: 0
+	Liveness: 0.156
+	Valence: 0.402
+	Tempo: 96.186
+	Key: 7
+	Mode: 0
+	Popularity: 60
+
+'Athéna' by Ninho [2021-12-03]
+Features:
+	Danceability: 0.754
+	Energy: 0.555
+	Loudness: -9.512
+	Speechiness: 0.0779
+	Acousticness: 0.46
+	Instrumentalness: 0
+	Liveness: 0.0808
+	Valence: 0.366
+	Tempo: 97.502
+	Key: 2
+	Mode: 1
+	Popularity: 57
+
+'Aïcha' by Ninho [2021-12-03]
+Features:
+	Danceability: 0.843
+	Energy: 0.622
+	Loudness: -6.565
+	Speechiness: 0.136
+	Acousticness: 0.324
+	Instrumentalness: 2.87e-05
+	Liveness: 0.121
+	Valence: 0.442
+	Tempo: 98.079
+	Key: 3
+	Mode: 0
+	Popularity: 63
+
+'Jefe' by Ninho [2021-12-03]
+Features:
+	Danceability: 0.648
+	Energy: 0.599
+	Loudness: -8.611
+	Speechiness: 0.0799
+	Acousticness: 0.474
+	Instrumentalness: 6.81e-06
+	Liveness: 0.121
+	Valence: 0.213
+	Tempo: 120.985
+	Key: 7
+	Mode: 0
+	Popularity: 73
+
+'Le classico organisé' by Le classico organisé, Koba LaD, Jul, PLK, SCH, Gazo, Soso Maness, Kofs, Guy2bezbar, Naps [2021-11-05]
+Features:
+	Danceability: 0.828
+	Energy: 0.878
+	Loudness: -5.241
+	Speechiness: 0.269
+	Acousticness: 0.321
+	Instrumentalness: 0
+	Liveness: 0.1
+	Valence: 0.777
+	Tempo: 142.886
+	Key: 7
+	Mode: 1
+	Popularity: 66
+
+'Gasolina (feat. Ninho)' by Hornet La Frappe, Ninho [2021-08-27]
+Features:
+	Danceability: 0.631
+	Energy: 0.583
+	Loudness: -6.402
+	Speechiness: 0.0455
+	Acousticness: 0.843
+	Instrumentalness: 0
+	Liveness: 0.0744
+	Valence: 0.618
+	Tempo: 84.87
+	Key: 9
+	Mode: 0
+	Popularity: 68
+
+'Paris' by Niska [2021-11-04]
+Features:
+	Danceability: 0.46
+	Energy: 0.52
+	Loudness: -7.274
+	Speechiness: 0.202
+	Acousticness: 0.389
+	Instrumentalness: 0
+	Liveness: 0.137
+	Valence: 0.603
+	Tempo: 84.851
+	Key: 0
+	Mode: 0
+	Popularity: 63
+
+'Blue Magic' by Niska, Maes [2021-11-04]
+Features:
+	Danceability: 0.767
+	Energy: 0.523
+	Loudness: -7.089
+	Speechiness: 0.199
+	Acousticness: 0.37
+	Instrumentalness: 0
+	Liveness: 0.106
+	Valence: 0.576
+	Tempo: 126.061
+	Key: 3
+	Mode: 0
+	Popularity: 60
+
+'Attentat' by PLK, OBOY [2021-11-12]
+Features:
+	Danceability: 0.844
+	Energy: 0.656
+	Loudness: -5.935
+	Speechiness: 0.216
+	Acousticness: 0.192
+	Instrumentalness: 1.82e-05
+	Liveness: 0.115
+	Valence: 0.398
+	Tempo: 99.983
+	Key: 7
+	Mode: 0
+	Popularity: 71
+
+'Infinity' by Jaymes Young [2017-06-23]
+Features:
+	Danceability: 0.671
+	Energy: 0.673
+	Loudness: -6.941
+	Speechiness: 0.0444
+	Acousticness: 0.148
+	Instrumentalness: 5.29e-05
+	Liveness: 0.304
+	Valence: 0.494
+	Tempo: 121.963
+	Key: 11
+	Mode: 0
+	Popularity: 86
+
+'Heads Will Roll - A-Trak Remix' by Yeah Yeah Yeahs, A-Trak [2009-01-01]
+Features:
+	Danceability: 0.738
+	Energy: 0.607
+	Loudness: -3.933
+	Speechiness: 0.0845
+	Acousticness: 0.00743
+	Instrumentalness: 0.315
+	Liveness: 0.0701
+	Valence: 0.779
+	Tempo: 131.983
+	Key: 8
+	Mode: 0
+	Popularity: 67
+
+'Love Tonight - Edit' by Shouse [2017-12-14]
+Features:
+	Danceability: 0.727
+	Energy: 0.681
+	Loudness: -7.114
+	Speechiness: 0.0265
+	Acousticness: 0.00214
+	Instrumentalness: 0.000307
+	Liveness: 0.0861
+	Valence: 0.448
+	Tempo: 123.028
+	Key: 5
+	Mode: 0
+	Popularity: 78
+
+'Unforgettable' by French Montana, Swae Lee [2017-07-14]
+Features:
+	Danceability: 0.726
+	Energy: 0.769
+	Loudness: -5.043
+	Speechiness: 0.123
+	Acousticness: 0.0293
+	Instrumentalness: 0.0101
+	Liveness: 0.104
+	Valence: 0.733
+	Tempo: 97.985
+	Key: 6
+	Mode: 1
+	Popularity: 81
+
+'Mélodie' by OBOY [2020-07-03]
+Features:
+	Danceability: 0.781
+	Energy: 0.536
+	Loudness: -8.188
+	Speechiness: 0.125
+	Acousticness: 0.36
+	Instrumentalness: 2.21e-06
+	Liveness: 0.0797
+	Valence: 0.524
+	Tempo: 95.034
+	Key: 0
+	Mode: 1
+	Popularity: 55
+
+'Money (feat. Faouzia)' by Ninho, Faouzia [2019-03-22]
+Features:
+	Danceability: 0.735
+	Energy: 0.804
+	Loudness: -6.004
+	Speechiness: 0.218
+	Acousticness: 0.603
+	Instrumentalness: 0
+	Liveness: 0.0707
+	Valence: 0.614
+	Tempo: 130.038
+	Key: 7
+	Mode: 1
+	Popularity: 61
+
+'Whistle' by Flo Rida [2012-06-22]
+Features:
+	Danceability: 0.747
+	Energy: 0.937
+	Loudness: -5.746
+	Speechiness: 0.0453
+	Acousticness: 0.0208
+	Instrumentalness: 0
+	Liveness: 0.29
+	Valence: 0.739
+	Tempo: 103.976
+	Key: 0
+	Mode: 1
+	Popularity: 77
+
+'L'adresse' by 47ter [2019-10-25]
+Features:
+	Danceability: 0.695
+	Energy: 0.706
+	Loudness: -6.131
+	Speechiness: 0.0683
+	Acousticness: 0.205
+	Instrumentalness: 0
+	Liveness: 0.289
+	Valence: 0.351
+	Tempo: 87.528
+	Key: 6
+	Mode: 1
+	Popularity: 51
+
+'Elle sait' by KIKESA [2020-03-04]
+Features:
+	Danceability: 0.669
+	Energy: 0.77
+	Loudness: -6.053
+	Speechiness: 0.056
+	Acousticness: 0.0144
+	Instrumentalness: 0
+	Liveness: 0.0876
+	Valence: 0.705
+	Tempo: 160.012
+	Key: 0
+	Mode: 0
+	Popularity: 40
+
+'Amour toxic' by Dadju [2020-09-25]
+Features:
+	Danceability: 0.718
+	Energy: 0.416
+	Loudness: -8.758
+	Speechiness: 0.0675
+	Acousticness: 0.796
+	Instrumentalness: 1.85e-06
+	Liveness: 0.0992
+	Valence: 0.642
+	Tempo: 132.074
+	Key: 5
+	Mode: 1
+	Popularity: 56
+
+'J’aurais pas dû' by S-Crew [2016-06-17]
+Features:
+	Danceability: 0.762
+	Energy: 0.729
+	Loudness: -8.076
+	Speechiness: 0.0679
+	Acousticness: 0.481
+	Instrumentalness: 0.000137
+	Liveness: 0.108
+	Valence: 0.482
+	Tempo: 119.956
+	Key: 6
+	Mode: 0
+	Popularity: 61
+
+'love nwantiti (feat. Franglish) - French Remix' by CKay, Franglish [2020-08-21]
+Features:
+	Danceability: 0.607
+	Energy: 0.756
+	Loudness: -5.611
+	Speechiness: 0.273
+	Acousticness: 0.535
+	Instrumentalness: 3.61e-05
+	Liveness: 0.107
+	Valence: 0.44
+	Tempo: 185.838
+	Key: 1
+	Mode: 1
+	Popularity: 57
+
+'Best life' by Naps, GIMS [2021-09-29]
+Features:
+	Danceability: 0.919
+	Energy: 0.779
+	Loudness: -4.739
+	Speechiness: 0.147
+	Acousticness: 0.258
+	Instrumentalness: 0
+	Liveness: 0.0991
+	Valence: 0.941
+	Tempo: 138.038
+	Key: 7
+	Mode: 0
+	Popularity: 65
+
+'Monte le son' by DJ Kayz, Niska [2020-10-02]
+Features:
+	Danceability: 0.68
+	Energy: 0.783
+	Loudness: -7.556
+	Speechiness: 0.0536
+	Acousticness: 0.0941
+	Instrumentalness: 0
+	Liveness: 0.0877
+	Valence: 0.603
+	Tempo: 100.003
+	Key: 4
+	Mode: 0
+	Popularity: 48
+
+'HAINE&SEX' by Gazo [2021-02-26]
+Features:
+	Danceability: 0.774
+	Energy: 0.583
+	Loudness: -8.649
+	Speechiness: 0.169
+	Acousticness: 0.422
+	Instrumentalness: 1.55e-05
+	Liveness: 0.145
+	Valence: 0.323
+	Tempo: 148.018
+	Key: 0
+	Mode: 1
+	Popularity: 67
+
+'Vie de star (feat. Ninho)' by Leto, Ninho [2021-01-01]
+Features:
+	Danceability: 0.4
+	Energy: 0.586
+	Loudness: -7.569
+	Speechiness: 0.074
+	Acousticness: 0.845
+	Instrumentalness: 0
+	Liveness: 0.1
+	Valence: 0.282
+	Tempo: 170.544
+	Key: 8
+	Mode: 0
+	Popularity: 54
+
+'Mon poto - Extrait de la BO de « En Passant Pécho »' by Kore, Ninho [2021-03-11]
+Features:
+	Danceability: 0.743
+	Energy: 0.623
+	Loudness: -5.328
+	Speechiness: 0.132
+	Acousticness: 0.904
+	Instrumentalness: 1.63e-05
+	Liveness: 0.139
+	Valence: 0.323
+	Tempo: 140.066
+	Key: 4
+	Mode: 0
+	Popularity: 53
+
+'La Seleçao' by Alonzo, Jul, Naps [2021-03-25]
+Features:
+	Danceability: 0.825
+	Energy: 0.878
+	Loudness: -5.485
+	Speechiness: 0.186
+	Acousticness: 0.128
+	Instrumentalness: 8.94e-05
+	Liveness: 0.0963
+	Valence: 0.847
+	Tempo: 126.994
+	Key: 9
+	Mode: 0
+	Popularity: 66
+
+'Slide' by Bosh [2020-10-23]
+Features:
+	Danceability: 0.906
+	Energy: 0.588
+	Loudness: -7.404
+	Speechiness: 0.215
+	Acousticness: 0.213
+	Instrumentalness: 0
+	Liveness: 0.0573
+	Valence: 0.785
+	Tempo: 124.01
+	Key: 6
+	Mode: 0
+	Popularity: 48
+
+'Millions d'euros' by Landy, Niska [2020-11-25]
+Features:
+	Danceability: 0.611
+	Energy: 0.603
+	Loudness: -7.819
+	Speechiness: 0.428
+	Acousticness: 0.498
+	Instrumentalness: 0
+	Liveness: 0.0657
+	Valence: 0.397
+	Tempo: 119.559
+	Key: 6
+	Mode: 0
+	Popularity: 50
+
+'Avec Toi' by OBOY [2019-07-12]
+Features:
+	Danceability: 0.661
+	Energy: 0.666
+	Loudness: -5.932
+	Speechiness: 0.0277
+	Acousticness: 0.457
+	Instrumentalness: 0
+	Liveness: 0.13
+	Valence: 0.381
+	Tempo: 92.475
+	Key: 10
+	Mode: 0
+	Popularity: 69
+
+'Elle veut' by Sasso, Kaza [2021-07-09]
+Features:
+	Danceability: 0.669
+	Energy: 0.537
+	Loudness: -8.833
+	Speechiness: 0.0885
+	Acousticness: 0.385
+	Instrumentalness: 0
+	Liveness: 0.175
+	Valence: 0.343
+	Tempo: 134.919
+	Key: 4
+	Mode: 0
+	Popularity: 60
+
+'Sangtiments' by Klem Schen [2019-02-28]
+Features:
+	Danceability: 0.754
+	Energy: 0.63
+	Loudness: -11.748
+	Speechiness: 0.338
+	Acousticness: 0.718
+	Instrumentalness: 1.29e-05
+	Liveness: 0.102
+	Valence: 0.075
+	Tempo: 141.594
+	Key: 9
+	Mode: 0
+	Popularity: 49
+
+'Cruel' by OBOY [2021-09-10]
+Features:
+	Danceability: 0.729
+	Energy: 0.491
+	Loudness: -8.871
+	Speechiness: 0.168
+	Acousticness: 0.312
+	Instrumentalness: 0
+	Liveness: 0.101
+	Valence: 0.594
+	Tempo: 141.886
+	Key: 6
+	Mode: 0
+	Popularity: 56
+
+'Bétoile' by OBOY [2021-09-10]
+Features:
+	Danceability: 0.603
+	Energy: 0.268
+	Loudness: -12.761
+	Speechiness: 0.0559
+	Acousticness: 0.636
+	Instrumentalness: 0
+	Liveness: 0.154
+	Valence: 0.538
+	Tempo: 172.033
+	Key: 10
+	Mode: 1
+	Popularity: 56
+
+'Louis V' by OBOY [2021-09-08]
+Features:
+	Danceability: 0.853
+	Energy: 0.319
+	Loudness: -11.311
+	Speechiness: 0.217
+	Acousticness: 0.0798
+	Instrumentalness: 0
+	Liveness: 0.115
+	Valence: 0.204
+	Tempo: 117.976
+	Key: 2
+	Mode: 1
+	Popularity: 50
+
+'Millions' by No Limit, Orelsan, Ninho [2021-06-18]
+Features:
+	Danceability: 0.755
+	Energy: 0.497
+	Loudness: -8.838
+	Speechiness: 0.359
+	Acousticness: 0.482
+	Instrumentalness: 0
+	Liveness: 0.0796
+	Valence: 0.481
+	Tempo: 141.126
+	Key: 9
+	Mode: 0
+	Popularity: 65
+
+'Rupture' by Klem Schen [2020-09-04]
+Features:
+	Danceability: 0.671
+	Energy: 0.559
+	Loudness: -6.39
+	Speechiness: 0.0513
+	Acousticness: 0.565
+	Instrumentalness: 0
+	Liveness: 0.1
+	Valence: 0.293
+	Tempo: 115.129
+	Key: 11
+	Mode: 0
+	Popularity: 51
+
+'See You Again (feat. Charlie Puth)' by Wiz Khalifa, Charlie Puth [2015-01-01]
+Features:
+	Danceability: 0.689
+	Energy: 0.481
+	Loudness: -7.503
+	Speechiness: 0.0815
+	Acousticness: 0.369
+	Instrumentalness: 1.03e-06
+	Liveness: 0.0649
+	Valence: 0.283
+	Tempo: 80.025
+	Key: 10
+	Mode: 1
+	Popularity: 81
+
+'Watermelon Sugar' by Harry Styles [2019-12-13]
+Features:
+	Danceability: 0.548
+	Energy: 0.816
+	Loudness: -4.209
+	Speechiness: 0.0465
+	Acousticness: 0.122
+	Instrumentalness: 0
+	Liveness: 0.335
+	Valence: 0.557
+	Tempo: 95.39
+	Key: 0
+	Mode: 1
+	Popularity: 89
+
+'Kiss Me More (feat. SZA)' by Doja Cat, SZA [2021-04-09]
+Features:
+	Danceability: 0.762
+	Energy: 0.701
+	Loudness: -3.541
+	Speechiness: 0.0286
+	Acousticness: 0.235
+	Instrumentalness: 0.000158
+	Liveness: 0.123
+	Valence: 0.742
+	Tempo: 110.968
+	Key: 8
+	Mode: 1
+	Popularity: 82
+
+'Lifestyle (feat. Adam Levine)' by Jason Derulo, Adam Levine, Maroon 5 [2021-01-21]
+Features:
+	Danceability: 0.749
+	Energy: 0.674
+	Loudness: -5.128
+	Speechiness: 0.0366
+	Acousticness: 0.0209
+	Instrumentalness: 0
+	Liveness: 0.169
+	Valence: 0.711
+	Tempo: 123.055
+	Key: 10
+	Mode: 0
+	Popularity: 69
+
+'Tout est bon' by DJ Babs, 4Keus [2019-07-05]
+Features:
+	Danceability: 0.563
+	Energy: 0.793
+	Loudness: -6.435
+	Speechiness: 0.0459
+	Acousticness: 0.0736
+	Instrumentalness: 0
+	Liveness: 0.0857
+	Valence: 0.771
+	Tempo: 94.256
+	Key: 7
+	Mode: 0
+	Popularity: 59
+
+'Misery' by Maroon 5 [2010-01-01]
+Features:
+	Danceability: 0.703
+	Energy: 0.81
+	Loudness: -4.874
+	Speechiness: 0.0424
+	Acousticness: 0.000315
+	Instrumentalness: 0
+	Liveness: 0.216
+	Valence: 0.726
+	Tempo: 102.978
+	Key: 4
+	Mode: 0
+	Popularity: 67
+
+'Payphone' by Maroon 5, Wiz Khalifa [2012-01-01]
+Features:
+	Danceability: 0.743
+	Energy: 0.752
+	Loudness: -4.813
+	Speechiness: 0.0414
+	Acousticness: 0.0188
+	Instrumentalness: 0
+	Liveness: 0.287
+	Valence: 0.545
+	Tempo: 110.015
+	Key: 4
+	Mode: 1
+	Popularity: 83
+
+'The Lazy Song' by Bruno Mars [2010-10-05]
+Features:
+	Danceability: 0.794
+	Energy: 0.711
+	Loudness: -5.124
+	Speechiness: 0.0699
+	Acousticness: 0.3
+	Instrumentalness: 0
+	Liveness: 0.0955
+	Valence: 0.955
+	Tempo: 174.915
+	Key: 8
+	Mode: 0
+	Popularity: 76
+
+'Ouais Ouais (feat. Hamza)' by Leto, Hamza [2021-09-17]
+Features:
+	Danceability: 0.76
+	Energy: 0.684
+	Loudness: -6.333
+	Speechiness: 0.21
+	Acousticness: 0.243
+	Instrumentalness: 0
+	Liveness: 0.164
+	Valence: 0.446
+	Tempo: 137.987
+	Key: 1
+	Mode: 0
+	Popularity: 50
+
+'Paradise (feat. Lomepal)' by Lefa, Lomepal [2018-04-06]
+Features:
+	Danceability: 0.705
+	Energy: 0.579
+	Loudness: -6.813
+	Speechiness: 0.29
+	Acousticness: 0.151
+	Instrumentalness: 0
+	Liveness: 0.107
+	Valence: 0.327
+	Tempo: 103.077
+	Key: 1
+	Mode: 1
+	Popularity: 60
+
+'Ça sert' by Nemir [2019-09-06]
+Features:
+	Danceability: 0.908
+	Energy: 0.422
+	Loudness: -10.232
+	Speechiness: 0.156
+	Acousticness: 0.619
+	Instrumentalness: 0.000703
+	Liveness: 0.087
+	Valence: 0.615
+	Tempo: 111.026
+	Key: 11
+	Mode: 0
+	Popularity: 49
+
+'J'aime Bien!' by Josman [2018-09-14]
+Features:
+	Danceability: 0.88
+	Energy: 0.572
+	Loudness: -7.5
+	Speechiness: 0.0437
+	Acousticness: 0.704
+	Instrumentalness: 0
+	Liveness: 0.0879
+	Valence: 0.201
+	Tempo: 119.975
+	Key: 6
+	Mode: 0
+	Popularity: 64
+
+'J'aime pas l'amour' by PRIME [2020-04-05]
+Features:
+	Danceability: 0.839
+	Energy: 0.764
+	Loudness: -7.083
+	Speechiness: 0.137
+	Acousticness: 0.638
+	Instrumentalness: 0.00642
+	Liveness: 0.139
+	Valence: 0.675
+	Tempo: 90.039
+	Key: 5
+	Mode: 0
+	Popularity: 53
+
+'Be Alright' by Dean Lewis [2018-06-29]
+Features:
+	Danceability: 0.553
+	Energy: 0.586
+	Loudness: -6.319
+	Speechiness: 0.0362
+	Acousticness: 0.697
+	Instrumentalness: 0
+	Liveness: 0.0813
+	Valence: 0.443
+	Tempo: 126.684
+	Key: 11
+	Mode: 1
+	Popularity: 79
+
+'TDB' by OBOY [2021-07-02]
+Features:
+	Danceability: 0.882
+	Energy: 0.675
+	Loudness: -6.004
+	Speechiness: 0.141
+	Acousticness: 0.0474
+	Instrumentalness: 0.000598
+	Liveness: 0.124
+	Valence: 0.758
+	Tempo: 140.092
+	Key: 3
+	Mode: 1
+	Popularity: 64
+
+'Heat Waves' by Glass Animals [2020-06-29]
+Features:
+	Danceability: 0.761
+	Energy: 0.525
+	Loudness: -6.9
+	Speechiness: 0.0944
+	Acousticness: 0.44
+	Instrumentalness: 6.7e-06
+	Liveness: 0.0921
+	Valence: 0.531
+	Tempo: 80.87
+	Key: 11
+	Mode: 1
+	Popularity: 85
+
+'STAY (with Justin Bieber)' by The Kid LAROI, Justin Bieber [2021-07-09]
+Features:
+	Danceability: 0.591
+	Energy: 0.764
+	Loudness: -5.484
+	Speechiness: 0.0483
+	Acousticness: 0.0383
+	Instrumentalness: 0
+	Liveness: 0.103
+	Valence: 0.478
+	Tempo: 169.928
+	Key: 1
+	Mode: 1
+	Popularity: 89
+
+'Like I Can' by Sam Smith [2014-05-26]
+Features:
+	Danceability: 0.656
+	Energy: 0.627
+	Loudness: -6.627
+	Speechiness: 0.0379
+	Acousticness: 0.343
+	Instrumentalness: 2.17e-05
+	Liveness: 0.124
+	Valence: 0.481
+	Tempo: 99.933
+	Key: 7
+	Mode: 0
+	Popularity: 79
+
+'Minimum' by Seho [2019-03-07]
+Features:
+	Danceability: 0.553
+	Energy: 0.541
+	Loudness: -8.069
+	Speechiness: 0.0779
+	Acousticness: 0.788
+	Instrumentalness: 2.46e-06
+	Liveness: 0.204
+	Valence: 0.371
+	Tempo: 116.271
+	Key: 6
+	Mode: 0
+	Popularity: 24
+
+'Petrouchka (feat. PLK)' by Soso Maness, PLK [2021-06-03]
+Features:
+	Danceability: 0.624
+	Energy: 0.802
+	Loudness: -4.818
+	Speechiness: 0.311
+	Acousticness: 0.0597
+	Instrumentalness: 0
+	Liveness: 0.252
+	Valence: 0.818
+	Tempo: 133.888
+	Key: 6
+	Mode: 1
+	Popularity: 58
+
+'Pic et pic, alcool et drame' by Jul [2021-06-25]
+Features:
+	Danceability: 0.898
+	Energy: 0.738
+	Loudness: -3.521
+	Speechiness: 0.0509
+	Acousticness: 0.397
+	Instrumentalness: 0
+	Liveness: 0.0786
+	Valence: 0.604
+	Tempo: 128.048
+	Key: 7
+	Mode: 0
+	Popularity: 66
+
+'Follow You' by Imagine Dragons [2021-03-12]
+Features:
+	Danceability: 0.542
+	Energy: 0.732
+	Loudness: -5.956
+	Speechiness: 0.0521
+	Acousticness: 0.00209
+	Instrumentalness: 7.92e-05
+	Liveness: 0.496
+	Valence: 0.489
+	Tempo: 124.912
+	Key: 9
+	Mode: 1
+	Popularity: 73
+
+'Don't Rush (feat. Headie One)' by Young T & Bugsey, Headie One [2019-11-07]
+Features:
+	Danceability: 0.961
+	Energy: 0.461
+	Loudness: -8.684
+	Speechiness: 0.27
+	Acousticness: 0.202
+	Instrumentalness: 0.00402
+	Liveness: 0.162
+	Valence: 0.324
+	Tempo: 108.028
+	Key: 9
+	Mode: 1
+	Popularity: 63
+
+'shots in the dark (with Trippie Redd)' by iann dior, Trippie Redd [2021-04-16]
+Features:
+	Danceability: 0.58
+	Energy: 0.651
+	Loudness: -5.537
+	Speechiness: 0.0459
+	Acousticness: 0.0275
+	Instrumentalness: 0
+	Liveness: 0.102
+	Valence: 0.562
+	Tempo: 157.888
+	Key: 6
+	Mode: 0
+	Popularity: 63
+
+'Beautiful Mistakes (feat. Megan Thee Stallion)' by Maroon 5, Megan Thee Stallion [2021-06-11]
+Features:
+	Danceability: 0.713
+	Energy: 0.676
+	Loudness: -5.483
+	Speechiness: 0.027
+	Acousticness: 0.0377
+	Instrumentalness: 0
+	Liveness: 0.154
+	Valence: 0.721
+	Tempo: 99.048
+	Key: 10
+	Mode: 1
+	Popularity: 82
+
+'In My Bones' by Ray Dalton [2020-01-17]
+Features:
+	Danceability: 0.636
+	Energy: 0.699
+	Loudness: -4.432
+	Speechiness: 0.0396
+	Acousticness: 0.302
+	Instrumentalness: 0
+	Liveness: 0.263
+	Valence: 0.709
+	Tempo: 96.962
+	Key: 5
+	Mode: 0
+	Popularity: 64
+
+'I Don't Like It, I Love It (feat. Robin Thicke & Verdine White)' by Flo Rida, Robin Thicke, Verdine White [2015-04-07]
+Features:
+	Danceability: 0.854
+	Energy: 0.766
+	Loudness: -4.697
+	Speechiness: 0.141
+	Acousticness: 0.0242
+	Instrumentalness: 0
+	Liveness: 0.0793
+	Valence: 0.784
+	Tempo: 118.004
+	Key: 9
+	Mode: 0
+	Popularity: 67
+
+'Company (feat. Future)' by 24kGoldn, Future [2021-03-26]
+Features:
+	Danceability: 0.831
+	Energy: 0.727
+	Loudness: -3.657
+	Speechiness: 0.169
+	Acousticness: 0.447
+	Instrumentalness: 0
+	Liveness: 0.111
+	Valence: 0.703
+	Tempo: 125.068
+	Key: 8
+	Mode: 0
+	Popularity: 62
+
+'Mood (feat. iann dior)' by 24kGoldn, iann dior [2021-03-26]
+Features:
+	Danceability: 0.701
+	Energy: 0.716
+	Loudness: -3.671
+	Speechiness: 0.0361
+	Acousticness: 0.174
+	Instrumentalness: 0
+	Liveness: 0.324
+	Valence: 0.732
+	Tempo: 91.007
+	Key: 7
+	Mode: 0
+	Popularity: 83
+
+'I See Fire - From "The Hobbit - The Desolation Of Smaug"' by Ed Sheeran [2013-01-01]
+Features:
+	Danceability: 0.581
+	Energy: 0.0549
+	Loudness: -20.514
+	Speechiness: 0.0397
+	Acousticness: 0.559
+	Instrumentalness: 0
+	Liveness: 0.0718
+	Valence: 0.234
+	Tempo: 152.037
+	Key: 10
+	Mode: 0
+	Popularity: 72
+
+'After Tonight' by Justin Nozuka [2009-01-12]
+Features:
+	Danceability: 0.517
+	Energy: 0.426
+	Loudness: -8.271
+	Speechiness: 0.0607
+	Acousticness: 0.685
+	Instrumentalness: 1.45e-06
+	Liveness: 0.123
+	Valence: 0.555
+	Tempo: 98.88
+	Key: 0
+	Mode: 0
+	Popularity: 23
+
+'Memories' by dvsn, Ty Dolla $ign [2021-08-20]
+Features:
+	Danceability: 0.621
+	Energy: 0.763
+	Loudness: -5.511
+	Speechiness: 0.0684
+	Acousticness: 0.0286
+	Instrumentalness: 0
+	Liveness: 0.529
+	Valence: 0.45
+	Tempo: 139.994
+	Key: 0
+	Mode: 1
+	Popularity: 48
+
+'What You Know Bout Love' by Pop Smoke [2020-07-03]
+Features:
+	Danceability: 0.709
+	Energy: 0.548
+	Loudness: -8.493
+	Speechiness: 0.353
+	Acousticness: 0.65
+	Instrumentalness: 1.59e-06
+	Liveness: 0.133
+	Valence: 0.543
+	Tempo: 83.995
+	Key: 10
+	Mode: 1
+	Popularity: 81
+
+'Fallin'' by Alicia Keys [2001-06-26]
+Features:
+	Danceability: 0.652
+	Energy: 0.609
+	Loudness: -7.519
+	Speechiness: 0.037
+	Acousticness: 0.263
+	Instrumentalness: 0.00101
+	Liveness: 0.233
+	Valence: 0.482
+	Tempo: 95.986
+	Key: 11
+	Mode: 0
+	Popularity: 68
+
+'Émotif (Booska 1H)' by PLK [2019-02-01]
+Features:
+	Danceability: 0.89
+	Energy: 0.749
+	Loudness: -4.761
+	Speechiness: 0.0722
+	Acousticness: 0.562
+	Instrumentalness: 0
+	Liveness: 0.137
+	Valence: 0.864
+	Tempo: 133.99
+	Key: 4
+	Mode: 0
+	Popularity: 65
+
+'Beggin'' by Måneskin [2017-12-08]
+Features:
+	Danceability: 0.714
+	Energy: 0.8
+	Loudness: -4.808
+	Speechiness: 0.0504
+	Acousticness: 0.127
+	Instrumentalness: 0
+	Liveness: 0.359
+	Valence: 0.589
+	Tempo: 134.002
+	Key: 11
+	Mode: 0
+	Popularity: 86
+
+'A Un Paso De La Luna - Remix' by Reik, Rocco Hunt, Ana Mena [2021-03-23]
+Features:
+	Danceability: 0.791
+	Energy: 0.915
+	Loudness: -2.48
+	Speechiness: 0.0809
+	Acousticness: 0.0622
+	Instrumentalness: 0
+	Liveness: 0.244
+	Valence: 0.732
+	Tempo: 121.948
+	Key: 10
+	Mode: 1
+	Popularity: 67
+
+'Dancing On Dangerous (feat. Sofía Reyes)' by Imanbek, Sean Paul, Sofía Reyes [2021-04-09]
+Features:
+	Danceability: 0.658
+	Energy: 0.863
+	Loudness: -2.763
+	Speechiness: 0.0486
+	Acousticness: 0.169
+	Instrumentalness: 8.02e-06
+	Liveness: 0.105
+	Valence: 0.771
+	Tempo: 105.086
+	Key: 1
+	Mode: 0
+	Popularity: 49
+
+'Olala' by Rémy [2019-10-25]
+Features:
+	Danceability: 0.651
+	Energy: 0.629
+	Loudness: -8.46
+	Speechiness: 0.381
+	Acousticness: 0.269
+	Instrumentalness: 0
+	Liveness: 0.104
+	Valence: 0.35
+	Tempo: 93.193
+	Key: 1
+	Mode: 0
+	Popularity: 48
+
+'Vago' by JOYCA, Mastu [2021-06-13]
+Features:
+	Danceability: 0.775
+	Energy: 0.845
+	Loudness: -7.213
+	Speechiness: 0.0661
+	Acousticness: 0.131
+	Instrumentalness: 0.000184
+	Liveness: 0.146
+	Valence: 0.836
+	Tempo: 116.992
+	Key: 0
+	Mode: 0
+	Popularity: 47
+
+'Booska Do' by Doria [2020-11-18]
+Features:
+	Danceability: 0.852
+	Energy: 0.57
+	Loudness: -7.691
+	Speechiness: 0.221
+	Acousticness: 0.493
+	Instrumentalness: 0
+	Liveness: 0.117
+	Valence: 0.889
+	Tempo: 93.001
+	Key: 5
+	Mode: 0
+	Popularity: 30
+
+'Paris' by Doria [2020-12-18]
+Features:
+	Danceability: 0.906
+	Energy: 0.383
+	Loudness: -9.975
+	Speechiness: 0.323
+	Acousticness: 0.457
+	Instrumentalness: 0
+	Liveness: 0.0886
+	Valence: 0.605
+	Tempo: 126.974
+	Key: 1
+	Mode: 0
+	Popularity: 28
+
+'Pochtar - Dodo' by Doria [2019-12-06]
+Features:
+	Danceability: 0.845
+	Energy: 0.565
+	Loudness: -7.185
+	Speechiness: 0.064
+	Acousticness: 0.699
+	Instrumentalness: 0
+	Liveness: 0.111
+	Valence: 0.418
+	Tempo: 125.018
+	Key: 1
+	Mode: 0
+	Popularity: 45
+
+'Don't You Worry Child - Radio Edit' by Swedish House Mafia, John Martin [2012-09-14]
+Features:
+	Danceability: 0.612
+	Energy: 0.84
+	Loudness: -3.145
+	Speechiness: 0.0509
+	Acousticness: 0.112
+	Instrumentalness: 0
+	Liveness: 0.116
+	Valence: 0.438
+	Tempo: 129.042
+	Key: 11
+	Mode: 0
+	Popularity: 79
+
+'Calling My Phone' by Lil Tjay, 6LACK [2021-04-02]
+Features:
+	Danceability: 0.907
+	Energy: 0.393
+	Loudness: -7.636
+	Speechiness: 0.0539
+	Acousticness: 0.451
+	Instrumentalness: 1.35e-06
+	Liveness: 0.135
+	Valence: 0.202
+	Tempo: 104.949
+	Key: 4
+	Mode: 0
+	Popularity: 80
+
+'Smith & Wesson' by Luv Resval [2020-07-31]
+Features:
+	Danceability: 0.897
+	Energy: 0.494
+	Loudness: -6.609
+	Speechiness: 0.0681
+	Acousticness: 0.418
+	Instrumentalness: 0
+	Liveness: 0.141
+	Valence: 0.717
+	Tempo: 120.044
+	Key: 5
+	Mode: 0
+	Popularity: 47
+
+'Médusa' by Landy [2020-12-18]
+Features:
+	Danceability: 0.714
+	Energy: 0.829
+	Loudness: -5.129
+	Speechiness: 0.053
+	Acousticness: 0.474
+	Instrumentalness: 0
+	Liveness: 0.0958
+	Valence: 0.432
+	Tempo: 106.025
+	Key: 4
+	Mode: 0
+	Popularity: 65
+
+'Mode Akimbo (feat. Jul)' by SCH, Jul [2021-03-19]
+Features:
+	Danceability: 0.875
+	Energy: 0.848
+	Loudness: -5.859
+	Speechiness: 0.158
+	Acousticness: 0.0717
+	Instrumentalness: 0.000613
+	Liveness: 0.0828
+	Valence: 0.577
+	Tempo: 122.983
+	Key: 11
+	Mode: 0
+	Popularity: 64
+
+'Garo' by LVZ, Max DLG [2020-09-25]
+Features:
+	Danceability: 0.776
+	Energy: 0.527
+	Loudness: -10.488
+	Speechiness: 0.0585
+	Acousticness: 0.885
+	Instrumentalness: 4.18e-05
+	Liveness: 0.1
+	Valence: 0.369
+	Tempo: 128.076
+	Key: 6
+	Mode: 1
+	Popularity: 60
+
+'In My Head' by Klaas, Emmie Lee [2020-08-07]
+Features:
+	Danceability: 0.552
+	Energy: 0.849
+	Loudness: -4.899
+	Speechiness: 0.0916
+	Acousticness: 0.00704
+	Instrumentalness: 0
+	Liveness: 0.452
+	Valence: 0.261
+	Tempo: 137.873
+	Key: 2
+	Mode: 0
+	Popularity: 50
+
+'Un Instant' by Cikey, SYB [2019-11-08]
+Features:
+	Danceability: 0.834
+	Energy: 0.272
+	Loudness: -18.57
+	Speechiness: 0.204
+	Acousticness: 0.678
+	Instrumentalness: 0
+	Liveness: 0.0909
+	Valence: 0.219
+	Tempo: 112.023
+	Key: 6
+	Mode: 0
+	Popularity: 47
+
+'Message' by Klem Schen [2019-03-31]
+Features:
+	Danceability: 0.788
+	Energy: 0.539
+	Loudness: -10.286
+	Speechiness: 0.115
+	Acousticness: 0.845
+	Instrumentalness: 1.14e-05
+	Liveness: 0.119
+	Valence: 0.0503
+	Tempo: 115.447
+	Key: 0
+	Mode: 1
+	Popularity: 62
+
+'Life Is Good (feat. Drake)' by Future, Drake [2020-01-10]
+Features:
+	Danceability: 0.676
+	Energy: 0.609
+	Loudness: -5.831
+	Speechiness: 0.481
+	Acousticness: 0.0706
+	Instrumentalness: 0
+	Liveness: 0.152
+	Valence: 0.508
+	Tempo: 142.037
+	Key: 2
+	Mode: 0
+	Popularity: 77
+
+'JAUNÉ' by Booba, Zed [2020-05-11]
+Features:
+	Danceability: 0.793
+	Energy: 0.57
+	Loudness: -8.852
+	Speechiness: 0.15
+	Acousticness: 0.137
+	Instrumentalness: 0
+	Liveness: 0.101
+	Valence: 0.655
+	Tempo: 140.003
+	Key: 1
+	Mode: 1
+	Popularity: 58
+
+'Pray For Me' by The Weeknd, Kendrick Lamar [2021-02-05]
+Features:
+	Danceability: 0.732
+	Energy: 0.678
+	Loudness: -4.977
+	Speechiness: 0.0886
+	Acousticness: 0.0867
+	Instrumentalness: 2.41e-05
+	Liveness: 0.112
+	Valence: 0.196
+	Tempo: 100.626
+	Key: 2
+	Mode: 1
+	Popularity: 75
+
+'Whoopty' by CJ [2020-08-20]
+Features:
+	Danceability: 0.719
+	Energy: 0.648
+	Loudness: -7.6
+	Speechiness: 0.125
+	Acousticness: 0.2
+	Instrumentalness: 0
+	Liveness: 0.127
+	Valence: 0.66
+	Tempo: 140.201
+	Key: 3
+	Mode: 0
+	Popularity: 74
+
+'Par ici' by 7 Jaws, Seezy [2020-02-21]
+Features:
+	Danceability: 0.781
+	Energy: 0.599
+	Loudness: -7.707
+	Speechiness: 0.216
+	Acousticness: 0.352
+	Instrumentalness: 0
+	Liveness: 0.147
+	Valence: 0.376
+	Tempo: 126.093
+	Key: 7
+	Mode: 1
+	Popularity: 38
+
+'Ransom' by Lil Tecca [2019-08-30]
+Features:
+	Danceability: 0.745
+	Energy: 0.642
+	Loudness: -6.257
+	Speechiness: 0.287
+	Acousticness: 0.0204
+	Instrumentalness: 0
+	Liveness: 0.0658
+	Valence: 0.226
+	Tempo: 179.974
+	Key: 7
+	Mode: 0
+	Popularity: 78
+
+'HOLIDAY' by Lil Nas X [2020-11-13]
+Features:
+	Danceability: 0.81
+	Energy: 0.511
+	Loudness: -6.924
+	Speechiness: 0.164
+	Acousticness: 0.12
+	Instrumentalness: 0
+	Liveness: 0.0832
+	Valence: 0.837
+	Tempo: 151.947
+	Key: 5
+	Mode: 0
+	Popularity: 72
+
+'La vie qu'on mène' by Ninho [2019-03-22]
+Features:
+	Danceability: 0.8
+	Energy: 0.756
+	Loudness: -4.4
+	Speechiness: 0.0367
+	Acousticness: 0.687
+	Instrumentalness: 2.06e-06
+	Liveness: 0.111
+	Valence: 0.456
+	Tempo: 113.204
+	Key: 7
+	Mode: 0
+	Popularity: 71
+
+'The Hills' by The Weeknd [2015-08-28]
+Features:
+	Danceability: 0.585
+	Energy: 0.564
+	Loudness: -7.063
+	Speechiness: 0.0515
+	Acousticness: 0.0671
+	Instrumentalness: 0
+	Liveness: 0.135
+	Valence: 0.137
+	Tempo: 113.003
+	Key: 0
+	Mode: 0
+	Popularity: 86
+
+'Prochaine fois' by 7 Jaws, Seezy [2020-02-21]
+Features:
+	Danceability: 0.614
+	Energy: 0.647
+	Loudness: -6.336
+	Speechiness: 0.19
+	Acousticness: 0.22
+	Instrumentalness: 0
+	Liveness: 0.0988
+	Valence: 0.363
+	Tempo: 176.921
+	Key: 5
+	Mode: 0
+	Popularity: 20
+
+'Goutte d'eau' by Ninho [2019-03-22]
+Features:
+	Danceability: 0.683
+	Energy: 0.693
+	Loudness: -6.441
+	Speechiness: 0.127
+	Acousticness: 0.647
+	Instrumentalness: 0
+	Liveness: 0.121
+	Valence: 0.322
+	Tempo: 137.826
+	Key: 5
+	Mode: 0
+	Popularity: 65
+
+'Steal My Girl' by One Direction [2014-11-17]
+Features:
+	Danceability: 0.536
+	Energy: 0.768
+	Loudness: -5.948
+	Speechiness: 0.0347
+	Acousticness: 0.00433
+	Instrumentalness: 0
+	Liveness: 0.114
+	Valence: 0.545
+	Tempo: 77.217
+	Key: 10
+	Mode: 0
+	Popularity: 80
+
+'Peaches' by Justin Bieber, Daniel Caesar, Giveon [2021-05-21]
+Features:
+	Danceability: 0.677
+	Energy: 0.696
+	Loudness: -6.181
+	Speechiness: 0.119
+	Acousticness: 0.321
+	Instrumentalness: 0
+	Liveness: 0.42
+	Valence: 0.464
+	Tempo: 90.03
+	Key: 0
+	Mode: 1
+	Popularity: 9
+
+'Motive X Promiscuous Mix' by Khlaw [2021-02-14]
+Features:
+	Danceability: 0.786
+	Energy: 0.764
+	Loudness: -12.556
+	Speechiness: 0.0478
+	Acousticness: 0.00584
+	Instrumentalness: 1.32e-05
+	Liveness: 0.376
+	Valence: 0.789
+	Tempo: 112.005
+	Key: 0
+	Mode: 1
+	Popularity: 18
+
+'MONTERO (Call Me By Your Name)' by Lil Nas X [2021-03-31]
+Features:
+	Danceability: 0.61
+	Energy: 0.508
+	Loudness: -6.682
+	Speechiness: 0.152
+	Acousticness: 0.297
+	Instrumentalness: 0
+	Liveness: 0.384
+	Valence: 0.758
+	Tempo: 178.818
+	Key: 8
+	Mode: 0
+	Popularity: 79
+
+'Clash Assassins' by JOYCA, Mastu [2020-11-14]
+Features:
+	Danceability: 0.872
+	Energy: 0.608
+	Loudness: -7.192
+	Speechiness: 0.203
+	Acousticness: 0.278
+	Instrumentalness: 0
+	Liveness: 0.163
+	Valence: 0.713
+	Tempo: 130.05
+	Key: 10
+	Mode: 0
+	Popularity: 54
+
+'WITHOUT YOU' by The Kid LAROI [2020-11-06]
+Features:
+	Danceability: 0.662
+	Energy: 0.413
+	Loudness: -7.357
+	Speechiness: 0.0299
+	Acousticness: 0.213
+	Instrumentalness: 0
+	Liveness: 0.134
+	Valence: 0.467
+	Tempo: 93.005
+	Key: 0
+	Mode: 1
+	Popularity: 79
+
+'God's Plan' by Drake [2018-06-29]
+Features:
+	Danceability: 0.754
+	Energy: 0.449
+	Loudness: -9.211
+	Speechiness: 0.109
+	Acousticness: 0.0332
+	Instrumentalness: 8.29e-05
+	Liveness: 0.552
+	Valence: 0.357
+	Tempo: 77.169
+	Key: 7
+	Mode: 1
+	Popularity: 83
+
+'Trumpets' by Jason Derulo [2013-09-10]
+Features:
+	Danceability: 0.627
+	Energy: 0.703
+	Loudness: -4.884
+	Speechiness: 0.236
+	Acousticness: 0.563
+	Instrumentalness: 0
+	Liveness: 0.0962
+	Valence: 0.64
+	Tempo: 81.897
+	Key: 0
+	Mode: 1
+	Popularity: 66
+
+'Tuba Life' by Niska, Booba [2017-09-22]
+Features:
+	Danceability: 0.756
+	Energy: 0.691
+	Loudness: -4.76
+	Speechiness: 0.121
+	Acousticness: 0.166
+	Instrumentalness: 0
+	Liveness: 0.0766
+	Valence: 0.363
+	Tempo: 151.981
+	Key: 7
+	Mode: 1
+	Popularity: 55
+
+'Dybala' by Maes, Jul [2020-01-16]
+Features:
+	Danceability: 0.729
+	Energy: 0.721
+	Loudness: -5.83
+	Speechiness: 0.0761
+	Acousticness: 0.256
+	Instrumentalness: 0
+	Liveness: 0.111
+	Valence: 0.537
+	Tempo: 132.304
+	Key: 10
+	Mode: 0
+	Popularity: 64
+
+'Jamais (feat. Dadju)' by Ninho, Dadju [2019-03-22]
+Features:
+	Danceability: 0.596
+	Energy: 0.709
+	Loudness: -6.256
+	Speechiness: 0.319
+	Acousticness: 0.492
+	Instrumentalness: 0
+	Liveness: 0.124
+	Valence: 0.333
+	Tempo: 94.162
+	Key: 4
+	Mode: 0
+	Popularity: 62
+
+'Bande organisée' by Kofs, Soso Maness, Elams, Jul, SCH, Naps, Solda, Houari, 13 Organisé [2020-08-15]
+Features:
+	Danceability: 0.901
+	Energy: 0.939
+	Loudness: -2.762
+	Speechiness: 0.274
+	Acousticness: 0.117
+	Instrumentalness: 0
+	Liveness: 0.0643
+	Valence: 0.805
+	Tempo: 142.948
+	Key: 6
+	Mode: 1
+	Popularity: 70
+
+'And We Danced (feat. Ziggy Stardust)' by Macklemore [2010-01-05]
+Features:
+	Danceability: 0.758
+	Energy: 0.677
+	Loudness: -6.598
+	Speechiness: 0.0782
+	Acousticness: 0.456
+	Instrumentalness: 0
+	Liveness: 0.0954
+	Valence: 0.713
+	Tempo: 124.998
+	Key: 5
+	Mode: 1
+	Popularity: 64
+
+'Mecs de cités' by Sifax, Sofiane [2020-06-09]
+Features:
+	Danceability: 0.768
+	Energy: 0.74
+	Loudness: -4.601
+	Speechiness: 0.0487
+	Acousticness: 0.219
+	Instrumentalness: 0
+	Liveness: 0.124
+	Valence: 0.629
+	Tempo: 120.105
+	Key: 7
+	Mode: 0
+	Popularity: 53
+
+'For The Night (feat. Lil Baby & DaBaby)' by Pop Smoke, Lil Baby, DaBaby [2020-07-03]
+Features:
+	Danceability: 0.823
+	Energy: 0.586
+	Loudness: -6.606
+	Speechiness: 0.2
+	Acousticness: 0.114
+	Instrumentalness: 0
+	Liveness: 0.193
+	Valence: 0.347
+	Tempo: 125.971
+	Key: 6
+	Mode: 0
+	Popularity: 80
+
+'Pilote (feat. Hamza)' by PLK, Hamza [2020-08-28]
+Features:
+	Danceability: 0.844
+	Energy: 0.562
+	Loudness: -7.744
+	Speechiness: 0.137
+	Acousticness: 0.217
+	Instrumentalness: 0.000636
+	Liveness: 0.114
+	Valence: 0.574
+	Tempo: 94.976
+	Key: 2
+	Mode: 0
+	Popularity: 64
+
+'GIRL LIKE ME' by Black Eyed Peas, Shakira [2020-06-18]
+Features:
+	Danceability: 0.964
+	Energy: 0.486
+	Loudness: -8.891
+	Speechiness: 0.188
+	Acousticness: 0.0194
+	Instrumentalness: 0.04
+	Liveness: 0.0694
+	Valence: 0.318
+	Tempo: 124.058
+	Key: 2
+	Mode: 1
+	Popularity: 60
+
+'Sac à dos' by Naza [2017-09-29]
+Features:
+	Danceability: 0.83
+	Energy: 0.66
+	Loudness: -7.727
+	Speechiness: 0.117
+	Acousticness: 0.073
+	Instrumentalness: 0.000229
+	Liveness: 0.1
+	Valence: 0.881
+	Tempo: 114.028
+	Key: 7
+	Mode: 1
+	Popularity: 45
+
+'Souris verte' by Naza [2020-01-27]
+Features:
+	Danceability: 0.804
+	Energy: 0.694
+	Loudness: -5.919
+	Speechiness: 0.0389
+	Acousticness: 0.55
+	Instrumentalness: 0.000287
+	Liveness: 0.117
+	Valence: 0.688
+	Tempo: 110.023
+	Key: 1
+	Mode: 1
+	Popularity: 47
+
+'Peaky Blinders' by Klem Schen [2019-02-28]
+Features:
+	Danceability: 0.809
+	Energy: 0.56
+	Loudness: -8.723
+	Speechiness: 0.0782
+	Acousticness: 0.608
+	Instrumentalness: 0.000981
+	Liveness: 0.103
+	Valence: 0.399
+	Tempo: 139.947
+	Key: 3
+	Mode: 0
+	Popularity: 46
+
+'Skoll' by N'seven7 [2020-10-09]
+Features:
+	Danceability: 0.723
+	Energy: 0.685
+	Loudness: -5.545
+	Speechiness: 0.0722
+	Acousticness: 0.336
+	Instrumentalness: 0
+	Liveness: 0.329
+	Valence: 0.684
+	Tempo: 142.158
+	Key: 2
+	Mode: 0
+	Popularity: 39
+
+'Ahouu!' by N'seven7 [2019-08-03]
+Features:
+	Danceability: 0.633
+	Energy: 0.647
+	Loudness: -8.135
+	Speechiness: 0.0645
+	Acousticness: 0.554
+	Instrumentalness: 0
+	Liveness: 0.136
+	Valence: 0.78
+	Tempo: 79.995
+	Key: 9
+	Mode: 1
+	Popularity: 29
+
+'Angela' by Hatik [2019-08-30]
+Features:
+	Danceability: 0.65
+	Energy: 0.469
+	Loudness: -8.676
+	Speechiness: 0.184
+	Acousticness: 0.702
+	Instrumentalness: 0.249
+	Liveness: 0.106
+	Valence: 0.378
+	Tempo: 191.853
+	Key: 2
+	Mode: 0
+	Popularity: 61
+
+'Go Crazy' by Chris Brown, Young Thug [2020-05-08]
+Features:
+	Danceability: 0.755
+	Energy: 0.578
+	Loudness: -8.932
+	Speechiness: 0.145
+	Acousticness: 0.316
+	Instrumentalness: 0
+	Liveness: 0.25
+	Valence: 0.581
+	Tempo: 94.148
+	Key: 0
+	Mode: 0
+	Popularity: 77
+
+'ROCKSTAR (feat. Roddy Ricch)' by DaBaby, Roddy Ricch [2020-04-17]
+Features:
+	Danceability: 0.746
+	Energy: 0.69
+	Loudness: -7.956
+	Speechiness: 0.164
+	Acousticness: 0.247
+	Instrumentalness: 0
+	Liveness: 0.101
+	Valence: 0.497
+	Tempo: 89.977
+	Key: 11
+	Mode: 1
+	Popularity: 80
+
+'These Days (feat. Jess Glynne, Macklemore & Dan Caplen)' by Rudimental, Jess Glynne, Macklemore, Dan Caplen [2018-01-19]
+Features:
+	Danceability: 0.653
+	Energy: 0.809
+	Loudness: -4.057
+	Speechiness: 0.0474
+	Acousticness: 0.194
+	Instrumentalness: 0
+	Liveness: 0.165
+	Valence: 0.55
+	Tempo: 92.213
+	Key: 0
+	Mode: 1
+	Popularity: 73

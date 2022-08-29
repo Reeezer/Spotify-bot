@@ -1,7 +1,7 @@
 class Artist:
     """Artist represents a singer or a group of singers."""
 
-    def __init__(self, id: str, name: str, genres=None):
+    def __init__(self, id: str, name: str, genres: list[str]=None):
         self.name = name
         self.id = id
         self.genres = genres
