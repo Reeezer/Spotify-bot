@@ -2,7 +2,5 @@ from enum import Enum
 
 
 class Style(Enum):
-    CHILL = {"danceability": 0.4, "energy": 0.5, "loudness": -10, "speechiness": 0.5, "acousticness": 0.5, "instrumentalness": 0.5, "liveness": 0.5, "valence": 0.5, "tempo": 120, "popularity": 60}
-    LOVE = {"danceability": 0.2, "energy": 0.5, "loudness": -10, "speechiness": 0.5, "acousticness": 0.5, "instrumentalness": 0.5, "liveness": 0.5, "valence": 0.5, "tempo": 120, "popularity": 60}
-    PARTY = {"danceability": 0.6, "energy": 0.7, "popularity": 50, "french": True}
-    MOTIVATION = {"danceability": 0.1, "energy": 0.5, "loudness": -10, "speechiness": 0.5, "acousticness": 0.5, "instrumentalness": 0.5, "liveness": 0.5, "valence": 0.5, "tempo": 120, "popularity": 60}
+    CHILL = {"max_danceability": 0.7, "max_energy": 0.7, "min_valence": 0.2}
+    PARTY = {"min_danceability": 0.6, "min_energy": 0.7, "min_popularity": 50, "french": True}

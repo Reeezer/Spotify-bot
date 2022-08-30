@@ -1,4 +1,5 @@
 from datetime import datetime
+import re
 
 from models.style import Style
 from models.artist import Artist
@@ -40,7 +41,10 @@ class Helper:
                         break
                     return False
             else:
-                if track.audio_features.__dict__[key] < value:
+                regex = re.search(r"(min|max)_(\w+)", key)
+                sign = regex.group(1)
+                feature = regex.group(2)
+                if (sign == "min" and track.audio_features.__dict__[feature] < value) or (sign == "max" and track.audio_features.__dict__[feature] > value):
                     return False
 
         return True
