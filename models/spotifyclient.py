@@ -262,7 +262,7 @@ class SpotifyClient:
             response = requests.delete(url, data=data, headers={"Content-Type": "application/json", "Authorization": f"Bearer {self._authorization_token}"})
 
         if response.status_code < 200 or response.status_code >= 300:
-            print(colored(f"*** Error while performing the request: {url} ({response.status_code})", "red"))
+            print(colored(f"\n*** Error while performing the request: {url} ({response.status_code})", "red"))
             print(colored(response.text, "red"))
             exit()
 
