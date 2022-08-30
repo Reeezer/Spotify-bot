@@ -1,4 +1,5 @@
 import inspect
+import re
 
 from models.spotifyclient import SpotifyClient
 from models.track import Track
@@ -24,15 +25,16 @@ def playlist_from_period_releases(spotify_client: SpotifyClient):
     liked_tracks = spotify_client.get_all_liked_tracks()
     if is_main: print("Done")
 
-    # Create a playlist for the releases between 2010 and 2015
-    if is_main: print("Creating a playlist for the releases between 2010 and 2015... ", end="", flush=True)
-    create_playlist_for_last_years(2010, 2015, liked_tracks, spotify_client)
-    if is_main: print("Done")
-
-    # Create a playlist for the releases between 2015 and 2020
-    if is_main: print("Creating a playlist for the releases between 2015 and 2020... ", end="", flush=True)
-    create_playlist_for_last_years(2015, 2020, liked_tracks, spotify_client)
-    if is_main: print("Done")
+    # Create a playlist for every entry in the file
+    with open("playlists.txt", "r") as file:
+        for line in file:
+            result = re.search(r"(\d+)-(\d+)", line)
+            if result:
+                first_year = int(result.group(1))
+                last_year = int(result.group(2))
+                if is_main: print(f"Creating a playlist for the releases between {first_year} and {last_year}... ", end="", flush=True)
+                create_playlist_for_last_years(first_year, last_year, liked_tracks, spotify_client)
+                if is_main: print("Done")
 
 
 if __name__ == "__main__":

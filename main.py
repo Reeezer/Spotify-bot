@@ -1,8 +1,8 @@
-from mains.main_epochs_releases import playlist_from_epochs_releases
-from mains.main_period_releases import playlist_from_period_releases
-from mains.main_weeks_releases import playlist_from_week_releases
-from mains.main_years_releases import playlist_from_years_releases
-from mains.main_rythm_tracks import playlist_from_tracks_rythm
+from main_epochs_releases import playlist_from_epochs_releases
+from main_period_releases import playlist_from_period_releases
+from main_weeks_releases import playlist_from_week_releases
+from main_years_releases import playlist_from_years_releases
+from main_rythm_tracks import playlist_from_tracks_rythm
 from models.spotifyclient import SpotifyClient
 import utils.credentials as credentials
 
