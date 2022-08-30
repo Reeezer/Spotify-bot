@@ -14,18 +14,20 @@ pip install -r requirements.txt
 
 > It is required to have Python and `pip` installed on your device.
 
-## Usage
+## Setup
 
 To use this project, you need to create/have an account on Spotify.
 
-Then, you need create a new file called `credentials.py`, in the folder `utils/`, with the following content:
+Then, you need to create a Spotify app on the [Spotify Developer Dashboard](https://developer.spotify.com/dashboard/). And get the `Client ID` and the `Client Secret` on the dashboard page of the created app.
 
-```python
-SPOTIFY_CLIENT_ID = "YOUR_SPOTIFY_CLIENT_ID"
-SPOTIFY_AUTHORIZATION_TOKEN = "YOUR_SPOTIFY_AUTHORIZATION_TOKEN"
+You need then to export the `Client ID` and the `Client Secret` as environment variables:
+
+```bash
+export SPOTIPY_CLIENT_ID=<your_client_id>
+export SPOTIPY_CLIENT_SECRET=<your_client_secret>
 ```
 
-> You can find the credentials on the Spotify developer website.
+## Usage
 
 After everything is done, you can run the project with the following command:
 
