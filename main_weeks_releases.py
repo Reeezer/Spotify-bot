@@ -2,7 +2,6 @@ from datetime import datetime, timedelta
 import inspect
 
 from models.spotifyclient import SpotifyClient
-import utils.credentials as credentials
 
 
 def playlist_from_week_releases(spotify_client: SpotifyClient):
@@ -35,7 +34,7 @@ def playlist_from_week_releases(spotify_client: SpotifyClient):
 
 
 if __name__ == "__main__":
-    spotify_client = SpotifyClient(credentials.SPOTIFY_AUTHORIZATION_TOKEN, credentials.SPOTIFY_CLIENT_ID)
+    spotify_client = SpotifyClient()
     
     # Actualize week's releases playlist    
     playlist_from_week_releases(spotify_client)

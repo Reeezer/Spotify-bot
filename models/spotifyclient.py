@@ -3,12 +3,16 @@ import requests
 from enum import Enum
 from termcolor import colored
 from copy import deepcopy
+from spotipy.oauth2 import SpotifyClientCredentials
+from spotipy.oauth2 import SpotifyOAuth
+import spotipy
 
 from models.track import Track
 from models.playlist import Playlist
 from models.artist import Artist
 from models.album import Album
 from utils.json_handler import JSON_Handler
+from utils.helper import scopes
 
 
 class RequestType(Enum):
@@ -23,9 +27,9 @@ class SpotifyClient:
 
     ##### Construcor #####
 
-    def __init__(self, authorization_token, user_id):
-        self._authorization_token = authorization_token
-        self._user_id = user_id
+    def __init__(self):
+        spotipy_client = spotipy.Spotify(client_credentials_manager=SpotifyClientCredentials(), auth_manager=SpotifyOAuth(scope=scopes))
+        self.access_token = spotipy_client.auth_manager.get_access_token(as_dict=False)
 
     ##### Simple Getters #####
 
@@ -253,13 +257,13 @@ class SpotifyClient:
 
     def _api_request(self, url: str, request_type: RequestType, data=None):
         if request_type == RequestType.GET:
-            response = requests.get(url, headers={"Content-Type": "application/json", "Authorization": f"Bearer {self._authorization_token}"})
+            response = requests.get(url, headers={"Content-Type": "application/json", "Authorization": f"Bearer {self.access_token}"})
         elif request_type == RequestType.POST:
-            response = requests.post(url, data=data, headers={"Content-Type": "application/json", "Authorization": f"Bearer {self._authorization_token}"})
+            response = requests.post(url, data=data, headers={"Content-Type": "application/json", "Authorization": f"Bearer {self.access_token}"})
         elif request_type == RequestType.PUT:
-            response = requests.put(url, headers={"Content-Type": "application/json", "Authorization": f"Bearer {self._authorization_token}"})
+            response = requests.put(url, headers={"Content-Type": "application/json", "Authorization": f"Bearer {self.access_token}"})
         elif request_type == RequestType.DELETE:
-            response = requests.delete(url, data=data, headers={"Content-Type": "application/json", "Authorization": f"Bearer {self._authorization_token}"})
+            response = requests.delete(url, data=data, headers={"Content-Type": "application/json", "Authorization": f"Bearer {self.access_token}"})
 
         if response.status_code < 200 or response.status_code >= 300:
             print(colored(f"\n*** Error while performing the request: {url} ({response.status_code})", "red"))

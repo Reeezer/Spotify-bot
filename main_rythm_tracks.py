@@ -4,7 +4,6 @@ import inspect
 from models.spotifyclient import SpotifyClient
 from models.style import Style
 from utils.helper import Helper
-import utils.credentials as credentials
 
 
 def playlist_from_tracks_rythm(spotify_client: SpotifyClient):
@@ -50,7 +49,7 @@ def playlist_from_tracks_rythm(spotify_client: SpotifyClient):
 
 
 if __name__ == "__main__":
-    spotify_client = SpotifyClient(credentials.SPOTIFY_AUTHORIZATION_TOKEN, credentials.SPOTIFY_CLIENT_ID)
+    spotify_client = SpotifyClient()
     
     # Actualize playlists using tracks' rythms
     playlist_from_tracks_rythm(spotify_client)

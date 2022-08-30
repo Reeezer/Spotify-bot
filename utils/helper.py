@@ -4,6 +4,9 @@ from models.style import Style
 from models.artist import Artist
 
 
+scopes = ["user-top-read", "playlist-read-collaborative", "playlist-modify-public", "playlist-modify-private", "user-library-read", "user-library-modify", "user-follow-read", "user-follow-modify"]
+
+
 class Helper:
     def str_to_datetime(string: str) -> datetime:
         if isinstance(string, datetime):

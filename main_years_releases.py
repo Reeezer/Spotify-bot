@@ -4,7 +4,6 @@ import re
 
 from models.track import Track
 from models.spotifyclient import SpotifyClient
-import utils.credentials as credentials
 
 
 def create_playlist_for_last_years(years: int, liked_tracks: list[Track], spotify_client: SpotifyClient):
@@ -36,7 +35,7 @@ def playlist_from_years_releases(spotify_client: SpotifyClient):
 
 
 if __name__ == "__main__":
-    spotify_client = SpotifyClient(credentials.SPOTIFY_AUTHORIZATION_TOKEN, credentials.SPOTIFY_CLIENT_ID)
+    spotify_client = SpotifyClient()
     
     # Actualize years releases playlists
     playlist_from_years_releases(spotify_client)
