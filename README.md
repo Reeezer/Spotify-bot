@@ -26,3 +26,17 @@ SPOTIFY_AUTHORIZATION_TOKEN = "YOUR_SPOTIFY_AUTHORIZATION_TOKEN"
 ```
 
 > You can find the credentials on the Spotify developer website.
+
+After everything is done, you can run the project with the following command:
+
+```bash
+python main.py
+```
+
+It will create so many playlists based on the user's liked artists and tracks that are listed in the file `playlists.txt`.
+
+Those playlists may be categorized as that:
+- Week's releases: the playlists will contain the tracks that have been released this week from the followed artists.
+- Years' releases: the playlists will contain the user liked tracks that have been released this year, this 3 last years and the 5 last years.
+- Epochs releases: the playlists will contain the user liked tracks that have been released every decades and every years starting from 2010.
+- Genres releases: the playlists will contain the user liked tracks that are in quite the same genre.
