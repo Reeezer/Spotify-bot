@@ -11,21 +11,21 @@ class JSON_Handler:
         for track in json_data["items"]:
             track = track["track"]
             artists = JSON_Handler._get_artists(track)
-            tracks.append(Track(track["id"], track["name"], artists, track["popularity"], track["album"]["release_date"]))
+            tracks.append(Track(track["id"], track["name"], artists, track["album"]["release_date"], track["popularity"]))
         return tracks
 
     def list_of_tracks_recommended(json_data: dict) -> list[Track]:
         tracks = []
         for track in json_data["tracks"]:
             artists = JSON_Handler._get_artists(track)
-            tracks.append(Track(track["id"], track["name"], artists, track["popularity"], track["album"]["release_date"]))
+            tracks.append(Track(track["id"], track["name"], artists, track["album"]["release_date"], track["popularity"]))
         return tracks
 
     def list_of_tracks_from_album(json_data: dict, album: Album) -> list[Track]:
         tracks = []
         for track in json_data["items"]:
             artists = JSON_Handler._get_artists(track)
-            tracks.append(Track(track["id"], track["name"], artists, track["popularity"], album.release_date))
+            tracks.append(Track(track["id"], track["name"], artists, album.release_date))
         return tracks
 
     def list_of_playlists(json_data: dict) -> list[Playlist]:

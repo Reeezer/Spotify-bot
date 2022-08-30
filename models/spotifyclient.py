@@ -75,9 +75,9 @@ class SpotifyClient:
 
         return tracks
 
-    def get_album_tracks(self, album: Album, limit=50):
+    def get_album_tracks(self, album: Album):
         # Get all the tracks of an album
-        url = f"https://api.spotify.com/v1/albums/{album.id}/tracks?limit={limit}"
+        url = f"https://api.spotify.com/v1/albums/{album.id}/tracks"
 
         if album.type == "album":
             response = self._api_request(url, RequestType.GET)

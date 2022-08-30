@@ -6,7 +6,7 @@ from utils.helper import Helper
 class Track:
     """Track represents a piece of music."""
 
-    def __init__(self, id: str, name: str, artists: list[Artist], popularity: int, release_date: str, features: Features = None):
+    def __init__(self, id: str, name: str, artists: list[Artist], release_date: str, popularity: int=None, features: Features=None):
         self.id = id
         self.name = name
         self.artists = artists
