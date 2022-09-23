@@ -176,7 +176,7 @@ class SpotifyClient:
                 return playlist
 
         # Create a playlist
-        url = f"https://api.spotify.com/v1/users/{self._user_id}/playlists"
+        url = f"https://api.spotify.com/v1/me/playlists"
 
         data = json.dumps({"name": name, "description": description, "public": public})
         response = self._api_request(url, RequestType.POST, data)
