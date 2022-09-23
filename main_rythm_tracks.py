@@ -18,9 +18,12 @@ def playlist_from_tracks_rythm(spotify_client: SpotifyClient):
 
     # Gathering all the genres of the artists
     if is_main: print("Gathering all the genres of the artists... ", end="", flush=True)
+    artists_genres = {}
     for track in liked_tracks:
         for artist in track.artists:
-            artist.genres = spotify_client.get_artist_genres(artist)
+            if artist.id not in artists_genres:
+                artists_genres[artist.id] = spotify_client.get_artist_genres(artist)
+            artist.genres = artists_genres[artist.id]
     if is_main: print("Done")
 
     # Collect audio features for each track and put them in playlists
